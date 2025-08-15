@@ -1,0 +1,23 @@
+###############################################################################
+# Navigation structure
+# --------------------
+# Each entry in the `main` list appears as a link in the site’s masthead.
+# The order here is the order they will appear.  Add or remove items as you
+# please.  To link to an external site set `url` to the full URL and, if
+# desired, set `target: _blank` to open in a new tab.
+
+main:
+  - title: "Home"
+    url: "/"
+  - title: "Research"
+    url: "/research/"
+  - title: "Teaching"
+    url: "/teaching/"
+  - title: "Resources"
+    url: "/resources/"
+  # Extra button requested by user.  This links to a page describing the
+  # data analysis textbook co‑authored by Gábor Békés.  See `textbook.md`.
+  - title: "Textbook"
+    url: "/textbook/"
+  - title: "CV"
+    url: "/cv/"
