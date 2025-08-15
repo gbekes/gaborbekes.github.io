@@ -23,13 +23,15 @@ I am an Associate Professor at the [Department of Economics and Business](https:
 
 <div class="notice--info">
 
-- *Integrators and Robot Adoption: Facts from Hungary*, [GEN Workshop 2025](https://sites.google.com/site/petereppinger/gen-workshop)  — [download slides](/assets/pdf/bbcg_robots_gino_2025july.pdf){: .btn-small .btn--info .targetblank}
+- *Integrators and Robot Adoption: Facts from Hungary*, [GEN Workshop 2025](https://sites.google.com/site/petereppinger/gen-workshop)  — [download slides](/assets/pdf/BBCG-Jul2025-slides.pdf){: .btn-small .btn--info .targetblank}
+- *Integrators and Robot Adoption: Facts from Hungary*, [KRTK KTI Seminar, 2025-10-02](https://krtk.hun-ren.hu/esemeny/kti-szeminarium-bekes-gabor/)  — [download slides](/assets/pdf/BBCG-Jul2025-slides.pdf){: .btn-small .btn--info .targetblank}
+
 
 </div>
 
 ### Curriculum Vitae
 
-You can download my full CV [here](/assets/pdf/placeholder_cv.pdf){: .btn-small .btn--primary target="_blank"}.
+You can download my full CV [here](/assets/pdf/CV_BekesGabor.pdf){: .btn-small .btn--primary target="_blank"}.
 
 ### About me
 
