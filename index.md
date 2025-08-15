@@ -17,16 +17,14 @@ permalink: /
 
 I am an Associate Professor at the [Department of Economics and Business](https://economics.ceu.edu/) of Central European University and a senior research fellow at the [KRTK Institute of Economics](https://kti.krtk.hu/) in Hungary.  My research focuses on international economics, economic geography and applied industrial organisation.
 
-> *This site is under construction.*  If you're looking for my textbook co‑authored with Gábor Kézdi, please visit the [Textbook](/textbook/) page.
+> *This site is under construction.*  If you're looking for my textbook co‑authored with Gábor Kézdi, please visit the [Textbook](gabors-data-analysis.com) page.
 
 ### Current talks
 
 <div class="notice--info">
-Use this section to announce upcoming or recent talks.  For example:
 
-- *Data Analysis and Business Applications*, Workshop on Economics, November&nbsp;2025 — [download slides](/assets/pdf/example-slides.pdf){: .btn-small .btn--info .targetblank}
+- *Integrators and Robot Adoption: Facts from Hungary*, [GEN Workshop 2025](https://sites.google.com/site/petereppinger/gen-workshop)  — [download slides](/assets/pdf/bbcg_robots_gino_2025july.pdf){: .btn-small .btn--info .targetblank}
 
-Edit or remove this notice in `index.md` when you have information to share.
 </div>
 
 ### Curriculum Vitae
@@ -35,7 +33,6 @@ You can download my full CV [here](/assets/pdf/placeholder_cv.pdf){: .btn-small 
 
 ### About me
 
-Write a longer biography here.  You can start with the following paragraphs taken from my previous website:
 
 I received my Ph.D. degree in 2007 from the Central European University and an MSc in Economics from the London School of Economics.  My research is published in journals such as *Management Science*, *Global Strategy Journal*, *Journal of International Economics*, *Regional Science and Urban Economics* and *Economic Policy*.  I have contributed to projects at the European Commission and the European Central Bank.
 
