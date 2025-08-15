@@ -1,7 +1,9 @@
+---
 title: "Research"
 layout: single
 author_profile: true
 permalink: /research/
+---
 
 <!-- This page summarises my published research and ongoing projects. Entries are grouped into refereed journal articles, broader publications, books/chapters and work in progress. Wherever possible, I include Digital Object Identifiers (DOIs) or stable links so that readers can easily access the published version. Links marked with a DOI prefix point directly to the journal page via https://doi.org. -->
 
