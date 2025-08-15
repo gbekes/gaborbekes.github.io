@@ -2,8 +2,7 @@
 # Basic site settings
 # --------------------
 # This file configures your Jekyll site.  See the Minimal Mistakes documentation
-# for full details.  Values below mirror many of the defaults used on
-# https://fedor.iskh.me/, with modifications for your own details.
+# for full details.  
 
 title: "Gábor Békés"
 description: >-
@@ -25,7 +24,7 @@ repository: "gbekes/gbekes.github.io"
 # These fields populate the author sidebar and are used by search engines.
 author:
   name: "Gábor Békés"
-  avatar: "/assets/images/profile.jpg"     # path to your profile image
+  avatar: "/assets/images/profile.png"     # path to your profile image
   bio: >-
     Associate Professor at the Department of Economics and Business,
     Central European University, and Senior Research Fellow at the KRTK
