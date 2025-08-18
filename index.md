@@ -17,18 +17,20 @@ permalink: /
 
 I am an Associate Professor at the [Department of Economics and Business](https://economics.ceu.edu/) of Central European University and a senior research fellow at the [KRTK Institute of Economics](https://kti.krtk.hu/) in Hungary.  
 
-> *This site is under construction.*  If you're looking for my textbook co‑authored with Gábor Kézdi, please visit the [Textbook](gabors-data-analysis.com) page.
+> *This site is under construction.*  If you're looking for my textbook co‑authored with Gábor Kézdi, please visit the [Textbook](https://gabors-data-analysis.com) page.
+### Current talks
 
 ### Current talks
 
 <div class="notice--info">
 
 - *Integrators and Robot Adoption: Facts from Hungary*, [GEN Workshop 2025](https://sites.google.com/site/petereppinger/gen-workshop)   
-  - [download slides](/assets/pdf/BBCG-Jul2025-slides.pdf){: .btn-small .btn--info .targetblank}
+  - [download slides](/assets/pdf/BBCG-Jul2025-slides.pdf){: .btn .btn--small .btn--info target="_blank"}
 - *Integrators and Robot Adoption: Facts from Hungary*, [KRTK KTI Seminar, 2025-10-02](https://krtk.hun-ren.hu/esemeny/kti-szeminarium-bekes-gabor/)  
-  — [download slides](/assets/pdf/BBCG-Jul2025-slides.pdf){: .btn-small .btn--info .targetblank}
+  — [download slides](/assets/pdf/BBCG-Jul2025-slides.pdf){: .btn .btn--small .btn--info target="_blank"}
 
 </div>
+
 
 ### Curriculum Vitae
 
