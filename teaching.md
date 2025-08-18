@@ -1,7 +1,7 @@
 ---
 title: "Teaching"
 layout: single
-author_profile: true
+author_profile: false
 permalink: /teaching/
 ---
 
@@ -13,18 +13,23 @@ permalink: /teaching/
   highlight important information with call‑out blocks.
 -->
 
-### Courses taught
-
-*Coming soon.*  List the courses you teach.  For each course provide a brief
-description, the semester/year you taught it and a link to course materials or
-syllabus.  For example:
+## Textbook
 
 *Data Analysis for Business, Economics and Policy* – a hands‑on course on data
 analysis using R and Stata, taught at Central European University and supported
 by the textbook [Data Analysis for Business, Economics and Policy](/textbook/).
 
-### Teaching materials
 
-*Coming soon.*  Provide links to lecture slides, problem sets, datasets or
-code examples.  The theme’s button styles (`{: .btn .btn--primary}`) draw
-attention to downloads.
+## Courses taught
+
+* Data Analaysis 1 (chapters 01 to 06 of Békés-Kézdi) -- graduate level (applied MA/MS)
+* Data Analaysis 2 (chapters 07 to 12 of Békés-Kézdi) -- graduate level (applied MA/MS)
+* Data Analaysis 3 (chapters 13 to 18 of Békés-Kézdi) -- graduate level (MA/PHD)
+* Data Analaysis 4 (chapters 19 to 24 of Békés-Kézdi) -- graduate level (applied MA/MS)
+
+* Applied Economics with Sports Data (Phd/Research MA)
+
+* Data Analysis with AI 1 (BA/MA)
+* Data Analysis with AI 2 (MA/PHD)
+
+
