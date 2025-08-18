@@ -1,10 +1,8 @@
 ---
 title: "Cultural Homophily and Collaboration -- Non technical summary"
-layout: single
+layout: wide
 author_profile: false
 permalink: /mansci-ntsummary/
-redirect_from:
-  - /mansci-ntsummary.html
 ---
 
 ## Cultural Homophily and Collaboration in Superstar Teams -- Non technical summary

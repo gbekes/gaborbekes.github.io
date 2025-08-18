@@ -28,9 +28,7 @@ author:
   bio: >-
     Associate Professor at the Department of Economics and Business,
     Central European University, and Senior Research Fellow at the KRTK
-    Institute of Economics. My research focuses on international economics,
-    economic geography and applied industrial organisation.  
-    Feel free to explore my work, courses and resources using the links above.
+    Institute of Economics.
   location: "Vienna, Austria / Budapest, Hungary"
   links:
     - label: "Email"
@@ -44,19 +42,22 @@ author:
       url: "https://kti.krtk.hu/"
     - label: "CEPR"
       icon: "fas fa-fw fa-network-wired"
-      url: "https://cepr.org/"
+      url: "https://cepr.org/about/people/gabor-bekes"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
-      url: "https://scholar.google.com/"   # update with your own profile URL
+      url: "https://scholar.google.hu/citations?user=Yk5xy7EAAAAJ&hl=hu"  
     - label: "ORCID"
       icon: "fas fa-fw fa-address-card"
-      url: "https://orcid.org/"            # update with your own profile URL
+      url: "https://orcid.org/0000-0002-6331-4408"            
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/gbekes"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter"
-      url: "https://twitter.com/gaborbekes"
+    - label: "X"
+      icon: "fab fa-fw fa-x"
+      url: "https://x.com/gaborbekes"
+    - label: "BlueSky"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/gaborbekes.bsky.social"
 
 ###############################################################################
 # Theme settings
@@ -69,7 +70,7 @@ remote_theme: "mmistakes/minimal-mistakes@4.27.3"
 # Choose a skin to control colours.  Options include "default", "air", "aqua",
 # "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise".  See docs for
 # examples.  Feel free to experiment.
-minimal_mistakes_skin: "default"
+minimal_mistakes_skin: "air"
 
 # Enable built‑in search powered by Lunr.js.  This adds the search box to the
 # masthead and creates a searchable index of your pages and posts.
@@ -92,7 +93,7 @@ defaults:
       type: "pages"
     values:
       layout: "single"
-      author_profile: true
+      author_profile: false
       classes: "wide"
 
 ###############################################################################

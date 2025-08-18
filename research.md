@@ -15,7 +15,9 @@ permalink: /research/
 * **DOI**: [10.1287/mnsc.2022.01799](https://doi.org/10.1287/mnsc.2022.01799)
 * **Link**: https://pubsonline.informs.org/doi/10.1287/mnsc.2022.01799
 * Also: CEPR Discussion Paper #17618, CEP DP
-* [Non-technical summary](/mansci-ntsummary)
+* [Non-technical summary](/_pages/mansci-ntsummary.md)
+* [Non-technical summary 2](/mansci-ntsummary/)
+
 * Media: [Boston Globe](https://www.bostonglobe.com/2025/02/03/opinion/social-studies-economics-immigration-deportation-subtle-biases-sports/), [Der Standard (AT)](https://www.derstandard.at/story/3000000264636/die-versteckten-muster-menschlichen-verhaltens-im-fussball), [Management Science Blog](https://www.linkedin.com/feed/update/urn:li:activity:7316814873185701888/), [Management Research Podcast in german](https://podcasts.apple.com/at/podcast/gleich-und-gleich-gesellt-sich-gern-aber-wieviel-silobildung/id1706522611?i=1000701676874)
 
 ## **Favoritism under Multiple Sources of Social Pressure** (with *Marton Fleck and Endre Borza*)
