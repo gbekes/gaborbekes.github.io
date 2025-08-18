@@ -1,11 +1,13 @@
 ---
-title: "Research"
+title: "Cultural Homophily and Collaboration -- Non technical summary"
 layout: single
 author_profile: false
-permalink: /pages/mansci-ntsummary/
+permalink: /mansci-ntsummary/
+redirect_from:
+  - /mansci-ntsummary.html
 ---
 
-# Cultural Homophily and Collaboration in Superstar Teams -- Non technical summary
+## Cultural Homophily and Collaboration in Superstar Teams -- Non technical summary
 
 
 Ever wonder if top professionals naturally work better with those from similar cultural backgrounds? Our research investigated this question by analyzing an extraordinary dataset: every pass made by professional football (soccer) players in Europe's top five men's leagues over eight seasons.
