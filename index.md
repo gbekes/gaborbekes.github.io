@@ -17,8 +17,8 @@ permalink: /
 
 I am an Associate Professor at the [Department of Economics and Business](https://economics.ceu.edu/) of Central European University and a senior research fellow at the [KRTK Institute of Economics](https://kti.krtk.hu/) in Hungary.  
 
-> *This site is under construction.*  If you're looking for my textbook co‑authored with Gábor Kézdi, please visit the [Textbook](https://gabors-data-analysis.com) page.
-### Current talks
+> *If you're looking for my textbook co‑authored with Gábor Kézdi, please visit the [Textbook](https://gabors-data-analysis.com) page.*
+
 
 ### Current talks
 
