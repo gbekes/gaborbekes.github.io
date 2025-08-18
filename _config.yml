@@ -18,6 +18,21 @@ baseurl: ""                     # leave blank to serve at the root of the domain
 # Minimal Mistakes theme and by GitHub.
 repository: "gbekes/gbekes.github.io"
 
+# pages
+include:
+  - .htaccess
+  - _pages
+  - files
+
+
+# Analytics
+analytics:
+  provider               : "google-gtag" # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id          : G-QZ5R39VPJL
+    anonymize_ip         : false # false (default)
+
+
 ###############################################################################
 # Author settings
 # ---------------
@@ -112,5 +127,3 @@ markdown: kramdown
 # Navigation items are defined in `_data/navigation.yml`.  See that file for
 # details.  Leaving this section blank here defers to the data file.
 
-include:
-  - _pages
