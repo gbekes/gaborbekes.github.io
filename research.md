@@ -12,8 +12,7 @@ permalink: /research/
 
 ## **Cultural Homophily and Collaboration in Superstar Teams** (with *Gianmarco I.P Ottaviano*) 
 * **Management Science** (Published online: January 20, 2025)
-* **DOI**: [10.1287/mnsc.2022.01799](https://doi.org/10.1287/mnsc.2022.01799)
-* **Link**: https://pubsonline.informs.org/doi/10.1287/mnsc.2022.01799
+* **[DOI](https://doi.org/10.1287/mnsc.2022.01799)**
 * Also: CEPR Discussion Paper #17618, CEP DP
 * [Non-technical summary](/mansci-ntsummary/)
 
