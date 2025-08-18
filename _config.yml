@@ -111,3 +111,6 @@ markdown: kramdown
 # ----------
 # Navigation items are defined in `_data/navigation.yml`.  See that file for
 # details.  Leaving this section blank here defers to the data file.
+
+include:
+  - _pages
