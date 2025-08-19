@@ -2,8 +2,10 @@
 # Jekyll/Sass front matter (must stay)
 ---
 
+/*
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin }}"; // keep your chosen skin
 @import "minimal-mistakes"; // load MM defaults
+*/
 
 /*--------------------------------------------------
   Viridis color palette
@@ -27,8 +29,8 @@ $link-color: $viridis-blue;
 --------------------------------------------------*/
 body {
   font-family: "Lora", serif;   // clean serif for body text
-  font-size: 14px;              // slightly larger base font
-  line-height: 1.4;
+  font-size: 12px;              // smaller base font
+  line-height: 1.2;
   color: #222;
 }
 
