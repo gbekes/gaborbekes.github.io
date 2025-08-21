@@ -1,9 +1,8 @@
-
 ---
 title: "Popular press, interviews"
 layout: single               
 classes: wide                
-author_profile: false
+author_profile: true
 permalink: /popular-press/
 ---
 
@@ -27,6 +26,7 @@ permalink: /popular-press/
 | [Tényleg elcsalták a magyar GDP-t?](https://index.hu/gazdasag/2017/03/03/gdp_kulkereskedelem_tukorstatisztika_maximilian_gebhardt/) | Index | 2017-05-09 (approx.) | Hungarian |
 | [Miért vannak lengyel buszok Budapesten, és nem fordítva?](https://index.hu/gazdasag/2016/04/28/ezert_vannak_lengyel_buszok_budapesten_es_nem_magyar_buszok_a_lengyeleknel/) | Index | 2016-04-28 | Hungarian |
 | [Kiteregetjük mindenünket, amink csak van](https://index.hu/tudomany/2013/09/10/nagyobb_az_adat/) | Index (Science) | 2013-09-10 | Hungarian |
+| [A magyar cégek egymástól lesik el az ötleteket, és ezzel egész Magyarország jól jár](https://www.portfolio.hu/krtk/20210905/a-magyar-cegek-egymastol-lesik-el-az-otleteket-es-ezzel-egesz-magyarorszag-jol-jar-498918)                | Portfolio (KRTK blog) | 2021-09-05 | Hungarian |
 
 
 ## English, Deutsch, French
@@ -43,6 +43,7 @@ permalink: /popular-press/
 
 | Title / Description | Source | Date | Language |
 |----------------------|--------|------|----------|
+| [Előbb lett világsiker, de most idehaza is megjelenik egy magyar gazdasági tankönyv](https://www.portfolio.hu/gazdasag/20240515/elobb-lett-vilagsiker-de-most-idehaza-is-megjelenik-egy-magyar-gazdasagi-tankonyv-686139)              | Portfolio             | 2024-05-15 | Hungarian |
 | [Napi egy-két stampedli helyett meg kellene ölelnünk egymást](https://telex.hu/video/2025/05/21/schwab-richard-belgyogyasz-bekes-gabor-kozgazdasz-tudomany-kutatas-egeszsegugy-video-interju) | Telex | 2025-05-20 | Hungarian |
 | [Store Insider: Magyar kutatók nemzetközi slágerkönyve az adatelemzésről](https://storeinsider.hu/cikk/magyar-kutatok-nemzetkozi-slagerkonyve-az-adatelemzesrol) | Store Insider | 2024-05-22 | Hungarian |
 | [Prospero Könyvpiaci Podcast: Interjú Békés Gáborral](https://www.youtube.com/watch) | Prospero Podcast / YouTube | 2023-12-19 | Hungarian |
@@ -56,3 +57,13 @@ permalink: /popular-press/
 | [Interview with Gábor Békés (The Mixtape Podcast, S2E26)](https://kti.krtk.hu/en/news/news-2/interview-with-gabor-bekes-international-economist-and-author-at-ceu/) | KTI / The Mixtape | 2023-08-17 | English |
 | [Mike Fallat presents: Gábor Békés – Author of *Data Analysis for Business, Economics, and Policy*](https://blog.milliondollarbookagency.com/gabor-bekes-author-of-data-analysis-for-business-economics-and-policy/) | Million Dollar Book Agency | 2025-01-20 (approx.) | English |
 | [Why a ‘tough legal crowd’ needs a hard sell](https://www.ft.com/content/8444096b-d7fd-42b9-b7f2-b5094a26fcc9) | Financial Times | 2022-10-13 | English |
+
+
+
+## Other / egyéb
+
+| Title / Description | Source | Date | Language |
+|----------------------|--------|------|----------|
+| [Eb 2024: itt egy rossz hír a magyar válogatott továbbjutási esélyeiről](https://www.portfolio.hu/gazdasag/20240626/eb-2024-itt-egy-rossz-hir-a-magyar-valogatott-tovabbjutasi-eselyeirol-694857)                                      | Portfolio             | 2024-06-26 | Hungarian |
+| [Ennyivel nőtt Magyarország esélye hétfő este, hogy továbbjusson a foci-Eb-n](https://www.portfolio.hu/gazdasag/20240625/ennyivel-nott-magyarorszag-eselye-hetfo-este-hogy-tovabbjusson-a-foci-eb-n-694517)                            | Portfolio             | 2024-06-25 | Hungarian |
+| [Kiszámolta a ChatGPT-vel egy magyar közgazdász, mekkora eséllyel jutunk tovább a foci-Eb-n](https://www.portfolio.hu/uzlet/20240624/kiszamolta-a-chatgpt-vel-egy-magyar-kozgazdasz-mekkora-esellyel-jutunk-tovabb-a-foci-eb-n-694351) | Portfolio             | 2024-06-24 | Hungarian |
