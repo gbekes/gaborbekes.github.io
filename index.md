@@ -20,6 +20,10 @@ I am an Associate Professor at the [Department of Economics and Business](https:
 > *If you're looking for my textbook co‑authored with Gábor Kézdi, please visit the [Textbook](https://gabors-data-analysis.com) page.*
 
 
+### Interviews, media
+
+Find [interviews, popular media reports here](/popular-press/) 
+
 ### Current talks
 
 - *Integrators and Robot Adoption: Facts from Hungary*, [GEN Workshop 2025](https://sites.google.com/site/petereppinger/gen-workshop)   

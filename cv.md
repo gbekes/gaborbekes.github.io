@@ -19,6 +19,11 @@ You can download my full CV as a PDF:
 
 - [Curriculum Vitae](/assets/pdf/CV_BekesGabor.pdf){: .btn .btn--primary target="_blank"}
 
+### Interviews, media
+
+Find [interviews, popular media reports here](/popular-press/) 
+
+
 ### Summary
 
 I am an associate professor at the Department of Economics and Business of the Central European University in Austria, and a senior research fellow at the KRTK Institute of Economics in Hungary. I am a research affiliate at CEPR. I received my Ph.D. degree in 2007 from the Central European University and an MSc in Economics from the London School of Economics. My research is focused on international economics; economic geography and applied IO, and was published among others by the Global Strategy Journal, Journal of International Economics, Regional Science and Urban Economics or Economic Policy and have authored blogs and commentary on VOXEU.org and other outlets. I worked in several projects of European Commission and the ECB. At CEU I teach a sequence of Data Analysis courses. With Gábor Kézdi, we wrote a new comprehensive textbook "Data Analysis for Business, Economics, and Policy) for Cambridge University Press, published in May 2021. 
