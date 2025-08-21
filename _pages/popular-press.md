@@ -27,6 +27,15 @@ permalink: /popular-press/
 | [Miért vannak lengyel buszok Budapesten, és nem fordítva?](https://index.hu/gazdasag/2016/04/28/ezert_vannak_lengyel_buszok_budapesten_es_nem_magyar_buszok_a_lengyeleknel/) | Index | 2016-04-28 | Hungarian |
 | [Kiteregetjük mindenünket, amink csak van](https://index.hu/tudomany/2013/09/10/nagyobb_az_adat/) | Index (Science) | 2013-09-10 | Hungarian |
 | [A magyar cégek egymástól lesik el az ötleteket, és ezzel egész Magyarország jól jár](https://www.portfolio.hu/krtk/20210905/a-magyar-cegek-egymastol-lesik-el-az-otleteket-es-ezzel-egesz-magyarorszag-jol-jar-498918)                | Portfolio (KRTK blog) | 2021-09-05 | Hungarian |
+| 2015 | 2015-10-16 | Magyar Hírlap           | Article       | [Fontos szerep jut a beszállítóknak](https://www.magyarhirlap.hu/gazdasag/Fontos_szerep_jut_a_beszallitoknak)                                                                                     | HU   |
+| 2015 | 2015-08-03 | Index (Defacto)         | Article       | [Nem könnyű eltávolodni a Nyugattól](https://index.hu/gazdasag/defacto/2015/08/03/nem_konnyu_eltavolodni_a_nyugattol/)                                                                            | HU   |
+| 2015 | 2015-06    | Figyelő / PDF           | Article       | [Keleti nyitás – A méret számít (pdf)](https://www.dropbox.com/s/pv4r7pje3xhjgad/0707_2015_Bekes-Murakozy_Ameretszamit.pdf?dl=0)                                                                  | HU   |
+| 2015 | 2015-06    | MGYOSZ–Figyelő Klub     | Talk (slides) | [Keleti nyitás – előadás (pptx)](https://www.dropbox.com/s/8hrom57ll0kuliw/Bekes_2015junius_keleti_nyitas_MGYOSZ.pptx?dl=0)                                                                       | HU   |
+| 2014 | 2014-11-05 | Portfolio (Export 2014) | Talk          | [Növekvő vállalatok, külkereskedelem és innováció (program)](https://www.portfolio.hu/rendezvenyek/konferencia-gazdasag/portfolio_export_2014/382/attekintes)                                     | HU   |
+| 2014 | 2014-05-13 | Portfolio CEE PE & CF   | Talk          | [Is fast company growth predictable from statistical data?](https://www.portfolio.hu/en/events/conference-economy/portfolio_cee_private_equity_and_corporate_finance_conference_2014/350/program) | EN   |
+| 2014 | 2014-05-27 | Privátbankár            | Report        | [Így függ össze a gazdasági fejlődésünk és a gay pride](https://privatbankar.hu/cikkek/kkv/igy-fugg-ossze-a-gazdasagi-fejlodesunk-es-a-gay-pride-269181.html)                                     | HU   |
+| 2013 | 2013-10-11 | Portfolio               | Interview     | [Konténerhajó, diószedés, startup – Újításból lesz növekedés](https://www.portfolio.hu/gazdasag/20131011/kontenerhajo-dioszedes-startup-ujitasbol-lesz-novekedes-190340)                          | HU   |
+| 2013 | 2013-05-07 | Index                   | Report        | [Nemzetgazdaságban gondolkodni hiba](https://index.hu/gazdasag/2013/05/07/kulkeres/)                                                                                                              | HU   |
 
 
 ## English, Deutsch, French
@@ -67,3 +76,6 @@ permalink: /popular-press/
 | [Eb 2024: itt egy rossz hír a magyar válogatott továbbjutási esélyeiről](https://www.portfolio.hu/gazdasag/20240626/eb-2024-itt-egy-rossz-hir-a-magyar-valogatott-tovabbjutasi-eselyeirol-694857)                                      | Portfolio             | 2024-06-26 | Hungarian |
 | [Ennyivel nőtt Magyarország esélye hétfő este, hogy továbbjusson a foci-Eb-n](https://www.portfolio.hu/gazdasag/20240625/ennyivel-nott-magyarorszag-eselye-hetfo-este-hogy-tovabbjusson-a-foci-eb-n-694517)                            | Portfolio             | 2024-06-25 | Hungarian |
 | [Kiszámolta a ChatGPT-vel egy magyar közgazdász, mekkora eséllyel jutunk tovább a foci-Eb-n](https://www.portfolio.hu/uzlet/20240624/kiszamolta-a-chatgpt-vel-egy-magyar-kozgazdasz-mekkora-esellyel-jutunk-tovabb-a-foci-eb-n-694351) | Portfolio             | 2024-06-24 | Hungarian |
+
+
+
