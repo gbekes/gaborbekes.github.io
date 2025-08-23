@@ -2,99 +2,455 @@
 # Jekyll/Sass front matter (must stay)
 ---
 
-/*
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin }}"; // keep your chosen skin
-@import "minimal-mistakes"; // load MM defaults
-*/
+// Import Google Fonts (adding Playfair Display for Wes Anderson style)
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Lora:wght@300;400;600&family=Source+Sans+Pro:wght@300;400;600&display=swap');
 
-/*--------------------------------------------------
-  Viridis color palette
---------------------------------------------------*/
-$viridis-dark:   #440154;
-$viridis-purple: #481567;
-$viridis-blue:   #3b528b;
-$viridis-teal:   #21918c;
-$viridis-green:  #5dc863;
-$viridis-yellow: #fde725;
+// Import Minimal Mistakes
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'air' }}";
+@import "minimal-mistakes";
 
-/*--------------------------------------------------
-  Bootstrap overrides
---------------------------------------------------*/
-$primary:   $viridis-blue;
-$secondary: $viridis-teal;
-$link-color: $viridis-blue;
+// Wes Anderson Color Palette (Grand Budapest Hotel inspired)
+:root {
+  --wes-cream: #F7F3E9;
+  --wes-coral: #D63384;
+  --wes-mint: #20C997;
+  --wes-yellow: #FFC107;
+  --wes-navy: #2C3E50;
+  --wes-gray: #ADB5BD;
+  --wes-light-coral: rgba(214, 51, 132, 0.1);
+  --wes-shadow: rgba(44, 62, 80, 0.15);
+  --wes-light-mint: rgba(32, 201, 151, 0.1);
+}
 
-/*--------------------------------------------------
-  Typography
---------------------------------------------------*/
+// Override Minimal Mistakes variables for Wes Anderson theme
+$background-color: var(--wes-cream) !default;
+$text-color: var(--wes-navy) !default;
+$primary-color: var(--wes-coral) !default;
+$link-color: var(--wes-coral) !default;
+$link-color-hover: var(--wes-mint) !default;
+
+// Typography Updates
 body {
-  font-family: "Lora", serif;   // clean serif for body text
-  font-size: 12px;              // smaller base font
-  line-height: 1.2;
-  color: #222;
+  font-family: 'Lora', serif;
+  background: var(--wes-cream);
+  color: var(--wes-navy);
+  font-size: 16px;
+  line-height: 1.6;
 }
 
-h1, h2, h3, h4 {
-  font-family: "Roboto", sans-serif;  // modern sans for headings
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Playfair Display', serif;
+  text-align: center;
+  position: relative;
+  color: var(--wes-coral);
+  
+  &::after {
+    content: '';
+    width: 60px;
+    height: 2px;
+    background: var(--wes-coral);
+    display: block;
+    margin: 0.5rem auto;
+  }
+}
+
+// Header and Navigation Styling
+.masthead {
+  background: var(--wes-cream);
+  border-bottom: 3px solid var(--wes-coral);
+  box-shadow: 0 2px 10px var(--wes-shadow);
+  
+  .site-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 2rem;
+    font-weight: 700;
+    color: var(--wes-coral);
+    text-decoration: none;
+    
+    &:hover {
+      color: var(--wes-mint);
+    }
+  }
+}
+
+.greedy-nav {
+  a {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    padding: 0.5rem 1rem;
+    margin: 0 0.25rem;
+    border-radius: 20px;
+    background: var(--wes-light-coral);
+    color: var(--wes-navy);
+    transition: all 0.3s ease;
+    border: 2px solid transparent;
+    
+    &:hover, &.current {
+      background: var(--wes-coral);
+      color: white;
+      transform: translateY(-2px);
+      border-color: var(--wes-coral);
+    }
+  }
+  
+  .nav-items {
+    background: transparent;
+  }
+}
+
+// Main Content Styling
+.page {
+  background: white;
+  box-shadow: 0 0 30px var(--wes-shadow);
+  border-radius: 8px;
+  position: relative;
+  border: 2px solid var(--wes-coral);
+  
+  // Film strip borders
+  &::before,
+  &::after {
+    content: '';
+    position: absolute;
+    left: -8px;
+    right: -8px;
+    height: 8px;
+    background: repeating-linear-gradient(
+      90deg,
+      var(--wes-navy) 0px,
+      var(--wes-navy) 15px,
+      transparent 15px,
+      transparent 25px
+    );
+  }
+  
+  &::before {
+    top: -8px;
+  }
+  
+  &::after {
+    bottom: -8px;
+  }
+}
+
+// Content Cards for sections
+.content-section {
+  background: white;
+  border: 2px solid var(--wes-coral);
+  border-radius: 8px;
+  padding: 2rem;
+  margin: 2rem 0;
+  position: relative;
+  box-shadow: 0 4px 15px var(--wes-shadow);
+  
+  &:nth-child(even) {
+    border-color: var(--wes-mint);
+    
+    h2, h3 {
+      color: var(--wes-mint);
+      
+      &::after {
+        background: var(--wes-mint);
+      }
+    }
+    
+    &::before {
+      background: var(--wes-mint);
+    }
+  }
+  
+  &::before {
+    content: '';
+    position: absolute;
+    top: -2px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 40px;
+    height: 4px;
+    background: var(--wes-coral);
+    border-radius: 2px;
+  }
+}
+
+// Author Profile Styling
+.sidebar .author__avatar img {
+  border: 4px solid var(--wes-coral);
+  border-radius: 12px;
+  box-shadow: 0 4px 15px var(--wes-shadow);
+}
+
+.author__content .author__name {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.5rem;
+  color: var(--wes-coral);
+}
+
+.author__bio {
+  font-style: italic;
+  color: var(--wes-navy);
+}
+
+.author__urls-wrapper .author__urls {
+  background: var(--wes-light-coral);
+  border: 2px solid var(--wes-coral);
+  border-radius: 8px;
+  
+  li a {
+    color: var(--wes-navy);
+    transition: color 0.3s ease;
+    
+    &:hover {
+      color: var(--wes-coral);
+    }
+  }
+}
+
+// Button Styling
+.btn {
+  font-family: 'Source Sans Pro', sans-serif;
   font-weight: 600;
-  color: $viridis-dark;
-}
-
-/*--------------------------------------------------
-  Custom sections (from your course)
---------------------------------------------------*/
-.hero-section {
-  background: linear-gradient(135deg, $viridis-dark 0%, $viridis-blue 100%);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  padding: 0.75rem 1.5rem;
+  border-radius: 25px;
+  border: 2px solid var(--wes-coral);
+  background: var(--wes-coral);
   color: white;
-  padding: 3rem 0;
-  margin-bottom: 2rem;
-}
-
-.hero-title {
-  font-size: 2.5rem;
-  font-weight: 300;
-  margin-bottom: 1rem;
-}
-
-.hero-subtitle {
-  font-size: 1.2rem;
-  opacity: 0.9;
-}
-
-.week-card {
-  border: none;
-  border-left: 4px solid $viridis-teal;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-  margin-bottom: 1.5rem;
-  transition: all 0.2s ease;
-}
-
-.week-card:hover {
-  box-shadow: 0 4px 8px rgba(0,0,0,0.15);
-  transform: translateY(-2px);
-}
-
-.slideshow-link {
-  background: $viridis-purple;
-  color: white;
-  padding: 0.5rem 1rem;
-  border-radius: 0.25rem;
   text-decoration: none;
   display: inline-block;
-  margin: 0.5rem 0;
+  transition: all 0.3s ease;
+  
+  &:hover {
+    background: transparent;
+    color: var(--wes-coral);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 15px rgba(214, 51, 132, 0.3);
+  }
+  
+  &.btn--primary {
+    background: var(--wes-coral);
+    border-color: var(--wes-coral);
+  }
+  
+  &.btn--info {
+    background: var(--wes-mint);
+    border-color: var(--wes-mint);
+    
+    &:hover {
+      background: transparent;
+      color: var(--wes-mint);
+      box-shadow: 0 4px 15px rgba(32, 201, 151, 0.3);
+    }
+  }
+  
+  &.btn--small {
+    padding: 0.5rem 1rem;
+    font-size: 0.875rem;
+  }
 }
 
-.slideshow-link:hover {
-  background: darken($viridis-purple, 10%);
-  color: white;
-  text-decoration: none;
+// Publications and Research Styling
+.research-publication {
+  background: var(--wes-light-coral);
+  border-left: 4px solid var(--wes-coral);
+  padding: 1.5rem;
+  margin: 2rem 0;
+  border-radius: 0 8px 8px 0;
+  position: relative;
+  
+  &:nth-child(even) {
+    background: var(--wes-light-mint);
+    border-left-color: var(--wes-mint);
+  }
+  
+  h3 {
+    text-align: left;
+    margin-bottom: 1rem;
+    
+    &::after {
+      display: none;
+    }
+  }
+  
+  .journal {
+    font-weight: 600;
+    color: var(--wes-coral);
+  }
+  
+  .links {
+    margin-top: 1rem;
+    
+    a {
+      margin-right: 1rem;
+      margin-bottom: 0.5rem;
+    }
+  }
 }
 
-.assignment-badge {
-  background: $viridis-green;
-  color: white;
-  padding: 0.25rem 0.5rem;
-  border-radius: 0.25rem;
-  font-size: 0.875rem;
-  text-decoration: none;
+// Teaching and Course Styling
+.course-list {
+  list-style: none;
+  padding: 0;
+  
+  li {
+    background: var(--wes-light-coral);
+    border-left: 4px solid var(--wes-coral);
+    padding: 1rem 1.5rem;
+    margin: 1rem 0;
+    border-radius: 0 8px 8px 0;
+    position: relative;
+    
+    &::before {
+      content: '📚';
+      position: absolute;
+      left: -12px;
+      top: 50%;
+      transform: translateY(-50%);
+      background: var(--wes-coral);
+      width: 24px;
+      height: 24px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 12px;
+    }
+    
+    strong {
+      color: var(--wes-coral);
+    }
+  }
+}
+
+// Talks and Events List
+.talks-list {
+  list-style: none;
+  padding: 0;
+  
+  li {
+    background: var(--wes-light-coral);
+    border-left: 4px solid var(--wes-coral);
+    padding: 1rem 1.5rem;
+    margin: 1rem 0;
+    border-radius: 0 8px 8px 0;
+    position: relative;
+    
+    &::before {
+      content: '🎯';
+      position: absolute;
+      left: -12px;
+      top: 50%;
+      transform: translateY(-50%);
+      background: var(--wes-coral);
+      width: 24px;
+      height: 24px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 12px;
+    }
+    
+    strong {
+      color: var(--wes-coral);
+    }
+    
+    a {
+      color: var(--wes-mint);
+      font-weight: 600;
+    }
+  }
+}
+
+// Tables Styling
+table {
+  border-collapse: collapse;
+  border: 2px solid var(--wes-coral);
+  margin: 2rem 0;
+  
+  th {
+    background: var(--wes-coral);
+    color: white;
+    padding: 1rem;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+  
+  td {
+    padding: 1rem;
+    border-bottom: 1px solid var(--wes-gray);
+    
+    &:first-child {
+      font-weight: 600;
+      color: var(--wes-coral);
+    }
+  }
+  
+  tr:nth-child(even) {
+    background: var(--wes-light-coral);
+  }
+}
+
+// Footer Styling
+.page__footer {
+  background: var(--wes-navy);
+  color: var(--wes-cream);
+  text-align: center;
+  padding: 2rem 0;
+  margin-top: 3rem;
+  
+  .social-icons {
+    margin: 1rem 0;
+    
+    a {
+      color: var(--wes-cream);
+      font-size: 1.5rem;
+      margin: 0 1rem;
+      transition: color 0.3s ease;
+      
+      &:hover {
+        color: var(--wes-coral);
+      }
+    }
+  }
+}
+
+// Responsive Design
+@media (max-width: 768px) {
+  h1 {
+    font-size: 2rem;
+  }
+  
+  .page {
+    margin: 1rem;
+    
+    &::before,
+    &::after {
+      left: -4px;
+      right: -4px;
+      height: 6px;
+    }
+    
+    &::before {
+      top: -6px;
+    }
+    
+    &::after {
+      bottom: -6px;
+    }
+  }
+  
+  .content-section {
+    padding: 1.5rem;
+    margin: 1rem 0;
+  }
+  
+  .greedy-nav a {
+    padding: 0.4rem 0.8rem;
+    margin: 0 0.1rem;
+    font-size: 0.875rem;
+  }
 }
