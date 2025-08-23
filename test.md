@@ -7,7 +7,7 @@ permalink: /
 ---
 
 <div style="text-align: center; margin: 3rem 0; padding: 4rem 2rem; background: linear-gradient(135deg, var(--wes-coral) 0%, var(--wes-mint) 100%); color: white;">
-  <div class="since-style" style="color: rgba(255,255,255,0.8); margin-bottom: 1rem;">SINCE 2007</div>
+  <div class="since-style" style="color: rgba(255,255,255,0.8); margin-bottom: 1rem;"></div>
   <h1 style="color: white; margin-bottom: 0.5rem;">GÁBOR BÉKÉS</h1>
   <div style="font-family: 'Oswald', sans-serif; font-size: 1.2rem; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 1rem; color: rgba(255,255,255,0.9);">VIENNA • BUDAPEST</div>
   <div style="font-family: 'Roboto Condensed', sans-serif; font-size: 1rem; text-transform: uppercase; letter-spacing: 2px; color: rgba(255,255,255,0.8);">ECONOMICS & DATA ANALYSIS</div>
