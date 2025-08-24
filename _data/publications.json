@@ -1,0 +1,378 @@
+{
+  "refereed_journals": [
+    {
+      "id": "cultural_homophily",
+      "title": "Cultural Homophily and Collaboration in Superstar Teams",
+      "authors": ["Gianmarco I.P Ottaviano"],
+      "journal": {
+        "name": "Management Science",
+        "url": "https://doi.org/10.1287/mnsc.2022.01799",
+        "details": "Published online: January 20, 2025",
+        "color": "mint"
+      },
+      "abstract": {
+        "preview": "One may reasonably think that cultural homophily, defined as the tendency to associate with others of similar culture, affects collaboration in multinational teams in general but not in superstar teams of professionals at the top of their industry. The analysis of an exhaustive data set on the passes made by professional European football players in the top five men's leagues reveals that on the contrary, cultural homophily is persistent, pervasive, and consequential, even in superstar multinational teams of very-high-skill individuals with clear common objectives and aligned incentives who are involved in interactive tasks that are well defined and not particularly culture intensive.",
+        "full": "One may reasonably think that cultural homophily, defined as the tendency to associate with others of similar culture, affects collaboration in multinational teams in general but not in superstar teams of professionals at the top of their industry. The analysis of an exhaustive data set on the passes made by professional European football players in the top five men’s leagues reveals that on the contrary, cultural homophily is persistent, pervasive, and consequential, even in superstar multinational teams of very-high-skill individuals with clear common objectives and aligned incentives who are involved in interactive tasks that are well defined and not particularly culture intensive."
+      },
+      "links": [
+        {"type": "wp", "label": "CEPR DP", "url": "https://cepr.org/publications/dp17618"},
+        {"type": "summary", "label": "Summary", "url": "/mansci-ntsummary/"},
+        {"type": "data", "label": "Data & Code", "url": "https://pubsonline.informs.org/doi/suppl/10.1287/mnsc.2022.01799"},
+        {"type": "blog", "label": "MS Blog", "url": "https://www.linkedin.com/feed/update/urn:li:activity:7316814873185701888/"},
+        {"type": "slides", "label": "Slides", "url": "[To be added]"}
+      ],
+      "media": [
+        {"name": "Boston Globe", "url": "https://www.bostonglobe.com/2025/02/03/opinion/social-studies-economics-immigration-deportation-subtle-biases-sports/"},
+        {"name": "Der Standard (AT)", "url": "https://www.derstandard.at/story/3000000264636/die-versteckten-muster-menschlichen-verhaltens-im-fussball"},
+        {"name": "Management Research Podcast in german", "url": "https://podcasts.apple.com/at/podcast/gleich-und-gleich-gesellt-sich-gern-aber-wieviel-silobildung/id1706522611?i=1000701676874"}
+      ]
+    },
+    {
+      "id": "favoritism",
+      "title": "Favoritism under Multiple Sources of Social Pressure",
+      "authors": ["Marton Fleck", "Endre Borza"],
+      "journal": {
+        "name": "Economic Inquiry",
+        "url": "https://doi.org/10.1111/ecin.13245",
+        "details": "October 2024, Volume 62, Issue 4, Pages 1748-1769",
+        "color": "coral"
+      },
+      "abstract": {
+        "preview": "When social pressure leads to favoritism, policies might aim to reduce the bias by affecting its source.",
+        "full": "When social pressure leads to favoritism, policies might aim to reduce the bias by affecting its source. This paper shows that multiple sources may be present and telling them apart is important. We build a novel and granular dataset on European football games and revisit the view that supporting crowds make referees help the host team. We find this bias to remain unchanged even in stadiums closed due to Covid-19. Instead, influential host organizations emerge as the source of social pressure. This has an adverse effect on maintaining the ranking of influential teams and hindering the progress of smaller teams."
+      },
+      "links": [
+        {"type": "wp", "label": "CEPR DP", "url": "https://cepr.org/publications/dp17924"},
+        {"type": "data", "label": "Data & Code", "url": "https://doi.org/10.3886/E195463V5"},
+        {"type": "slides", "label": "Slides", "url": "[To be added]"}
+      ],
+      "media": [
+        {"name": "De Correspondent (Dutch)", "url": "https://decorrespondent.nl/14190/hoe-een-hardnekkige-voetbalmythe-wankelt-met-dank-aan-de-pandemie/7277e16d-70e5-003c-1c7c-a521a86b95d0"},
+       
+      ]
+    },
+    {
+      "id": "into_unknown",
+      "title": "Into the Unknown: The Extent and Boldness of Firms' International Footprint",
+      "authors": ["Davide Castellani", "Balázs Muraközy", "Gabriel Benito"],
+      "journal": {
+        "name": "Global Strategy Journal",
+        "url": "https://doi.org/10.1002/gsj.1397",
+        "details": "August 2021, Volume 11, Issue 3, Pages 468-493 Open access",
+        "color": "mint"
+      },
+      "abstract": {
+        "preview": "Firms make footprints as they internationalize. Going beyond simple measures of firms' internationalization, we conceptualize and measure the extent of a firm's international footprint ",
+        "full": "Firms make footprints as they internationalize. Going beyond simple measures of firms' internationalization, we conceptualize and measure the extent of a firm's international footprint as the number of location-mode combinations it is active in, whereas the boldness of the footprint shows how widespread (across modes and locations) firms' international activities are, compared to other firms with similar extent. Extent describes the complexity of international activities, and boldness captures the risk-taking associated with operating in less know contexts. Consistent with a microfoundations lens on global strategy, we find that boldness correlates with managerial risk-taking attributes, while the extent of internationalization strongly correlates with capabilities conducive to managing more complex operations. These measures offer a highly suitable tool for analyzing the relationship between internationalization and performance."
+      },
+      "links": [
+        {"type": "blog", "label": "SMS Blog", "url": "https://strategicmanagementsociety.wordpress.com/2021/03/10/into-the-unknown-a-richer-way-to-capture-firm-internationalization/"},
+        {"type": "slides", "label": "Slides", "url": "[To be added]"}
+      ],
+      "media": [
+        {"name": "Fakulti video", "url": ""}
+      ]
+    },
+    {
+      "id": "machine_imports",
+      "title": "Machine imports, technology adoption and local spillovers",
+      "authors": ["Péter Harasztosi"],
+      "journal": {
+        "name": "Review of World Economics",
+        "url": "https://link.springer.com/article/10.1007/s10290-019-00365-y",
+        "details": "May 2020, Volume 156, Pages 343–375",
+        "color": "coral"
+      },
+      "abstract": {
+        "preview": "In developing economies import can be the primary source of adopting new technologies and modern production equipment. ",
+        "full": "In developing economies import can be the primary source of adopting new technologies and modern production equipment. Using a uniquely compiled Hungarian firm-level dataset, we investigated whether firms’ decision to import a specific machine is influenced by the local accumulation of experience in that same imported machine. Our results suggested that an additional local importer in the firm’s vicinity increases the probability of importing that particular machine considerably. Distance plays a key mediating role as firms, especially in small cities, learned mostly from neighboring peers. We also found that even within a type of imported machine, the source country of the product matters a great deal. Finally, the extent of spillover effects was found to vary a great deal both with respect to the importing firm as well as the composition of peers. Larger, foreign owned and internationalized firms are the ones that benefit from having importing firms in their vicinity, while small and domestically owned firms could actually be adversely affected by peer effects. Our results could be indicative for policy-makers interested in indirect impact of technology upgrade subsidy programs. We found that such indirect effects do exist. However, they are centered on large to large firm interactions. As smaller sized firms producing for the domestic market do not benefit much from import spillovers, policies aimed at helping such firms may not rely on these indirect effects."
+      },
+      "links": [
+        {"type": "wp", "label": "CEPR DP", "url": "https://cepr.org/publications/dp13623"},
+        {"type": "blog", "label": "VOXEU Blog", "url": "https://voxeu.org/article/technology-adoption-machine-imports"},
+        {"type": "slides", "label": "Slides", "url": "[To be added]"}
+      ],
+      "media": []
+    },
+    {
+      "id": "ladder_internationalization",
+      "title": "The ladder of internationalization modes: Evidence from European firms",
+      "authors": ["Balázs Muraközy"],
+      "journal": {
+        "name": "Review of World Economics",
+        "url": "https://doi.org/10.1007/s10290-018-0305-9",
+        "details": "August 2018, Volume 154, Issue 3, pp 455–491",
+        "color": "mint"
+      },
+      "abstract": {
+        "preview": "[Abstract to be added]",
+        "full": "[Full abstract to be added]"
+      },
+      "links": [
+        {"type": "wp", "label": "CEPR DP", "url": "https://cepr.org/publications/dp12693"},
+        {"type": "blog", "label": "VOXEU Blog", "url": "https://voxeu.org/article/ladder-internationalisation-modes"},
+        {"type": "slides", "label": "Slides", "url": "[To be added]"}
+      ],
+      "media": []
+    },
+    {
+      "id": "grid_shake",
+      "title": "Grid and shake: Spatial aggregation and the robustness of regionally estimated elasticities",
+      "authors": ["Péter Harasztosi"],
+      "journal": {
+        "name": "The Annals of Regional Science",
+        "url": "https://doi.org/10.1007/s00168-017-0849-y",
+        "details": "2018 60(1), 143-170",
+        "color": "coral"
+      },
+      "abstract": {
+        "preview": "[Abstract to be added]",
+        "full": "[Full abstract to be added]"
+      },
+      "links": [
+        {"type": "slides", "label": "Slides", "url": "[To be added]"}
+      ],
+      "media": []
+    },
+    {
+      "id": "shipment_frequency",
+      "title": "Shipment frequency of exporters and demand uncertainty: An inventory management approach",
+      "authors": ["Lionel Fontagné", "Balázs Muraközy", "Vincent Vicard"],
+      "journal": {
+        "name": "Review of World Economics",
+        "url": "https://doi.org/10.1007/s10290-017-0286-0",
+        "details": "November 2017, Volume 153, Issue 4, pp 779–807",
+        "color": "mint"
+      },
+      "abstract": {
+        "preview": "[Abstract to be added]",
+        "full": "[Full abstract to be added]"
+      },
+      "links": [
+        {"type": "wp", "label": "CEPR DP", "url": "https://cepr.org/publications/dp11013"},
+        {"type": "slides", "label": "Slides", "url": "[To be added]"}
+      ],
+      "media": []
+    },
+    {
+      "id": "productivity_premia",
+      "title": "Measuring productivity premia with many modes of internationalization",
+      "authors": ["Balázs Muraközy"],
+      "journal": {
+        "name": "Economics Letters",
+        "url": "https://doi.org/10.1016/j.econlet.2015.12.016",
+        "details": "Volume 139, February 2016, Pages 61–64",
+        "color": "coral"
+      },
+      "abstract": {
+        "preview": "[Abstract to be added]",
+        "full": "[Full abstract to be added]"
+      },
+      "links": [
+        {"type": "slides", "label": "Slides", "url": "[To be added]"}
+      ],
+      "media": []
+    },
+    {
+      "id": "internationalization_innovation",
+      "title": "Internationalization and Innovation of Firms: Evidence and Policy",
+      "authors": ["Tommaso Aquilante", "Carlo Altomonte", "Gianmarco I.P. Ottaviano"],
+      "journal": {
+        "name": "Economic Policy",
+        "url": "https://doi.org/10.1111/1468-0327.12020",
+        "details": "October 2013 pp. 663–700",
+        "color": "mint"
+      },
+      "abstract": {
+        "preview": "[Abstract to be added]",
+        "full": "[Full abstract to be added]"
+      },
+      "links": [
+        {"type": "blog", "label": "VOXEU Blog", "url": "https://voxeu.org/article/internationalisation-innovation-and-productivity-firms"},
+        {"type": "slides", "label": "Slides", "url": "[To be added]"}
+      ],
+      "media": []
+    },
+    {
+      "id": "agglomeration_premium",
+      "title": "Agglomeration Premium and Trading Activity of Firms",
+      "authors": ["Péter Harasztosi"],
+      "journal": {
+        "name": "Regional Science and Urban Economics",
+        "url": "https://doi.org/10.1016/j.regsciurbeco.2012.11.004",
+        "details": "Vol 43. No.1. (2013) 51–64",
+        "color": "coral"
+      },
+      "abstract": {
+        "preview": "[Abstract to be added]",
+        "full": "[Full abstract to be added]"
+      },
+      "links": [
+        {"type": "slides", "label": "Slides", "url": "[To be added]"}
+      ],
+      "media": []
+    },
+    {
+      "id": "temporary_trade",
+      "title": "Temporary Trade and Heterogenous Firms",
+      "authors": ["Balázs Muraközy"],
+      "journal": {
+        "name": "Journal of International Economics",
+        "url": "https://doi.org/10.1016/j.jinteco.2011.12.007",
+        "details": "Vol. 87. No. 2. 2012. 232-246",
+        "color": "mint"
+      },
+      "abstract": {
+        "preview": "[Abstract to be added]",
+        "full": "[Full abstract to be added]"
+      },
+      "links": [
+        {"type": "blog", "label": "VOXEU Blog", "url": "https://cepr.org/voxeu/columns/temporary-trade-exporting-only-once-while"},
+        {"type": "slides", "label": "Slides", "url": "[To be added]"}
+      ],
+      "media": []
+    },
+    {
+      "id": "firms_products",
+      "title": "Firms and products in international trade: Evidence from Hungary",
+      "authors": ["Balázs Muraközy", "Péter Harasztosi"],
+      "journal": {
+        "name": "Economic Systems",
+        "url": "https://doi.org/10.1016/j.ecosys.2010.11.005",
+        "details": "Vol. 35. No. 1. 2011. 4-24",
+        "color": "coral"
+      },
+      "abstract": {
+        "preview": "[Abstract to be added]",
+        "full": "[Full abstract to be added]"
+      },
+      "links": [
+        {"type": "slides", "label": "Slides", "url": "[To be added]"}
+      ],
+      "media": []
+    }
+  ],
+  "publications_beyond_economics": [
+    {
+      "id": "comorbidity_clusters",
+      "title": "Comorbidity clusters in generalized osteoarthritis among female patients: A cross-sectional study",
+      "authors": ["E. Kaposi", "P. Balint", "et al"],
+      "journal": {
+        "name": "Seminars in Arthritis and Rheumatism",
+        "url": "",
+        "details": "(2020) Volume 50, Issue 2, April 2020, Pages 183-191",
+        "color": "mint"
+      },
+      "abstract": {
+        "preview": "[Abstract to be added]",
+        "full": "[Full abstract to be added]"
+      },
+      "links": [
+        {"type": "slides", "label": "Slides", "url": "[To be added]"}
+      ],
+      "media": []
+    },
+    {
+      "id": "psaid_questionnaire",
+      "title": "A patient-derived and patient-reported outcome measure for assessing psoriatic arthritis: elaboration and preliminary validation of the Psoriatic Arthritis Impact of Disease (PsAID) questionnaire, a 13-country EULAR initiative",
+      "authors": ["L. Gossec", "TK Kvien", "others"],
+      "journal": {
+        "name": "Annals of Rheumatic Disease",
+        "url": "https://doi.org/10.1136/annrheumdis-2014-205207",
+        "details": "2014 Jun;73(6):1012-9.",
+        "color": "coral"
+      },
+      "abstract": {
+        "preview": "[Abstract to be added]",
+        "full": "[Full abstract to be added]"
+      },
+      "links": [
+        {"type": "slides", "label": "Slides", "url": "[To be added]"}
+      ],
+      "media": []
+    }
+  ],
+  "work_in_progress_globalization": [
+    {
+      "id": "robots_adoption",
+      "title": "Robots Adoption and its impact: Evidence from Hungary",
+      "authors": ["Rosario Crinó", "Gino Gancia", "Alessandra Bonfiglioli"],
+      "status": "Work in Progress",
+      "abstract": {
+        "preview": "[Abstract to be added]",
+        "full": "[Full abstract to be added]"
+      },
+      "links": [
+        {"type": "slides", "label": "Slides", "url": "/assets/pdf/BBCG-Jul2025-slides.pdf"}
+      ]
+    },
+    {
+      "id": "geography_opensource",
+      "title": "Geography of Open source software",
+      "authors": ["Miklós Koren", "Aaron Lohmann", "Julian Hinz"],
+      "status": "Work in Progress",
+      "abstract": {
+        "preview": "[Abstract to be added]",
+        "full": "[Full abstract to be added]"
+      },
+      "links": [
+        {"type": "slides", "label": "Slides", "url": "[To be added]"}
+      ]
+    },
+    {
+      "id": "industrial_policy_monarchy",
+      "title": "Industrial policy in the Austria-Hungarian Monarchy",
+      "authors": ["Claudia Steinwender", "Mátyás Molnár"],
+      "status": "Work in Progress",
+      "abstract": {
+        "preview": "[Abstract to be added]",
+        "full": "[Full abstract to be added]"
+      },
+      "links": [
+        {"type": "slides", "label": "Slides", "url": "[To be added]"}
+      ]
+    },
+    {
+      "id": "supplier_buyer_gvc",
+      "title": "Supplier-buyer relationships in global value chains",
+      "authors": ["Balázs Muraközy", "Álmos Telegdy", "Miklós Koren"],
+      "status": "Work in Progress",
+      "abstract": {
+        "preview": "[Abstract to be added]",
+        "full": "[Full abstract to be added]"
+      },
+      "links": [
+        {"type": "slides", "label": "Slides", "url": "[To be added]"}
+      ]
+    }
+  ],
+  "work_in_progress_organizations": [
+    {
+      "id": "connected_choices",
+      "title": "Connected Choices: Business Group Affiliation and FDI Location Decisions",
+      "authors": ["Márta Bisztray", "Péter Harasztosi"],
+      "status": "Submitted",
+      "abstract": {
+        "preview": "[Abstract to be added]",
+        "full": "[Full abstract to be added]"
+      },
+      "links": [
+        {"type": "slides", "label": "Slides", "url": "[To be added]"}
+      ]
+    },
+    {
+      "id": "stardust",
+      "title": "Stardust: peer effects in early career development",
+      "authors": ["Bence Szabó"],
+      "status": "2025 August",
+      "abstract": {
+        "preview": "[Abstract to be added]",
+        "full": "[Full abstract to be added]"
+      },
+      "links": [
+        {"type": "wp", "label": "WP Version", "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5378338"},
+        {"type": "slides", "label": "Slides", "url": "[To be added]"}
+      ]
+    }
+  ]
+}
