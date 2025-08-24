@@ -7,161 +7,370 @@ permalink: /research/
 
 ## Publications in Refereed Journals
 
-<div class="research-publication">
-<h3>Cultural Homophily and Collaboration in Superstar Teams</h3>
-<p><em>with Gianmarco I.P Ottaviano</em></p>
-<div style="background: var(--wes-light-mint); padding: 1rem; border-radius: 8px; margin: 1rem 0;">
-  <p><a href="https://doi.org/10.1287/mnsc.2022.01799" class="journal" target="_blank">Management Science</a> (Published online: January 20, 2025)</p>
-  <p><strong>Reproduction:</strong> <a href="https://pubsonline.informs.org/doi/suppl/10.1287/mnsc.2022.01799">Data and code in supplementary material</a></p>
-  <p>Also: <a href="https://cepr.org/publications/dp17618">CEPR Discussion Paper #17618</a></p>
-</div>
 
-<div class="links" style="text-align: center; background: white; padding: 1.5rem; border-radius: 8px; margin: 1rem 0; border: 1px dashed var(--wes-coral);">
-<a href="/mansci-ntsummary/" class="btn btn--small">Non-technical summary</a>
-<a href="https://www.linkedin.com/feed/update/urn:li:activity:7316814873185701888/" class="btn btn--small btn--info" target="_blank">Management Science Blog</a>
-</div>
+    <!-- Paper 1: Cultural Homophily -->
+    <div class="research-publication">
+        <h3>Cultural Homophily and Collaboration in Superstar Teams</h3>
+        <p><em>with Gianmarco I.P Ottaviano</em></p>
+        
+        <div style="background: var(--wes-light-mint); padding: 1rem; border-radius: 8px; margin: 1rem 0;">
+            <p><a href="https://doi.org/10.1287/mnsc.2022.01799" class="journal" target="_blank">Management Science</a> (Published online: January 20, 2025)</p>
+        </div>
 
-<div style="background: var(--wes-light-coral); padding: 1rem; border-radius: 8px; border-left: 4px solid var(--wes-coral);">
-<strong>Media:</strong> 
-<a href="https://www.bostonglobe.com/2025/02/03/opinion/social-studies-economics-immigration-deportation-subtle-biases-sports/" target="_blank">Boston Globe</a>, 
-<a href="https://www.derstandard.at/story/3000000264636/die-versteckten-muster-menschlichen-verhaltens-im-fussball" target="_blank">Der Standard (AT)</a>, 
-<a href="https://podcasts.apple.com/at/podcast/gleich-und-gleich-gesellt-sich-gern-aber-wieviel-silobildung/id1706522611?i=1000701676874" target="_blank">Management Research Podcast in german</a>
-</div>
-</div>
+        <div class="abstract-section">
+            <strong>Abstract:</strong>
+            <div class="abstract-text abstract-preview" id="abstract1Preview">
+                One may reasonably think that cultural homophily, defined as the tendency to associate with others of similar culture, affects collaboration in multinational teams in general but not in superstar teams of professionals at the top of their industry. The analysis of an exhaustive data set on the passes made by professional European football players in the top five men's leagues reveals that on the contrary, cultural homophily is persistent, pervasive, and consequential, even in superstar multinational teams of very-high-skill individuals with clear common objectives and aligned incentives who are involved in interactive tasks that are well defined and not particularly culture intensive.
+            </div>
+            <div class="abstract-text abstract-full" id="abstract1Full">
+                One may reasonably think that cultural homophily, defined as the tendency to associate with others of similar culture, affects collaboration in multinational teams in general but not in superstar teams of professionals at the top of their industry. The analysis of an exhaustive data set on the passes made by professional European football players in the top five men's leagues reveals that on the contrary, cultural homophily is persistent, pervasive, and consequential, even in superstar multinational teams of very-high-skill individuals with clear common objectives and aligned incentives who are involved in interactive tasks that are well defined and not particularly culture intensive.
+            </div>
+            <button class="abstract-toggle" onclick="toggleAbstract(1)">More</button>
+        </div>
 
-<div class="research-publication">
-<h3>Favoritism under Multiple Sources of Social Pressure</h3>
-<p><em>with Marton Fleck and Endre Borza</em></p>
-<div style="background: var(--wes-light-coral); padding: 1rem; border-radius: 8px; margin: 1rem 0;">
-  <p><a href="https://doi.org/10.1111/ecin.13245" class="journal" target="_blank">Economic Inquiry</a> (October 2024, Volume 62, Issue 4, Pages 1748-1769)</p>
-  <p>Also <a href="https://cepr.org/publications/dp17924">CEPR Discussion Paper #17924</a></p>
-</div>
-<div class="links" style="text-align: center;">
-<a href="https://doi.org/10.3886/E195463V5" class="btn btn--small">Data & Code</a>
-</div>
-</div>
+        <div class="links">
+            <a href="https://cepr.org/publications/dp17618" class="btn btn--secondary">CEPR DP</a>
+            <a href="/mansci-ntsummary/" class="btn">Summary</a>
+            <a href="https://pubsonline.informs.org/doi/suppl/10.1287/mnsc.2022.01799" class="btn btn--data">Data & Code</a>
+            <a href="https://www.linkedin.com/feed/update/urn:li:activity:7316814873185701888/" class="btn btn--info" target="_blank">MS Blog</a>
+        </div>
 
-<div class="research-publication">
-<h3>Into the Unknown: The Extent and Boldness of Firms' International Footprint</h3>
-<p><em>with Davide Castellani, Balázs Muraközy and Gabriel Benito</em></p>
-<div style="background: var(--wes-light-mint); padding: 1rem; border-radius: 8px; margin: 1rem 0;">
-  <p><a href="https://doi.org/10.1002/gsj.1397" class="journal" target="_blank">Global Strategy Journal</a> (August 2021, Volume 11, Issue 3, Pages 468-493) Open access</p>
-</div>
-<div class="links" style="text-align: center;">
-<a href="https://strategicmanagementsociety.wordpress.com/2021/03/10/into-the-unknown-a-richer-way-to-capture-firm-internationalization/" class="btn btn--small btn--info" target="_blank">Strategic Management Society Blog</a>
-</div>
+        <div class="media-section">
+            <strong>Media:</strong> 
+            <a href="https://www.bostonglobe.com/2025/02/03/opinion/social-studies-economics-immigration-deportation-subtle-biases-sports/" target="_blank">Boston Globe</a>, 
+            <a href="https://www.derstandard.at/story/3000000264636/die-versteckten-muster-menschlichen-verhaltens-im-fussball" target="_blank">Der Standard (AT)</a>, 
+            <a href="https://podcasts.apple.com/at/podcast/gleich-und-gleich-gesellt-sich-gern-aber-wieviel-silobildung/id1706522611?i=1000701676874" target="_blank">Management Research Podcast</a>
+        </div>
+    </div>
 
-<div style="background: var(--wes-light-mint); padding: 1rem; border-radius: 8px; border-left: 4px solid var(--wes-mint);">
-<strong>Media:</strong>  <a href="">Fakulti video</a>
-</div>
-</div>
+    <!-- Paper 2: Favoritism -->
+    <div class="research-publication">
+        <h3>Favoritism under Multiple Sources of Social Pressure</h3>
+        <p><em>with Marton Fleck and Endre Borza</em></p>
+        
+        <div style="background: var(--wes-light-coral); padding: 1rem; border-radius: 8px; margin: 1rem 0;">
+            <p><a href="https://doi.org/10.1111/ecin.13245" class="journal" target="_blank">Economic Inquiry</a> (October 2024, Volume 62, Issue 4, Pages 1748-1769)</p>
+        </div>
 
-<div class="research-publication">
-<h3>Machine imports, technology adoption and local spillovers</h3>
-<p><em>with Péter Harasztosi</em></p>
-<div style="background: var(--wes-light-coral); padding: 1rem; border-radius: 8px; margin: 1rem 0;">
-  <p><a href="https://doi.org/10.1007/s10290-020-00381-z" class="journal" target="_blank">Review of World Economics</a> (May 2020, Volume 156, Pages 343–375)</p>
-</div>
-<div class="links" style="text-align: center;">
-<a href="https://cepr.org/publications/dp13623" class="btn btn--small">CEPR</a>
-<a href="https://voxeu.org/article/technology-adoption-machine-imports" class="btn btn--small btn--info" target="_blank">VOXEU column</a>
-</div>
-</div>
+        <div class="abstract-section">
+            <strong>Abstract:</strong>
+            <div class="abstract-text abstract-preview" id="abstract2Preview">
+                [Abstract to be added - please provide the abstract for this paper and I'll format it properly]
+            </div>
+            <div class="abstract-text abstract-full" id="abstract2Full">
+                [Abstract to be added - please provide the abstract for this paper and I'll format it properly]
+            </div>
+            <button class="abstract-toggle" onclick="toggleAbstract(2)">More</button>
+        </div>
 
-<div class="research-publication">
-<h3>The ladder of internationalization modes: Evidence from European firms</h3>
-<p><em>with Balázs Muraközy</em></p>
-<div style="background: var(--wes-light-mint); padding: 1rem; border-radius: 8px; margin: 1rem 0;">
-  <p><a href="https://doi.org/10.1007/s10290-018-0305-9" class="journal" target="_blank">Review of World Economics</a> (August 2018, Volume 154, Issue 3, pp 455–491)</p>
-</div>
-<div class="links" style="text-align: center;">
-<a href="https://cepr.org/publications/dp12693" class="btn btn--small">CEPR</a>
-<a href="https://voxeu.org/article/ladder-internationalisation-modes" class="btn btn--small btn--info" target="_blank">VOXEU column</a>
-</div>
-</div>
+        <div class="links">
+            <a href="https://cepr.org/publications/dp17924" class="btn btn--secondary">CEPR DP</a>
+            <a href="https://doi.org/10.3886/E195463V5" class="btn btn--data">Data & Code</a>
+        </div>
+    </div>
 
-<div class="research-publication">
-<h3>Grid and shake: Spatial aggregation and the robustness of regionally estimated elasticities</h3>
-<p><em>with Péter Harasztosi</em></p>
-<div style="background: var(--wes-light-coral); padding: 1rem; border-radius: 8px; margin: 1rem 0;">
-  <p><a href="https://doi.org/10.1007/s00168-017-0849-y" class="journal" target="_blank">The Annals of Regional Science</a> 2018 60(1), 143-170</p>
-</div>
-</div>
+    <!-- Paper 3: Into the Unknown -->
+    <div class="research-publication">
+        <h3>Into the Unknown: The Extent and Boldness of Firms' International Footprint</h3>
+        <p><em>with Davide Castellani, Balázs Muraközy and Gabriel Benito</em></p>
+        
+        <div style="background: var(--wes-light-mint); padding: 1rem; border-radius: 8px; margin: 1rem 0;">
+            <p><a href="https://doi.org/10.1002/gsj.1397" class="journal" target="_blank">Global Strategy Journal</a> (August 2021, Volume 11, Issue 3, Pages 468-493) Open access</p>
+        </div>
 
-<div class="research-publication">
-<h3>Shipment frequency of exporters and demand uncertainty: An inventory management approach</h3>
-<p><em>with Lionel Fontagné, Balázs Muraközy and Vincent Vicard</em></p>
-<div style="background: var(--wes-light-mint); padding: 1rem; border-radius: 8px; margin: 1rem 0;">
-  <p><a href="https://doi.org/10.1007/s10290-017-0286-0" class="journal" target="_blank">Review of World Economics</a> November 2017, Volume 153, Issue 4, pp 779–807</p>
-</div>
-<div class="links" style="text-align: center;">
-<a href="https://cepr.org/publications/dp11013" class="btn btn--small">CEPR</a> -- this is an extended version
-</div>
-</div>
+        <div class="abstract-section">
+            <strong>Abstract:</strong>
+            <div class="abstract-text abstract-preview" id="abstract3Preview">
+                [Abstract to be added]
+            </div>
+            <div class="abstract-text abstract-full" id="abstract3Full">
+                [Abstract to be added]
+            </div>
+            <button class="abstract-toggle" onclick="toggleAbstract(3)">More</button>
+        </div>
 
-<div class="research-publication">
-<h3>Measuring productivity premia with many modes of internationalization</h3>
-<p><em>with Balázs Muraközy</em></p>
-<div style="background: var(--wes-light-coral); padding: 1rem; border-radius: 8px; margin: 1rem 0;">
-  <p><a href="https://doi.org/10.1016/j.econlet.2015.12.016" class="journal" target="_blank">Economics Letters</a>, Volume 139, February 2016, Pages 61–64</p>
-</div>
-</div>
+        <div class="links">
+            <a href="https://strategicmanagementsociety.wordpress.com/2021/03/10/into-the-unknown-a-richer-way-to-capture-firm-internationalization/" class="btn btn--info" target="_blank">SMS Blog</a>
+        </div>
 
-<div class="research-publication">
-<h3>Internationalization and Innovation of Firms: Evidence and Policy</h3>
-<p><em>with Tommaso Aquilante, Carlo Altomonte and Gianmarco I.P. Ottaviano</em></p>
-<div style="background: var(--wes-light-mint); padding: 1rem; border-radius: 8px; margin: 1rem 0;">
-  <p><a href="https://doi.org/10.1111/1468-0327.12020" class="journal" target="_blank">Economic Policy</a>, October 2013 pp. 663–700 [Also CEP SP 032]</p>
-</div>
-<div class="links" style="text-align: center;">
-<a href="https://voxeu.org/article/internationalisation-innovation-and-productivity-firms" class="btn btn--small btn--info" target="_blank">VOXEU column</a>
-</div>
-</div>
+        <div class="media-section">
+            <strong>Media:</strong> <a href="">Fakulti video</a>
+        </div>
+    </div>
 
-<div class="research-publication">
-<h3>Agglomeration Premium and Trading Activity of Firms</h3>
-<p><em>with Péter Harasztosi</em></p>
-<div style="background: var(--wes-light-coral); padding: 1rem; border-radius: 8px; margin: 1rem 0;">
-  <p><a href="https://doi.org/10.1016/j.regsciurbeco.2012.11.004" class="journal" target="_blank">Regional Science and Urban Economics</a> Vol 43. No.1. (2013) 51–64</p>
-</div>
-</div>
+    <!-- Paper 4: Machine imports -->
+    <div class="research-publication">
+        <h3>Machine imports, technology adoption and local spillovers</h3>
+        <p><em>with Péter Harasztosi</em></p>
+        
+        <div style="background: var(--wes-light-coral); padding: 1rem; border-radius: 8px; margin: 1rem 0;">
+            <p><a href="https://doi.org/10.1007/s10290-020-00381-z" class="journal" target="_blank">Review of World Economics</a> (May 2020, Volume 156, Pages 343–375)</p>
+        </div>
 
-<div class="research-publication">
-<h3>Temporary Trade and Heterogenous Firms</h3>
-<p><em>with Balázs Muraközy</em></p>
-<div style="background: var(--wes-light-mint); padding: 1rem; border-radius: 8px; margin: 1rem 0;">
-  <p><a href="https://doi.org/10.1016/j.jinteco.2011.12.007" class="journal" target="_blank">Journal of International Economics</a> Vol. 87. No. 2. 2012. 232-246</p>
-</div>
-<div class="links" style="text-align: center;">
-<a href="https://cepr.org/voxeu/columns/temporary-trade-exporting-only-once-while" class="btn btn--small btn--info" target="_blank">VOXEU column</a>
-</div>
-</div>
+        <div class="abstract-section">
+            <strong>Abstract:</strong>
+            <div class="abstract-text abstract-preview" id="abstract4Preview">
+                [Abstract to be added]
+            </div>
+            <div class="abstract-text abstract-full" id="abstract4Full">
+                [Abstract to be added]
+            </div>
+            <button class="abstract-toggle" onclick="toggleAbstract(4)">More</button>
+        </div>
 
-<div class="research-publication">
-<h3>Firms and products in international trade: Evidence from Hungary</h3>
-<p><em>with Balázs Muraközy and Péter Harasztosi</em></p>
-<div style="background: var(--wes-light-coral); padding: 1rem; border-radius: 8px; margin: 1rem 0;">
-  <p><a href="https://doi.org/10.1016/j.ecosys.2010.11.005" class="journal" target="_blank">Economic Systems</a> Vol. 35. No. 1. 2011. 4-24</p>
-</div>
-</div>
+        <div class="links">
+            <a href="https://cepr.org/publications/dp13623" class="btn btn--secondary">CEPR DP</a>
+            <a href="https://voxeu.org/article/technology-adoption-machine-imports" class="btn btn--info" target="_blank">VOXEU Blog</a>
+        </div>
+    </div>
 
-## Publications beyond economics
+    <!-- Paper 5: Ladder of internationalization -->
+    <div class="research-publication">
+        <h3>The ladder of internationalization modes: Evidence from European firms</h3>
+        <p><em>with Balázs Muraközy</em></p>
+        
+        <div style="background: var(--wes-light-mint); padding: 1rem; border-radius: 8px; margin: 1rem 0;">
+            <p><a href="https://doi.org/10.1007/s10290-018-0305-9" class="journal" target="_blank">Review of World Economics</a> (August 2018, Volume 154, Issue 3, pp 455–491)</p>
+        </div>
 
-<div class="research-publication">
-<h3>Comorbidity clusters in generalized osteoarthritis among female patients: A cross-sectional study</h3>
-<p><em>with E. Kaposi, P. Balint et al</em></p>
-<div style="background: var(--wes-light-mint); padding: 1rem; border-radius: 8px; margin: 1rem 0;">
-  <p><span class="journal">Seminars in Arthritis and Rheumatism</span> (2020) Volume 50, Issue 2, April 2020, Pages 183-191</p>
-</div>
-</div>
+        <div class="abstract-section">
+            <strong>Abstract:</strong>
+            <div class="abstract-text abstract-preview" id="abstract5Preview">
+                [Abstract to be added]
+            </div>
+            <div class="abstract-text abstract-full" id="abstract5Full">
+                [Abstract to be added]
+            </div>
+            <button class="abstract-toggle" onclick="toggleAbstract(5)">More</button>
+        </div>
 
-<div class="research-publication">
-<h3>A patient-derived and patient-reported outcome measure for assessing psoriatic arthritis: elaboration and preliminary validation of the Psoriatic Arthritis Impact of Disease (PsAID) questionnaire, a 13-country EULAR initiative</h3>
-<p><em>with L. Gossec, TK Kvien and others</em></p>
-<div style="background: var(--wes-light-coral); padding: 1rem; border-radius: 8px; margin: 1rem 0;">
-  <p><a href="https://doi.org/10.1136/annrheumdis-2014-205207" class="journal" target="_blank">Annals of Rheumatic Disease</a> 2014 Jun;73(6):1012-9.</p>
-</div>
-</div>
+        <div class="links">
+            <a href="https://cepr.org/publications/dp12693" class="btn btn--secondary">CEPR DP</a>
+            <a href="https://voxeu.org/article/ladder-internationalisation-modes" class="btn btn--info" target="_blank">VOXEU Blog</a>
+        </div>
+    </div>
+
+    <!-- Paper 6: Grid and shake -->
+    <div class="research-publication">
+        <h3>Grid and shake: Spatial aggregation and the robustness of regionally estimated elasticities</h3>
+        <p><em>with Péter Harasztosi</em></p>
+        
+        <div style="background: var(--wes-light-coral); padding: 1rem; border-radius: 8px; margin: 1rem 0;">
+            <p><a href="https://doi.org/10.1007/s00168-017-0849-y" class="journal" target="_blank">The Annals of Regional Science</a> 2018 60(1), 143-170</p>
+        </div>
+
+        <div class="abstract-section">
+            <strong>Abstract:</strong>
+            <div class="abstract-text abstract-preview" id="abstract6Preview">
+                [Abstract to be added]
+            </div>
+            <div class="abstract-text abstract-full" id="abstract6Full">
+                [Abstract to be added]
+            </div>
+            <button class="abstract-toggle" onclick="toggleAbstract(6)">More</button>
+        </div>
+    </div>
+
+    <!-- Paper 7: Shipment frequency -->
+    <div class="research-publication">
+        <h3>Shipment frequency of exporters and demand uncertainty: An inventory management approach</h3>
+        <p><em>with Lionel Fontagné, Balázs Muraközy and Vincent Vicard</em></p>
+        
+        <div style="background: var(--wes-light-mint); padding: 1rem; border-radius: 8px; margin: 1rem 0;">
+            <p><a href="https://doi.org/10.1007/s10290-017-0286-0" class="journal" target="_blank">Review of World Economics</a> November 2017, Volume 153, Issue 4, pp 779–807</p>
+        </div>
+
+        <div class="abstract-section">
+            <strong>Abstract:</strong>
+            <div class="abstract-text abstract-preview" id="abstract7Preview">
+                [Abstract to be added]
+            </div>
+            <div class="abstract-text abstract-full" id="abstract7Full">
+                [Abstract to be added]
+            </div>
+            <button class="abstract-toggle" onclick="toggleAbstract(7)">More</button>
+        </div>
+
+        <div class="links">
+            <a href="https://cepr.org/publications/dp11013" class="btn btn--secondary">CEPR DP</a>
+        </div>
+    </div>
+
+    <!-- Paper 8: Measuring productivity premia -->
+    <div class="research-publication">
+        <h3>Measuring productivity premia with many modes of internationalization</h3>
+        <p><em>with Balázs Muraközy</em></p>
+        
+        <div style="background: var(--wes-light-coral); padding: 1rem; border-radius: 8px; margin: 1rem 0;">
+            <p><a href="https://doi.org/10.1016/j.econlet.2015.12.016" class="journal" target="_blank">Economics Letters</a>, Volume 139, February 2016, Pages 61–64</p>
+        </div>
+
+        <div class="abstract-section">
+            <strong>Abstract:</strong>
+            <div class="abstract-text abstract-preview" id="abstract8Preview">
+                [Abstract to be added]
+            </div>
+            <div class="abstract-text abstract-full" id="abstract8Full">
+                [Abstract to be added]
+            </div>
+            <button class="abstract-toggle" onclick="toggleAbstract(8)">More</button>
+        </div>
+    </div>
+
+    <!-- Paper 9: Internationalization and Innovation -->
+    <div class="research-publication">
+        <h3>Internationalization and Innovation of Firms: Evidence and Policy</h3>
+        <p><em>with Tommaso Aquilante, Carlo Altomonte and Gianmarco I.P. Ottaviano</em></p>
+        
+        <div style="background: var(--wes-light-mint); padding: 1rem; border-radius: 8px; margin: 1rem 0;">
+            <p><a href="https://doi.org/10.1111/1468-0327.12020" class="journal" target="_blank">Economic Policy</a>, October 2013 pp. 663–700</p>
+        </div>
+
+        <div class="abstract-section">
+            <strong>Abstract:</strong>
+            <div class="abstract-text abstract-preview" id="abstract9Preview">
+                [Abstract to be added]
+            </div>
+            <div class="abstract-text abstract-full" id="abstract9Full">
+                [Abstract to be added]
+            </div>
+            <button class="abstract-toggle" onclick="toggleAbstract(9)">More</button>
+        </div>
+
+        <div class="links">
+            <a href="https://voxeu.org/article/internationalisation-innovation-and-productivity-firms" class="btn btn--info" target="_blank">VOXEU Blog</a>
+        </div>
+    </div>
+
+    <!-- Paper 10: Agglomeration Premium -->
+    <div class="research-publication">
+        <h3>Agglomeration Premium and Trading Activity of Firms</h3>
+        <p><em>with Péter Harasztosi</em></p>
+        
+        <div style="background: var(--wes-light-coral); padding: 1rem; border-radius: 8px; margin: 1rem 0;">
+            <p><a href="https://doi.org/10.1016/j.regsciurbeco.2012.11.004" class="journal" target="_blank">Regional Science and Urban Economics</a> Vol 43. No.1. (2013) 51–64</p>
+        </div>
+
+        <div class="abstract-section">
+            <strong>Abstract:</strong>
+            <div class="abstract-text abstract-preview" id="abstract10Preview">
+                [Abstract to be added]
+            </div>
+            <div class="abstract-text abstract-full" id="abstract10Full">
+                [Abstract to be added]
+            </div>
+            <button class="abstract-toggle" onclick="toggleAbstract(10)">More</button>
+        </div>
+    </div>
+
+    <!-- Paper 11: Temporary Trade -->
+    <div class="research-publication">
+        <h3>Temporary Trade and Heterogenous Firms</h3>
+        <p><em>with Balázs Muraközy</em></p>
+        
+        <div style="background: var(--wes-light-mint); padding: 1rem; border-radius: 8px; margin: 1rem 0;">
+            <p><a href="https://doi.org/10.1016/j.jinteco.2011.12.007" class="journal" target="_blank">Journal of International Economics</a> Vol. 87. No. 2. 2012. 232-246</p>
+        </div>
+
+        <div class="abstract-section">
+            <strong>Abstract:</strong>
+            <div class="abstract-text abstract-preview" id="abstract11Preview">
+                [Abstract to be added]
+            </div>
+            <div class="abstract-text abstract-full" id="abstract11Full">
+                [Abstract to be added]
+            </div>
+            <button class="abstract-toggle" onclick="toggleAbstract(11)">More</button>
+        </div>
+
+        <div class="links">
+            <a href="https://cepr.org/voxeu/columns/temporary-trade-exporting-only-once-while" class="btn btn--info" target="_blank">VOXEU Blog</a>
+        </div>
+    </div>
+
+    <!-- Paper 12: Firms and products -->
+    <div class="research-publication">
+        <h3>Firms and products in international trade: Evidence from Hungary</h3>
+        <p><em>with Balázs Muraközy and Péter Harasztosi</em></p>
+        
+        <div style="background: var(--wes-light-coral); padding: 1rem; border-radius: 8px; margin: 1rem 0;">
+            <p><a href="https://doi.org/10.1016/j.ecosys.2010.11.005" class="journal" target="_blank">Economic Systems</a> Vol. 35. No. 1. 2011. 4-24</p>
+        </div>
+
+        <div class="abstract-section">
+            <strong>Abstract:</strong>
+            <div class="abstract-text abstract-preview" id="abstract12Preview">
+                [Abstract to be added]
+            </div>
+            <div class="abstract-text abstract-full" id="abstract12Full">
+                [Abstract to be added]
+            </div>
+            <button class="abstract-toggle" onclick="toggleAbstract(12)">More</button>
+        </div>
+    </div>
+
+    <h1 class="section-title">Publications beyond economics</h1>
+
+    <!-- Medical Paper 1 -->
+    <div class="research-publication">
+        <h3>Comorbidity clusters in generalized osteoarthritis among female patients: A cross-sectional study</h3>
+        <p><em>with E. Kaposi, P. Balint et al</em></p>
+        
+        <div style="background: var(--wes-light-mint); padding: 1rem; border-radius: 8px; margin: 1rem 0;">
+            <p><a href="https://doi.org/10.1016/j.semarthrit.2019.09.007" class="journal" target="_blank">Seminars in Arthritis and Rheumatism</a> Volume 50, Issue 2, April 2020, Pages 183-191</p>
+        </div>
+
+        <div class="abstract-section">
+            <strong>Abstract:</strong>
+            <div class="abstract-text abstract-preview" id="abstract13Preview">
+                [Abstract to be added]
+            </div>
+            <div class="abstract-text abstract-full" id="abstract13Full">
+                [Abstract to be added]
+            </div>
+            <button class="abstract-toggle" onclick="toggleAbstract(13)">More</button>
+        </div>
+    </div>
+
+    <!-- Medical Paper 2 -->
+    <div class="research-publication">
+        <h3>A patient-derived and patient-reported outcome measure for assessing psoriatic arthritis: elaboration and preliminary validation of the Psoriatic Arthritis Impact of Disease (PsAID) questionnaire, a 13-country EULAR initiative</h3>
+        <p><em>with L. Gossec, TK Kvien and others</em></p>
+        
+        <div style="background: var(--wes-light-coral); padding: 1rem; border-radius: 8px; margin: 1rem 0;">
+            <p><a href="https://doi.org/10.1136/annrheumdis-2014-205207" class="journal" target="_blank">Annals of Rheumatic Disease</a> 2014 Jun;73(6):1012-9.</p>
+        </div>
+
+        <div class="abstract-section">
+            <strong>Abstract:</strong>
+            <div class="abstract-text abstract-preview" id="abstract14Preview">
+                [Abstract to be added]
+            </div>
+            <div class="abstract-text abstract-full" id="abstract14Full">
+                [Abstract to be added]
+            </div>
+            <button class="abstract-toggle" onclick="toggleAbstract(14)">More</button>
+        </div>
+    </div>
+
+    <script>
+        function toggleAbstract(id) {
+            const preview = document.getElementById(`abstract${id}Preview`);
+            const full = document.getElementById(`abstract${id}Full`);
+            const toggle = document.querySelector(`button[onclick="toggleAbstract(${id})"]`);
+            
+            if (full.style.display === 'none' || full.style.display === '') {
+                preview.style.display = 'none';
+                full.style.display = 'block';
+                toggle.textContent = 'Less';
+            } else {
+                preview.style.display = 'block';
+                full.style.display = 'none';
+                toggle.textContent = 'More';
+            }
+        }
+    </script>
+
 
 # Work in progress
 
