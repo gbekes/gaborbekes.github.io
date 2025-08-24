@@ -13,10 +13,6 @@ main:
     url: "/research/"
   - title: "Teaching"
     url: "/teaching/"
-  - title: "Resources"
-    url: "/resources/"
-  # Extra button requested by user.  This links to a page describing the
-  # data analysis textbook co‑authored by Gábor Békés.  See `textbook.md`.
   - title: "Textbook"
     url: "/textbook/"
   - title: "CV"
