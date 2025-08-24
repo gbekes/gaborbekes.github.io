@@ -11,7 +11,7 @@
         "color": "mint"
       },
       "abstract": {
-        "preview": "One may reasonably think that cultural homophily, defined as the tendency to associate with others of similar culture, affects collaboration in multinational teams in general but not in superstar teams of professionals at the top of their industry. The analysis of an exhaustive data set on the passes made by professional European football players in the top five men's leagues reveals that on the contrary, cultural homophily is persistent, pervasive, and consequential, even in superstar multinational teams of very-high-skill individuals with clear common objectives and aligned incentives who are involved in interactive tasks that are well defined and not particularly culture intensive.",
+        "preview": "One may reasonably think that cultural homophily, defined as the tendency to associate with others of similar culture, affects collaboration in multinational teams in general but not in superstar teams of professionals ...",
         "full": "One may reasonably think that cultural homophily, defined as the tendency to associate with others of similar culture, affects collaboration in multinational teams in general but not in superstar teams of professionals at the top of their industry. The analysis of an exhaustive data set on the passes made by professional European football players in the top five men’s leagues reveals that on the contrary, cultural homophily is persistent, pervasive, and consequential, even in superstar multinational teams of very-high-skill individuals with clear common objectives and aligned incentives who are involved in interactive tasks that are well defined and not particularly culture intensive."
       },
       "links": [
@@ -38,7 +38,7 @@
         "color": "coral"
       },
       "abstract": {
-        "preview": "When social pressure leads to favoritism, policies might aim to reduce the bias by affecting its source.",
+        "preview": "When social pressure leads to favoritism, policies might aim to reduce the bias by affecting its source...",
         "full": "When social pressure leads to favoritism, policies might aim to reduce the bias by affecting its source. This paper shows that multiple sources may be present and telling them apart is important. We build a novel and granular dataset on European football games and revisit the view that supporting crowds make referees help the host team. We find this bias to remain unchanged even in stadiums closed due to Covid-19. Instead, influential host organizations emerge as the source of social pressure. This has an adverse effect on maintaining the ranking of influential teams and hindering the progress of smaller teams."
       },
       "links": [
@@ -62,7 +62,7 @@
         "color": "mint"
       },
       "abstract": {
-        "preview": "Firms make footprints as they internationalize. Going beyond simple measures of firms' internationalization, we conceptualize and measure the extent of a firm's international footprint ",
+        "preview": "Firms make footprints as they internationalize. Going beyond simple measures of firms' internationalization, we conceptualize and measure the extent of a firm's international footprint ...",
         "full": "Firms make footprints as they internationalize. Going beyond simple measures of firms' internationalization, we conceptualize and measure the extent of a firm's international footprint as the number of location-mode combinations it is active in, whereas the boldness of the footprint shows how widespread (across modes and locations) firms' international activities are, compared to other firms with similar extent. Extent describes the complexity of international activities, and boldness captures the risk-taking associated with operating in less know contexts. Consistent with a microfoundations lens on global strategy, we find that boldness correlates with managerial risk-taking attributes, while the extent of internationalization strongly correlates with capabilities conducive to managing more complex operations. These measures offer a highly suitable tool for analyzing the relationship between internationalization and performance."
       },
       "links": [
@@ -84,7 +84,7 @@
         "color": "coral"
       },
       "abstract": {
-        "preview": "In developing economies import can be the primary source of adopting new technologies and modern production equipment. ",
+        "preview": "In developing economies import can be the primary source of adopting new technologies and modern production equipment. ...",
         "full": "In developing economies import can be the primary source of adopting new technologies and modern production equipment. Using a uniquely compiled Hungarian firm-level dataset, we investigated whether firms’ decision to import a specific machine is influenced by the local accumulation of experience in that same imported machine. Our results suggested that an additional local importer in the firm’s vicinity increases the probability of importing that particular machine considerably. Distance plays a key mediating role as firms, especially in small cities, learned mostly from neighboring peers. We also found that even within a type of imported machine, the source country of the product matters a great deal. Finally, the extent of spillover effects was found to vary a great deal both with respect to the importing firm as well as the composition of peers. Larger, foreign owned and internationalized firms are the ones that benefit from having importing firms in their vicinity, while small and domestically owned firms could actually be adversely affected by peer effects. Our results could be indicative for policy-makers interested in indirect impact of technology upgrade subsidy programs. We found that such indirect effects do exist. However, they are centered on large to large firm interactions. As smaller sized firms producing for the domestic market do not benefit much from import spillovers, policies aimed at helping such firms may not rely on these indirect effects."
       },
       "links": [
@@ -105,8 +105,8 @@
         "color": "mint"
       },
       "abstract": {
-        "preview": "[Abstract to be added]",
-        "full": "[Full abstract to be added]"
+        "preview": "How do firms enter international markets? To answer this question, this paper uses a unique multi-country firm-level dataset ...",
+        "full": "How do firms enter international markets? To answer this question, this paper uses a unique multi-country firm-level dataset which, besides direct exporting and FDI, provides explicit information on a number of internationalization modes: indirect exporting, outsourced manufacturing and service FDI. We present a theoretical framework in which modes requiring higher and higher commitment have progressively higher fixed and lower marginal costs. By estimating multinomial and ordered logit models, we present evidence in line with such a sorting framework with respect to TFP and innovativeness. We identify three ’clusters’ of modes: indirect exporters are similar to non-exporters, direct exporters and outsourced manufacturers constitute a second cluster while service and manufacturing FDI are the most demanding internationalization modes."
       },
       "links": [
         {"type": "wp", "label": "CEPR DP", "url": "https://cepr.org/publications/dp12693"},
@@ -126,8 +126,8 @@
         "color": "coral"
       },
       "abstract": {
-        "preview": "[Abstract to be added]",
-        "full": "[Full abstract to be added]"
+        "preview": "This paper proposes a simple and transparent method for measuring spatial robustness of regionally estimated coefficients",
+        "full": "This paper proposes a simple and transparent method for measuring spatial robustness of regionally estimated coefficients and considers the role of the administrative districts and of the size of regions. The procedure offers a new solution for a practical empirical issue: comparing the variables of interest across spatially aggregated units. It improves upon existing methods, especially when spatial units are heterogeneous. To illustrate the method, we use Hungarian data and compare estimates of agglomeration externalities at various levels of aggregation. Using the procedure, we find that the method of spatial aggregation seems to be of equal importance to the specification of the econometric model."
       },
       "links": [
         {"type": "slides", "label": "Slides", "url": "[To be added]"}
@@ -145,8 +145,8 @@
         "color": "mint"
       },
       "abstract": {
-        "preview": "[Abstract to be added]",
-        "full": "[Full abstract to be added]"
+        "preview": "This paper examines how exporting firms adapt to the uncertainty stemming from demand volatility. ...",
+        "full": "This paper examines how exporting firms adapt to the uncertainty stemming from demand volatility. By using monthly customs data from France, we decompose exports into different extensive and intensive margins including two novel margins: the number of months the firms exported (frequency) and the average export value per month. We establish four empirical patterns. First, firms export less to markets with higher demand volatility. Second, this effect is mainly explained by the frequency margin. Third, volatility affects the frequency margin through two channels: indirectly through lower trade volume and directly through logistics re-optimization. In particular, our results suggest that firms send less frequent, larger shipments to more uncertain markets conditional on total exports. Fourth, the effect of demand volatility is magnified on markets with longer time-to-ship. We propose that these observations are in line with simple stochastic inventory management approaches."
       },
       "links": [
         {"type": "wp", "label": "CEPR DP", "url": "https://cepr.org/publications/dp11013"},
@@ -165,8 +165,8 @@
         "color": "coral"
       },
       "abstract": {
-        "preview": "[Abstract to be added]",
-        "full": "[Full abstract to be added]"
+        "preview": "We show that estimating productivity premia for internationalization modes requires information compression when  ...",
+        "full": "We show that estimating productivity premia for internationalization modes requires information compression when firms can choose from many modes. Using a unique database of European firms we illustrate the different approaches and suggest that researchers should deliberately choose from them."
       },
       "links": [
         {"type": "slides", "label": "Slides", "url": "[To be added]"}
@@ -184,8 +184,8 @@
         "color": "mint"
       },
       "abstract": {
-        "preview": "[Abstract to be added]",
-        "full": "[Full abstract to be added]"
+        "preview": "We use a representative and cross-country comparable sample of manufacturing firms (EFIGE) to document patterns of interaction among firm-level internationalization, innovation and productivity ...",
+        "full": "We use a representative and cross-country comparable sample of manufacturing firms (EFIGE) to document patterns of interaction among firm-level internationalization, innovation and productivity across seven European countries (Austria, France, Germany, Hungary, Italy, Spain, United Kingdom). We find strong evidence of positive association among the three firm-level characteristics across countries and sectors. We also find that the positive correlation between internationalization and innovation survives after controlling for productivity, with some evidence of causality running from the latter to the former. Our analysis suggests that export promotion per se is unlikely to lead to sustainable internationalization because internationalization goes beyond export and because, in the medium to long term, internationalization is likely driven by innovation. We recommend coordination and integration of internationalization and innovation policies ‘under one roof’ at both the national and EU levels, and propose a bigger coordinating role for EU institutions."
       },
       "links": [
         {"type": "blog", "label": "VOXEU Blog", "url": "https://voxeu.org/article/internationalisation-innovation-and-productivity-firms"},
@@ -204,8 +204,8 @@
         "color": "coral"
       },
       "abstract": {
-        "preview": "[Abstract to be added]",
-        "full": "[Full abstract to be added]"
+        "preview": "While most empirical studies in economic geography document a steady and positive correlation between regional density and firm productivity, the impact is not ...",
+        "full": "While most empirical studies in economic geography document a steady and positive correlation between regional density and firm productivity, the impact is not homogeneous across firms. Importantly, recent international trade literature showed that trading firms are different in terms of workforce, size and productivity. We argue that externalities that determine density premium for firms will be affected by the firms' involvement in trade. Indeed, firms active in international trade may employ a different bundle of resources and be organized differently so that they would appreciate inputs and information in a different fashion and intensity. Using Hungarian manufacturing firm level data from 1992 to 2003 at a 150 micro-region level, we show that the elasticity of agglomeration on productivity is much larger for traders than for non-traders. As firms' trade participation is endogenous to firm performance, we offer various treatment methods of this endogeneity issue. We find that our key results are robust and well above the gap suggested by simple self-selection models."
       },
       "links": [
         {"type": "slides", "label": "Slides", "url": "[To be added]"}
@@ -223,8 +223,8 @@
         "color": "mint"
       },
       "abstract": {
-        "preview": "[Abstract to be added]",
-        "full": "[Full abstract to be added]"
+        "preview": "Using Hungarian firm-transaction level export data, we show that about one third of firm–destination and about one half of firm–product–destination export spells are short-lived ...",
+        "full": "Using Hungarian firm-transaction level export data, we show that about one third of firm–destination and about one half of firm–product–destination export spells are short-lived, or temporary, each year. This is in odds with theories where comparative advantage is stable and market entry costs are sunk. We show how endogenous choice between variable and sunk cost trade technologies can explain the empirical importance and some characteristics of temporary trade. We build a model in which the likelihood of temporary trade depends on productivity and capital cost of the firm as well as well-known gravity variables of destinations. These predictions are borne out by the data; the likelihood of permanent trade, defined by a simple filter, rises with firm productivity, financial stability, proximity and GDP of destination countries."
       },
       "links": [
         {"type": "blog", "label": "VOXEU Blog", "url": "https://cepr.org/voxeu/columns/temporary-trade-exporting-only-once-while"},
@@ -264,8 +264,8 @@
         "color": "mint"
       },
       "abstract": {
-        "preview": "[Abstract to be added]",
-        "full": "[Full abstract to be added]"
+        "preview": "This paper provides a detailed description of Hungarian trade data and key patterns drawn at the firm and product level ...",
+        "full": "This paper provides a detailed description of Hungarian trade data and key patterns drawn at the firm and product level. In the Bernard et al. (2007) tradition, statistics describe the prevalence of trading activity, typology of firms by internationalisation, and concentration of trade volume within and across sectors both for exports and imports. There are several similarities as well as differences to key US and EU findings. Trade concentration in Hungary is slightly higher than in most European countries and foreign ownership and the role of foreign firms in trade is higher. Furthermore, firm heterogeneity is also studied in terms of traded products as well as partner countries. While the share of single-product exporters is similar to the US, there are certainly fewer Hungarian single-country exporters. With some transition-related differences, we find Hungarian trade activity to broadly match most open economy evidence. Throughout the paper, we use the IEHAS-CEFiG Hungary dataset, an almost universal panel of balance sheet information (1992–2006) merged with firm-product-country level customs data (1992–2003) taken until the 2004 EU accession."
       },
       "links": [
         {"type": "slides", "label": "Slides", "url": "[To be added]"}
