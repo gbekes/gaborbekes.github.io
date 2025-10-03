@@ -20,7 +20,7 @@ analysis using R and Stata, taught at Central European University and supported
 by the textbook [Data Analysis for Business, Economics and Policy](/textbook/).
 
 
-## Courses taught
+## Courses taught (CEU)
 
 * Data Analaysis 1 (chapters 01 to 06 of Békés-Kézdi) -- graduate level (applied MA/MS)
 * Data Analaysis 2 (chapters 07 to 12 of Békés-Kézdi) -- graduate level (applied MA/MS)
@@ -32,4 +32,6 @@ by the textbook [Data Analysis for Business, Economics and Policy](/textbook/).
 * Data Analysis with AI 1 (BA/MA)
 * Data Analysis with AI 2 (MA/PHD)
 
+## Past courses
 
+* Economic Geography and Urban Economics (BA and MA)
