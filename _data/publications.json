@@ -294,14 +294,15 @@
   "work_in_progress_globalization": [
     {
       "id": "robots_adoption",
-      "title": "Robots Adoption and its impact: Evidence from Hungary",
+      "title": "Integrators and Robot Adoption: Facts from Hungary",
       "authors": ["Rosario Crinó", "Gino Gancia", "Alessandra Bonfiglioli"],
       "status": "Work in Progress",
       "abstract": {
-        "preview": "[Abstract to be added]",
-        "full": "[Full abstract to be added]"
+        "preview": "This paper explores the role of intermediaries in facilitating the adoption of industrial robots. Using firm-to-firm transactions in Hungary, ...",
+        "full": "This paper explores the role of intermediaries in facilitating the adoption of industrial robots. Using firm-to-firm transactions in Hungary, we identify robot integrators and document five new facts. First, most firms adopting robots do so through integrators rather than directly importing them. Second, integrators significantly benefit small and medium-sized firms, which may not have the scale to adopt robots independently. Third, robot integrators tend to be larger, more productive and more capital intensive than other firms in their industries. Fourth, integrators are particularly exposed to foreign import shocks. Fifth, robot adoption though integrators is more lumpy than robot imports."
       },
       "links": [
+        {"type": "wp", "label": "CEPR DP", "url": "https://cepr.org/publications/dp20026"},
         {"type": "slides", "label": "Slides", "url": "/assets/pdf/BBCG-Jul2025-slides.pdf"}
       ]
     },
@@ -335,7 +336,7 @@
       "id": "supplier_buyer_gvc",
       "title": "Supplier-buyer relationships in global value chains",
       "authors": ["Balázs Muraközy", "Álmos Telegdy", "Miklós Koren"],
-      "status": "Work in Progress",
+      "status": "Work in Progress (resting)",
       "abstract": {
         "preview": "[Abstract to be added]",
         "full": "[Full abstract to be added]"
@@ -369,8 +370,8 @@
         "full": "How do workers learn from coworkers when collaboration is essential? We investigate learning mechanisms using European men's football — a setting that overcomes key limitations of linked employer employee administrative data. Unlike these datasets, we observe direct collaboration (passes between players), better estimated and frequently-updated human capital measures (transfer market values) that alleviates wage rigidity, and professional skill evolution. We confirm that 10% higher peer quality associates with 3% higher wage growth. However, we uncover previously hidden mechanisms: First, conditional on average quality, team composition and exposure to stars do not affect learning. Second, better peers reduce individual playing time, causing standard estimates to underestimate learning effects by 30%. Third, intensive collaboration with high-quality peers drives learning—one standard deviation more passes with top colleagues yields 10% higher wage growth. Fourth, peer effects manifest in learnable skills (passing, reactions) but not innate abilities (speed), providing evidence against selection bias. Finally, learning persists after job changes, suggesting genuine human capital accumulation rather than temporary complementarities. Our granular production data reveals that workplace learning depends critically on direct interaction opportunities, not mere proximity to talent. "
       },
       "links": [
-        {"type": "wp", "label": "WP Version", "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5378338"},
-        {"type": "slides", "label": "Slides", "url": "[To be added]"}
+        {"type": "wp", "label": "WP on SSRN", "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5378338"}
+        
       ]
     }
   ]
