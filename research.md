@@ -3,7 +3,12 @@ title: "Research"
 layout: single
 author_profile: false
 permalink: /research/
+toc: true
+toc_label: "Research Sections"
+toc_icon: "bookmark"
+toc_sticky: true
 ---
+
 
 ## Publications in Refereed Journals
 
