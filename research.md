@@ -220,7 +220,7 @@ Hungary and the Euro: Waitingfor Godot in Economic and Political Challenges of A
 
 # In Hungarian (Magyarul)
 
-## Folyóirat cikkek
+## Papers in Hungarian journals (Folyóirat cikkek)
 
 Területi Egyensúly a munkaerőpiac és az ingatlanárak kapcsolata Magyarországon (with Marta Bisztray), Szigma, LI. (2020) 3. 185-214 (September 2020) 
 
@@ -236,15 +236,12 @@ A teremtő rombolás szerepe a vállalati termelékenység alakulásában Magyar
 
 Optimális valutaövezetek, gazdasági integráltság és hasonlatosság: az Európai Unió példája(Optimum currency areas, economic integration and similarity: the case of the EU) in Hungarian in Közgazdasági Szemle (1998. (Vol 45.) 7-8. . 709p)
 
-## Könyvfejezetek
+## Hungarian Book chapters (Könyvfejezetek)
 
 Nemzeti innovációs rendszer (National Innovation System) in  G. Pörzse (ed) Kutatásszervezés és innovációmenedzsment az egészség- és élettudományok területén, Semmelweis Kiadó, 2011
 
 Innovációs klaszterek és tudásparkok (Innovation clusters and science parks) in Pörzse Gábor (ed): Innovációmenedzsment. - Budapest : Semmelweis Kiadó, 2008.
 
-## Műhelytanulmányok
-
-Benzinárak földrajzi meghatározása (Geography of petrol prices with Koren Miklós, Zsohár Péter: ),  MT-DP 2011/30
 
 <script>
 function toggleAbstract(id) {
