@@ -1,0 +1,26 @@
+---
+title: "Globalization and Industrial Policy: Evidence from Austro-Hungarian Monarchy"
+layout: single               
+classes: wide                
+author_profile: false
+permalink: /kukip/
+---
+
+## Globalization and Industrial Policy: Evidence from the Austro-Hungarian Monarchy (IP-KuK)
+
+**by Gábor Békés (CEU) and Claudia Steinwender (LMU)**
+
+
+The IP-KuK project examines industrial policy in the Austro-Hungarian Monarchy (1870–1910) to understand how export promotion and targeted tariff policies affect economic development. We focus on two historical interventions: the 1900 Paris Exhibition’s role in promoting Hungarian firms internationally, and export-contingent input tariff reductions in the milling industry during the 1880s. These policies offer insights into mechanisms that remain relevant for contemporary industrial policy debates, particularly in low- and middle-income countries seeking export-led growth.
+
+The project creates new firm-level panel datasets from previously unexplored archival sources in Vienna, Budapest, and regional libraries, covering the 1870–1910 period. In addition to extensive archival work, we employ machine learning and genAI methods to enhance digitization and entity recognition efforts. 
+
+We employ quasi-experimental methods to identify causal effects on firm performance, technology adoption, and regional development. The historical setting provides cleaner identification than modern contexts, where multiple interventions overlap, and also allows us to study the role of cultural and ethnic diversity—an issue with clear parallels to modern multiethnic economies such as the European Union. Additionally, we are compiling the first comprehensive catalog of industrial policies implemented in the Austro-Hungarian Monarchy, addressing a major gap in the literature on 19th-century state intervention outside Western Europe.
+
+This three-year project is funded by the Austrian Science Fund (FWF) and German Research Foundation (DFG).
+
+The research teams at Central European University Vienna is led by [Gábor Békés](https://people.ceu.edu/gabor_bekes), Associate Professor, Department of Economics. 
+
+The research team at the Ludwig Maximilian University Munich is led by [Claudia Steinwender](https://www.econ.lmu.de/en/persons/contact-page/claudia-steinwender-8e9b8882.html), Professor, Department of Economics.
+
+Expected starting date: 1 January 2026
