@@ -26,6 +26,10 @@ The research teams at Central European University Vienna (AT) is led by [Gábor 
 
 The research team at the Ludwig Maximilian University Munich (DE) is led by [Claudia Steinwender](https://www.econ.lmu.de/en/persons/contact-page/claudia-steinwender-8e9b8882.html), Professor, Department of Economics.
 
+
+![claudia and gabor](/assets/images/claudia-gabor-munich-2025-10.jpg){: .align-center height="65%" width="65%"}
+<p style="text-align:center;">LMU Munich Economic History Library, Austria section.</p>
+
 External project partners are [Réka Juhász](https://economics.ubc.ca/profile/reka-juhasz/) of University of British Columbia (CA) and [Tamás Vonyó](https://sps.unibocconi.eu/people/tamas-vonyo) of Bocconi University (IT). 
 
 Expected starting date: 1 January 2026
