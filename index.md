@@ -13,9 +13,10 @@ permalink: /
 
 <div class="content-section">
   <div class="tommy-accent" style="text-align: center; margin-bottom: 1rem;">ACADEMIC PROFILE</div>
-  <h2>About Me</h2>
-  <p>I am an Associate Professor at the <span class="institution-name">Central European University</span> <span class="tommy-accent">Department of Economics and Business</span> and a senior research fellow at the <span class="institution-name">KRTK Institute of Economics</span> in Hungary, and research fellow at CEPR.</p>
-  
+  <h2>Short Bio</h2>
+
+  <p>Gábor Békés is associate professor of Economics at the <span class="institution-name">Central European University</span> in Vienna, senior research fellow at <span class="institution-name">ELTE KRTK Institute of Economics</span> in Budapest and research fellow at <span class="institution-name">CEPR</span>. He is an applied economist who studies how globalization reshapes firms, locations, and organizations, based on large-scale firm- and transaction-level microdata. He is the co-author of <span class="tommy-accent">Data Analysis for Business, Economics, and Policy</span>, a textbook published by Cambridge University Press. His new <span class="institution-name">Data Analysis and AI Lab</span> studies the use of genAI in the process of data analysis, creates educational materials and helps link academia and industry.</p>
+
   <div style="text-align: center; margin: 3rem 0; padding: 2rem; background: var(--wes-light-coral); border: 3px solid var(--wes-coral);">
     <div class="since-style" style="margin-bottom: 1rem;">PUBLISHED 2021</div>
     <h3 style="margin-bottom: 1rem;">DATA ANALYSIS TEXTBOOK</h3>
