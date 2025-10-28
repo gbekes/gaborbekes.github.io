@@ -22,6 +22,8 @@ We employ quasi-experimental methods to identify causal effects on firm performa
 
 This three-year project is funded by the Austrian Science Fund (FWF) and German Research Foundation (DFG) via the wonderful [Weave](https://www.fwf.ac.at/en/funding/portfolio/international-collaborations/germany) collaboration scheme connecting European Science. 
 
+The grant's total funding is over 800 thousand euros.
+
 The research teams at Central European University Vienna (AT) is led by [Gábor Békés](https://people.ceu.edu/gabor_bekes), Associate Professor, Department of Economics. He is first joined by Mátyás Molnár, a PhD student at CEU. 
 
 The research team at the Ludwig Maximilian University Munich (DE) is led by [Claudia Steinwender](https://www.econ.lmu.de/en/persons/contact-page/claudia-steinwender-8e9b8882.html), Professor, Department of Economics.
