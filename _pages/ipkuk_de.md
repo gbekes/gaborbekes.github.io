@@ -18,11 +18,16 @@ Das Projekt erstellt neue Panel-Datensätze auf Unternehmensebene aus bisher une
 
 Wir verwenden quasi-experimentelle Methoden, um kausale Effekte auf die Unternehmensleistung, die Technologieeinführung und die regionale Entwicklung zu identifizieren. Der historische Kontext ermöglicht eine klarere Identifizierung als moderne Kontexte, in denen sich mehrere Interventionen überschneiden, und erlaubt es uns außerdem, die Rolle der kulturellen und ethnischen Vielfalt zu untersuchen – ein Thema, das klare Parallelen zu modernen multiethnischen Volkswirtschaften wie der Europäischen Union aufweist. Darüber hinaus erstellen wir den ersten umfassenden Katalog der in der österreichisch-ungarischen Monarchie umgesetzten Industriepolitik und schließen damit eine große Lücke in der Literatur über staatliche Interventionen im 19. Jahrhundert außerhalb Westeuropas.
 
-### Die Förderung und das Team
+### Die Förderung 
 
 Dieses dreijährige Projekt wird vom Österreichischen Wissenschaftsfonds (FWF) und der Deutschen Forschungsgemeinschaft (DFG) über das wunderbare Kooperationsprogramm [Weave](https://www.fwf.ac.at/en/funding/portfolio/international-collaborations/germany) finanziert, das die europäische Wissenschaft verbindet.
 
-Die Gesamtfördersumme beträgt über 800.000 Euro.
+Die Gesamtfördersumme ist 800.000 Euro.
+
+Voraussichtlicher Starttermin: 1. Januar 2026
+
+
+### Das Team
 
 Das Forschungsteam an der Central European University Vienna (AT) wird von [Gábor Békés](https://people.ceu.edu/gabor_bekes), außerordentlicher Professor am Fachbereich Wirtschaftswissenschaften, geleitet. Zu ihm gesellt sich zunächst Mátyás Molnár, Doktorand an der CEU.
  
@@ -32,5 +37,3 @@ Das Forschungsteam an der Ludwig Maximilians Universität München (DE) wird von
 <p style="text-align:center;">LMU München, Bibliothek für Wirtschaftsgeschichte, Abteilung Österreich.
 
 Externe Projektpartner sind [Réka Juhász](https://economics.ubc.ca/profile/reka-juhasz/) von der University of British Columbia (CA) und [Tamás Vonyó](https://sps.unibocconi.eu/people/tamas-vonyo) von der Bocconi-Universität (IT).
-
-Voraussichtlicher Starttermin: 1. Januar 2026
