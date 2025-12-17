@@ -9,8 +9,9 @@ redirect_from:
   - /ref-letter.html
 ---
 
-{% include base_path %}
+This is my current policy of writing recommendation letters.
 
+*This version: v.1.1. Date: 2026-12-17*
 
 # Recommendation Letters
 
