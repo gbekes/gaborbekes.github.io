@@ -38,3 +38,18 @@ The research team at the Ludwig Maximilian University Munich (DE) is led by [Cla
 
 External project partners are [Réka Juhász](https://economics.ubc.ca/profile/reka-juhasz/) of University of British Columbia (CA) and [Tamás Vonyó](https://sps.unibocconi.eu/people/tamas-vonyo) of Bocconi University (IT). 
 
+## JOBS
+
+### Predoc opportunity
+
+We are searching for a highly skilled and motivated full-time (40 hours per week) pre-doctoral research assistant (RA) for a period of two years, starting sometime between June and September 2026. 
+
+Deadline is **2026-02-23**
+
+The succesful candidate will be 
+* based be at Ludwig-Maximilians-Universität in Munich, Germany.
+* join a team of researchers and PhD students from both universities. 
+* responsible for locating, cleaning, digitizing and analyzing large-scale datasets, and support the professors on other tasks such as researching historical literature and context. 
+* benefitting from mentoring and career advice by the professors
+
+For details and application info please check out the [vacancy call](/assets/pdf/lmu-predod-2026.pdf)
