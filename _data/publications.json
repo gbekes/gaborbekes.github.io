@@ -346,6 +346,38 @@
       ]
     }
   ],
+{
+      "id": "vibe_coding_kills_open_source",
+      "title": "Vibe Coding Kills Open Source",
+      "authors": ["Miklós Koren", "Gábor Békés", "Julian Hinz", "Aaron Lohmann"],
+      "series": {
+        "publisher": "CEPR Discussion Paper",
+        "number": "DP21145",
+        "url": "https://cepr.org/publications/dp21145"
+      },
+      "preprint": {
+        "url": "https://arxiv.org/html/2601.15494v1"
+      },
+      "abstract": {
+        "preview": "The paper analyses how AI-assisted 'vibe coding' affects open-source engagement and ecosystem sustainability.",
+        "full": "Generative AI is changing how software is produced. In vibe coding, an AI agent builds software by selecting and assembling open-source software with minimal direct developer reading or engagement. We model equilibrium effects on OSS entry, quality, and maintainer returns, showing that widespread vibe coding can lower user engagement, reduce OSS availability and quality, and decrease welfare unless maintainer compensation mechanisms change."
+      },
+      "links": [
+        {"type": "cepr", "label": "CEPR DP", "url": "https://cepr.org/publications/dp21145"},
+        {"type": "preprint", "label": "arXiv preprint", "url": "https://arxiv.org/html/2601.15494v1"}
+      ],
+      "media": [
+        {"name": "The Register", "url": "https://www.theregister.com/2026/01/26/vibe_coding_hazardous_open_source/"},
+        {"name": "404 media", "url": "https://www.404media.co/vibe-coding-is-killing-open-source-software-researchers-argue/"},
+        {"name": "IT Magazine (CH)", "url": "https://www.itmagazine.ch/artikel/86473/Kritiker_sehen_in_Vibe-Coding_Gefahr_fuer_Open-Source-Community.html"},
+        {"name": "PC Gamer", "url": "https://www.pcgamer.com/software/ai/vibe-coding-kills-open-source-claims-new-paper-as-its-authors-lament-the-lack-of-human-attention-towards-oss-products/"},
+        {"name": "Hackaday", "url": "https://hackaday.com/2026/02/02/how-vibe-coding-is-killing-open-source/"},
+        {"name": "Wikipedia (Vibe coding)", "url": "https://en.wikipedia.org/wiki/Vibe_coding"},
+        {"name": "Reddit r/opensource thread", "url": "https://www.reddit.com/r/opensource/comments/1qv62hq/how_vibe_coding_is_killing_open_source/"}
+      ]
+    },
+  
+ 
   "work_in_progress_organizations": [
     {
       "id": "connected_choices",
