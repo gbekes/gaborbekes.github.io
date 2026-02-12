@@ -346,7 +346,9 @@
       ]
     }
   ],
-{
+  
+  "work_in_progress_organizations": [
+      {
       "id": "vibe_coding_kills_open_source",
       "title": "Vibe Coding Kills Open Source",
       "authors": ["Miklós Koren", "Gábor Békés", "Julian Hinz", "Aaron Lohmann"],
@@ -376,9 +378,7 @@
         {"name": "Reddit r/opensource thread", "url": "https://www.reddit.com/r/opensource/comments/1qv62hq/how_vibe_coding_is_killing_open_source/"}
       ]
     },
-  
- 
-  "work_in_progress_organizations": [
+    
     {
       "id": "connected_choices",
       "title": "Connected Choices: Business Group Affiliation and FDI Location Decisions",
