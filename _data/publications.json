@@ -378,7 +378,22 @@
         {"name": "Reddit r/opensource thread", "url": "https://www.reddit.com/r/opensource/comments/1qv62hq/how_vibe_coding_is_killing_open_source/"}
       ]
     },
+    {
+      "id": "roma_murders",
+      "title": "Right-wing terrorism and far-right support: Evidence from anti-Roma attacks in Hungary",
+      "authors": ["Attila Gáspár", "Gábor Simonovits", "Márton Végh"],
+      "status": "Conditionally accepted, POLITICAL SCIENCE RESEARCH AND METHODS",
+      "abstract": {
+        "preview": "How do ethnically motivated terrorist attacks shape electoral support for the far right?  ...",
+        "full": "How do ethnically motivated terrorist attacks shape electoral support for the far right? We study a unique case: a coordinated series of anti-Roma murders in Hungary in 2008–2009, the most severe episode of anti-minority violence in the country since World War II. Combining difference-in-differences and synthetic control methods, we compare attacked settlements to multiple counterfactuals, including planned-but-unrealized targets. We find that Jobbik, Hungary’s radical right party, gained 11–14 percentage points more support in attacked villages than in comparable controls in the 2010 election—an increase 53–70% larger than baseline trends. The effect persisted for several years and spilled over to nearby settlements. In contrast to some research from Western Europe suggesting that right-wing terrorism can reduce far-right appeal, our findings highlight how deep-seated prejudice can reverse this pattern. The results underscore the importance of antecedent inter-group relations in conditioning political reactions to ethnic violence."
+      },
+      "links": [
+        {"type": "slides", "label": "Slides", "url": "https://kti.krtk.hu/publikacio/right-wing-terrorism-and-far-right-support-evidence-from-anti-roma-attacks-in-hungary/"}
+      ]
+    },
     
+
+
     {
       "id": "connected_choices",
       "title": "Connected Choices: Business Group Affiliation and FDI Location Decisions",
