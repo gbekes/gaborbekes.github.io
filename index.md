@@ -49,9 +49,9 @@ permalink: /
     
     <div style="background: white; border: 3px solid var(--wes-mint); padding: 2rem;">
       <div class="year-style" style="color: var(--wes-mint); margin-bottom: 1rem;">OCT 2</div>
-      <h4 style="text-align: left; color: var(--wes-mint); margin-bottom: 1rem;">KRTK KTI SEMINAR</h4>
-      <div class="tommy-accent" style="margin-bottom: 1rem;">BUDAPEST, HUNGARY</div>
-      <a href="/assets/pdf/BBCG-Jul2025-slides.pdf" class="btn btn--info btn--small" target="_blank">DOWNLOAD SLIDES</a>
+      <h4 style="text-align: left; color: var(--wes-mint); margin-bottom: 1rem;">Vibe coding kills OSS </h4>
+      <div class="tommy-accent" style="margin-bottom: 1rem;">Ericcson, Automattic</div>
+      <a href="https://cepr.org/publications/dp21145" class="btn btn--info btn--small" target="_blank">DOWNLOAD SLIDES</a>
     </div>
   </div>
 </div>
@@ -110,11 +110,10 @@ permalink: /
     </div>
     
     <div style="background: var(--wes-light-mint); padding: 2rem; border-left: 5px solid var(--wes-mint);">
-      <div class="tommy-accent" style="margin-bottom: 0.5rem;">NEW DEVELOPMENT</div>
+      <div class="tommy-accent" style="margin-bottom: 0.5rem;">NEW</div>
       <h4 style="text-align: left; margin-bottom: 1rem; color: var(--wes-mint);">DATA ANALYSIS WITH AI</h4>
-      <p style="color: var(--wes-navy); margin-bottom: 1.5rem;">New open access course (in development)</p>
-      <div style="background: var(--wes-yellow); color: var(--wes-navy); padding: 0.5rem 1rem; border-radius: 8px; text-align: center; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; font-size: 0.8rem;">
-        COMING SOON
+      <p style="color: var(--wes-navy); margin-bottom: 1.5rem;">New open access course (regularly updated)</p>
+      <a href="https://gabors-data-analysis.com/ai-course/" class="btn btn--small">TEXTBOOK INFO</a>
       </div>
     </div>
   </div>
