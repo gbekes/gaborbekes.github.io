@@ -51,7 +51,7 @@ permalink: /
       <div class="year-style" style="color: var(--wes-mint); margin-bottom: 1rem;">OCT 2</div>
       <h4 style="text-align: left; color: var(--wes-mint); margin-bottom: 1rem;">Vibe coding kills OSS </h4>
       <div class="tommy-accent" style="margin-bottom: 1rem;">Ericcson, Automattic</div>
-      <a href="https://cepr.org/publications/dp21145" class="btn btn--info btn--small" target="_blank">DOWNLOAD SLIDES</a>
+      <a href="https://cepr.org/publications/dp21145" class="btn btn--info btn--small" target="_blank">CEPR DP</a>
     </div>
   </div>
 </div>
@@ -112,8 +112,8 @@ permalink: /
     <div style="background: var(--wes-light-mint); padding: 2rem; border-left: 5px solid var(--wes-mint);">
       <div class="tommy-accent" style="margin-bottom: 0.5rem;">NEW</div>
       <h4 style="text-align: left; margin-bottom: 1rem; color: var(--wes-mint);">DATA ANALYSIS WITH AI</h4>
-      <p style="color: var(--wes-navy); margin-bottom: 1.5rem;">New open access course (regularly updated)</p>
-      <a href="https://gabors-data-analysis.com/ai-course/" class="btn btn--small">TEXTBOOK INFO</a>
+      <p style="color: var(--wes-navy); margin-bottom: 1.5rem;">Open access upskilling course for econonimcs/ social science students</p>
+      <a href="https://gabors-data-analysis.com/ai-course/" class="btn btn--small">COURSE MATERIAL</a>
       </div>
     </div>
   </div>
