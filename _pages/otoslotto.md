@@ -72,4 +72,4 @@ Aki csalást gyanít, annak nem a lottógéppel van baja, hanem a véletlennel. 
 
 ---
 
-*Az elemzés a szerencsejatek.hu nyilvános adatai alapján készült. Az adatok, a Python kód és az összes ábra elérhető [a projekt GitHub oldalán](https://github.com/gabors-data-analysis/lotto-analysis). A cikk szerzője Békés Gábor közgazdász, a [Bevezetés az adatelemzésbe](https://gabors-data-analysis.com/) tankönyv társszerzője.*
+*Az elemzés a szerencsejatek.hu nyilvános adatai alapján készült. Az adatok, a Python kód és az összes ábra elérhető [a projekt GitHub oldalán](https://github.com/gbekes/otoslotto/). A cikk szerzője Békés Gábor közgazdász, a [Bevezetés az adatelemzésbe](https://gabors-data-analysis.com/) tankönyv társszerzője.*
