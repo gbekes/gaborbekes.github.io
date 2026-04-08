@@ -72,9 +72,9 @@
 <h1>Csalnak-e az Ötös Lottónál?</h1>
 <p class="subtitle">A teljes történeti adatbázis statisztikai elemzése – 7 teszt, interaktív ábrák</p>
 
-<p class="lead">A magyar internet egyik örökzöld témája, hogy az Ötös Lottó húzásai nem lehetnek véletlenek. Hogy egyes számokat feltűnően sokszor húzák, másokat alig. Fórumokon, kommentszekciókban rendszeresen felmerül a gyanú: a Szerencsejáték Zrt. csal.</p>
+<p class="lead">A magyar internet egyik örökzöld témája, hogy az Ötös Lottó húzásai nem lehetnek véletlenek. Hogy egyes számokat feltűnően sokszor húzák, másokat alig. Fórumokon, kommentszekciókban rendszeresen felmerül a gyanú: a Szerencsejáték vagy épp a magyar állam csal...</p>
 
-<p>Mi erre azt mondjuk: <strong>nézzük meg az adatokat.</strong> Letöltöttük a teljes nyilvános adatbázist az 1957-es indulástól 2026 márciusáig, és hét különböző statisztikai módszerrel vizsgáltuk meg. Az ábrák interaktívak &mdash; vigyék rájuk az egérmutatót a részletekért.</p>
+<p>Mi erre azt mondjuk: <strong>nézzük meg az adatokat!</strong> Letöltöttük a teljes nyilvános adatbázist az 1957-es indulástól 2026 márciusáig, és hét különböző statisztikai módszerrel vizsgáltuk meg. Az ábrák interaktívak &mdash; vigyék rájuk az egérmutatót a részletekért.</p>
 
 <div class="stat-grid">
   <div class="stat-card"><div class="sv">3 604</div><div class="sl">heti húzás</div></div>
@@ -100,7 +100,7 @@
 <!-- ═══════════ 2. OSSZEG ═══════════ -->
 <h2>2. Az öt szám összege: a haranggörbe-teszt</h2>
 
-<p>Ha véletlenül húzunk 5 számot 1-től 90-ig, az összegük egy jól ismert eloszlást követ. A matematika egyik legszebb tétele, a centrális határeloszlás-tétel kimondja: sok véletlen szám összege mindig közel normális (harang alakú) eloszlást követ, függetlenül attól, hogy az egyes számok milyen eloszlásúak. Az elméleti átlag 227.5, szórás 56.8. Ha a húzás manipulált lenne (pl. bizonyos számokat preferálnának), az összeg eloszlása eltérne ettől.</p>
+<p>Ha véletlenül húzunk 5 számot 1-től 90-ig, az összegük egy jól ismert eloszlást követ. A centrális határeloszlás-tétel (CLT) kimondja: sok véletlen szám összege közelítőleg normális (harang alakú) eloszlást követ. Bár itt „csak" 5 számot adunk össze, a közelítés meglepően jól működik — az egyenletes eloszlás szimmetriája miatt a CLT már kis mintánál is kiválóan teljesít. Az elméleti átlag 227.5, szórás 56.8. Ha a húzás manipulált lenne (pl. bizonyos számokat preferálnának), az összeg eloszlása eltérne ettől.</p>
 
 <div class="method-box">
   <div class="mt">🔬 Módszer: Összeg-eloszlás összevetése az elméleti normálissal</div>
@@ -116,7 +116,7 @@
 
 <div class="method-box">
   <div class="mt">🔬 Módszer: Hipergeometrikus eloszlás illeszkedése</div>
-  <p>A piros oszlopok a megfigyelt, a zöldek az elméleti értékek. Az egyezés szinte tökéletes: a páros és páratlan számok aránya <strong>pontosan megfelel</strong> a véletlennek.</p>
+  <p>A kék oszlopok a megfigyelt, a zöldek az elméleti értékek. Az egyezés szinte tökéletes: a páros és páratlan számok aránya <strong>pontosan megfelel</strong> a véletlennek.</p>
 </div>
 
 <div class="chart-box"><div id="chart-paros"></div></div>
@@ -154,7 +154,8 @@
 
 <div class="method-box">
   <div class="mt">🔬 Módszer: Gördülő átlag ±2σ konfidencia-sávval</div>
-  <p>A szürke sáv azt mutatja, mekkora ingadozás normális egy fair játéknál. Ha a görbe tartósan a sávon kívül lenne, az gyanús volna. De <strong>egyik szám sem „szökik meg"</strong> &mdash; a hullámok a véletlen természetes velejárói, mint amikor az érmedobásnál néha öt fej jön egymás után.</p>
+  <p>A szürke sáv azt mutatja, mekkora ingadozás normális egy fair játéknál <em>egyetlen szám</em> esetén. De figyelem: itt 90 számot vizsgálunk egyszerre! Ha 90 számra nézzük a ±2σ sávot, szinte <strong>biztos</strong>, hogy lesz néhány, amelyik időnként kilóg — ez a <em>többszörös tesztelés problémája</em> (multiple testing). Tehát ha találunk egy-két „forró" vagy „hideg" számot, az még tökéletesen normális.</p>
+  <p style="margin-bottom:0;">A lényeg: <strong>egyik szám sem „szökik meg" tartósan</strong> — a hullámok a véletlen természetes velejárói, és az alkalmi kilógások pontosan azt mutatják, amit egy fair lottótól várnánk.</p>
 </div>
 
 <div class="chart-box"><div id="chart-trend"></div></div>
@@ -199,11 +200,9 @@
   <strong>Egyetlen teszt sem mutatott szignifikáns eltérést.</strong> Az Ötös Lottó 1957 és 2026 közötti 3 604 húzása minden vizsgált szempontból pontosan úgy viselkedik, ahogy egy tisztességes, véletlenszerű sorsolástól elvárjuk. Aki csalást gyanít, annak nem a lottógéppel van baja, hanem a véletlennel. A golyók nem emlékeznek a korábbi húzásokra &mdash; a mintázatok, amiket látunk, a véletlen természetes velejárói.
 </div>
 
-<p style="margin-top:2rem;"><strong><a href="/otoslotto-szimulacio.html">&rarr; Mi lenne, ha csalnának? Fizikai szimuláció &rarr;</a></strong></p>
-
 <p class="footer">
-  Az elemzés a <a href="https://szerencsejatek.hu">szerencsejatek.hu</a> nyilvános adatai alapján készült.<br>
-  Szerző: Békés Gábor &middot; <a href="https://gabors-data-analysis.com/">gabors-data-analysis.com</a>
+  Az elemzés a <a href="https://szerencsejatek.hu">szerencsejatek.hu</a> nyilvános adatai alapján készült. v1.2. 2026 április 8.<br>
+  Szerző: Claude AI és Békés Gábor &middot; <a href="https://gabors-data-analysis.com/">gabors-data-analysis.com</a>
 </p>
 
 <script>
