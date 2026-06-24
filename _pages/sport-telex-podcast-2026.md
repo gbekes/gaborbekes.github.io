@@ -1,10 +1,12 @@
 ---
 title: "Amit a sport adataiból a világról megtudhatunk — a Telex-podcast cikkei"
-slug: sport-telex-podcast-2026
-date: 2026
+layout: single
+classes: wide
+author_profile: true
+permalink: /sport-telex-podcast-2026/
+redirect_from:
+  - /sport-telex-podcast-2026.html
 ---
-
-# Amit a sport adataiból a világról megtudhatunk
 
 A [Telex] podcastjában arról beszélgettünk, hogy a profi sport — mindenekelőtt a futball — miért lett a közgazdászok és társadalomtudósok egyik legjobb „laboratóriuma". A sportban ugyanis együtt van három dolog, ami máshol szinte sosem: **minden mérve van** (passzra, másodpercre, ítéletre pontosan, évtizedekre visszamenőleg), **nagy a tét** (milliós fizetések, karrierek), és **tele van kihasználható véletlenekkel** (egy utolsó perces gól, egy kapufa, egy jogszabály-változás, vagy épp a Covid alatti üres lelátó), amelyek lehetővé teszik, hogy okot és okozatot szétválasszunk.
 

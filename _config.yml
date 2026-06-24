@@ -95,6 +95,7 @@ search: true
 # Minimal Mistakes.  Additional plugins can be added here.
 plugins:
   - jekyll-include-cache
+  - jekyll-redirect-from
 
 ###############################################################################
 # Defaults
