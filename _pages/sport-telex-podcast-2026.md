@@ -64,5 +64,11 @@ A *Freakonomics* híres története: a szumóban a 8. győzelem sorsdöntő egy 
 
 **Didier Drogba and civil war** [BBC Didier Drogba: How Ivory Coast striker helped to halt civil war in his home nation](https://www.bbc.com/sport/football/52072592)
 
+**XKCD: Sports Commentary** — [xkcd.com/3262](https://xkcd.com/3262/)
+
+[![XKCD #3262: Sports Commentary](https://imgs.xkcd.com/comics/sports_commentary.png)](https://xkcd.com/3262/)
+
+> „The plural of anecdote may not be data, but the singular of data is anecdote." — *XKCD #3262*
+
 
 *Az oldalt a 2026-os Telex-podcast kísérőanyagaként állítottam össze. Az összefoglalók a magam értelmezései; a pontos eredményekért érdemes az eredeti cikkeket olvasni.*
