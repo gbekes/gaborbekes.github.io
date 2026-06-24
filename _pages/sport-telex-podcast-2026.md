@@ -56,4 +56,11 @@ A *Freakonomics* híres története: a szumóban a 8. győzelem sorsdöntő egy 
 
 ---
 
+## Other
+
+**FIFA** [John Oliver on FIFA 12 years ago](https://www.youtube.com/watch?v=DlJEt2KU33I) and [also later](https://www.youtube.com/watch?v=qr6ar3xJL_Q)
+
+**Didier Drogba and civil war** [BBC Didier Drogba: How Ivory Coast striker helped to halt civil war in his home nation](https://www.bbc.com/sport/football/52072592)
+
+
 *Az oldalt a 2026-os Telex-podcast kísérőanyagaként állítottam össze. Az összefoglalók a magam értelmezései; a pontos eredményekért érdemes az eredeti cikkeket olvasni.*
