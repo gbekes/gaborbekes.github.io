@@ -16,6 +16,7 @@ permalink: /popular-press/
 
 | Date | Title / Description | Source | Language |
 |------|---------------------|--------|----------|
+| 2026-06-17 | [Ha nem nőnek meg a magyar cégek, itthon verik meg őket a csehek és a lengyelek](https://www.portfolio.hu/gazdasag/20260615/ha-nem-nonek-meg-a-magyar-cegek-itthon-verik-meg-oket-a-csehek-es-a-lengyelek-839682vilaggazdasagban) | portfolio.hu | Hungarian |
 | 2025-08-07 | [A szabályok helyett eljött a bullying korszaka a világgazdaságban](https://444.hu/2025/08/07/a-szabalyok-helyett-eljott-a-bullying-korszaka-a-vilaggazdasagban) | 444.hu | Hungarian |
 | 2025-04-10 | [Rövidtávon nyerhet ezen az USA, de középtávon mindenki azt a jövőt tervezi, melyben Amerikának kisebb szerep jut](https://444.hu/2025/04/10/rovidtavon-nyerhet-ezen-az-usa-de-kozeptavon-mindenki-azt-a-jovot-tervezi-melyben-amerikanak-kisebb-szerep-jut) | 444.hu | Hungarian |
 | 2021-09-05 | [A magyar cégek egymástól lesik el az ötleteket, és ezzel egész Magyarország jól jár](https://www.portfolio.hu/krtk/20210905/a-magyar-cegek-egymastol-lesik-el-az-otleteket-es-ezzel-egesz-magyarorszag-jol-jar-498918) | Portfolio (KRTK blog) | Hungarian |
