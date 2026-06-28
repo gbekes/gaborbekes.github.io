@@ -1,5 +1,5 @@
 ---
-title: "Amit a sport adataiból a világról megtudhatunk — a Telex-podcast cikkei"
+title: "A foci mint az emberi viselkedés laboratóriuma"
 layout: single
 classes: wide
 author_profile: true
@@ -8,11 +8,11 @@ redirect_from:
   - /sport-telex-podcast-2026.html
 ---
 
-A [Telex] podcastjában arról beszélgettünk, hogy a profi sport — mindenekelőtt a futball — miért lett a közgazdászok és társadalomtudósok egyik legjobb „laboratóriuma". A sportban ugyanis együtt van három dolog, ami máshol szinte sosem: **minden mérve van** (passzra, másodpercre, ítéletre pontosan, évtizedekre visszamenőleg), **nagy a tét** (milliós fizetések, karrierek), és **tele van kihasználható véletlenekkel** (egy utolsó perces gól, egy kapufa, egy jogszabály-változás, vagy épp a Covid alatti üres lelátó), amelyek lehetővé teszik, hogy okot és okozatot szétválasszunk.
+A [Telex](https://telex.hu/video/2026/06/28/foci-kozgazdasag-kutatas-rasszizmus-passz-bekes-gabor-ceu-krtk-tema-interju) podcastjában arról beszélgettünk, hogy a profi sport — mindenekelőtt a futball — miért lett a közgazdászok és társadalomtudósok egyik legjobb „laboratóriuma". A sportban ugyanis együtt van három dolog, ami máshol szinte sosem: **minden mérve van** (passzra, másodpercre, ítéletre pontosan, évtizedekre visszamenőleg), **nagy a tét** (milliós fizetések, karrierek), és **tele van kihasználható véletlenekkel** (egy utolsó perces gól, egy kapufa, egy jogszabály-változás, vagy épp a Covid alatti üres lelátó), amelyek lehetővé teszik, hogy okot és okozatot szétválasszunk.
 
 Az alábbiakban összegyűjtöttem az adásban szóba került kutatásokat: mindegyiknél a pontos hivatkozás, egy link a cikkhez, és néhány közérthető mondat arról, mi a kérdés és mi a válasz. A **★** a saját, szerzőtársaimmal közös kutatásaimat jelöli.
 
-*(Az adás itt hallgatható meg: [link a Telex-epizódhoz].)*
+*(Az adás itt hallgatható meg: [link a Telex-epizódhoz](https://telex.hu/video/2026/06/28/foci-kozgazdasag-kutatas-rasszizmus-passz-bekes-gabor-ceu-krtk-tema-interju).)*
 
 ---
 
