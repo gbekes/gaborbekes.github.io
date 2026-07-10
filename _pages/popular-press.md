@@ -10,6 +10,7 @@ permalink: /popular-press/
 
 | Date | Title / Description | Source | Language |
 |------|---------------------|--------|----------|
+| 2026 | [Teaching Analytics in the Age of AI](/ceu-ai-podcast-2026/) — highlights & transcript ([listen](https://podcasts.ceu.edu/content/teaching-analytics-age-ai-gabor-bekes)) | CEU Podcasts | English |
 | 2024-01-02 | [Meet Our Faculty – Gabor Bekes](https://www.youtube.com/watch) | CEU / YouTube | English |
 
 ## Economics - Hungarian
