@@ -10,7 +10,11 @@ redirect_from:
 
 I was a guest on **CEU's *Teaching Analytics in the Age of AI*** podcast, in conversation with **Eduardo Ariño de la Rubia**. We talked about how AI is changing what — and how — we teach data analysis: why almost every classic form of assessment is now in trouble, what "taste" is and why it has become the scarcest skill, how a single December of playing with coding harnesses like Claude Code upended a whole course, and why the real bottleneck to AI's economic impact is organisational, not technical.
 
-*Listen to the episode here: [Teaching Analytics in the Age of AI — Gábor Békés (CEU Podcasts)](https://podcasts.ceu.edu/content/teaching-analytics-age-ai-gabor-bekes).*
+Listen to the episode here:
+
+* [**Spotify**](https://open.spotify.com/episode/5UnHjtBGoue2vQId5TxIca)
+* [**Apple**](https://podcasts.apple.com/hu/podcast/teaching-analytics-in-the-age-of-ai/id6788739867)
+* [**CEU Podcasts**](https://podcasts.ceu.edu/content/teaching-analytics-age-ai-gabor-bekes).*
 
 Below is a set of highlights, a few memorable lines, and a lightly edited transcript of the conversation.
 
@@ -24,21 +28,6 @@ Below is a set of highlights, a few memorable lines, and a lightly edited transc
 - **The macro shift is huge but slow.** AI is probably as important as electricity or the internet — but the adoption bottleneck is organisational, not that your laptop can't reach the model. Rewiring an organisation to actually raise productivity takes years, not weeks.
 - **Advice to students: be brave and experiment.** AI can do a lot, but nobody yet knows exactly what. Try things you don't think you can do, then go back and understand enough to judge the result. If you can, get someone to fund your tokens.
 
----
-
-## Memorable lines
-
-> "So you should say, *No* — even though I can do it, it's not going to bring in an insight. This is what I mean by taste. It's very important."
-
-> "Having anything other than an in-class pen-and-paper exam is in jeopardy. Whenever students can interact with technology, examination as such is gone."
-
-> "AI is at a stage where it can do a lot of things, but we don't exactly know what. So there is great room for experimentation. You should be brave — do things you don't think you'd be able to do, then go back and understand as much as possible so you can judge it."
-
-> "The big picture is that we allocate resources — cutting some things and doing much more to figure out what AI means for us. That's the biggest risk: not doing that."
-
-> "The barrier is how an organisation is able to completely rewire itself to let this technology become part of everyday work and increase productivity."
-
----
 
 ## The conversation
 
@@ -194,7 +183,25 @@ How has it affected me? I do a lot of "useless" side projects I wouldn't otherwi
 
 - **Textbook:** Békés, Gábor & Gábor Kézdi (2021): *Data Analysis for Business, Economics, and Policy*, Cambridge University Press — [gabors-data-analysis.com](https://gabors-data-analysis.com/)
 - **Course:** *Data Analysis with AI* — [the open course materials](https://gabors-data-analysis.com/ai-course/)
-- **Film:** *Arrival* (2016), dir. Denis Villeneuve — Gábor's running metaphor for how you develop "taste."
+- **Film:** *Arrival* [-- a 2016 movie directed by Denis Villeneuve](https://en.wikipedia.org/wiki/Arrival_(film)) — Gábor's running metaphor for how you develop "taste."
 - **Tools mentioned:** Claude Code, ChatGPT, Gemini, [OpenRouter](https://openrouter.ai/), open-weight models.
+
+
+---
+
+## Memorable lines
+
+> "So you should say, *No* — even though I can do it, it's not going to bring in an insight. This is what I mean by taste. It's very important."
+
+> "Having anything other than an in-class pen-and-paper exam is in jeopardy. Whenever students can interact with technology, examination as such is gone."
+
+> "AI is at a stage where it can do a lot of things, but we don't exactly know what. So there is great room for experimentation. You should be brave — do things you don't think you'd be able to do, then go back and understand as much as possible so you can judge it."
+
+> "The big picture is that we allocate resources — cutting some things and doing much more to figure out what AI means for us. That's the biggest risk: not doing that."
+
+> "The barrier is how an organisation is able to completely rewire itself to let this technology become part of everyday work and increase productivity."
+
+---
+
 
 *This page is a companion to the 2026 CEU podcast episode. The highlights and section headings are my own; the transcript is a lightly edited machine transcription, so treat quotations as close paraphrases unless checked against the audio.*
