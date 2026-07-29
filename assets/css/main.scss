@@ -405,6 +405,26 @@ h3::after, h4::after, h5::after, h6::after {
   white-space: nowrap;
 }
 
+// One-line section jump links (research page)
+.jumplinks {
+  font-family: 'Roboto Condensed', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  font-size: 0.8rem;
+  margin: 0.3rem 0 0 0 !important;
+
+  a {
+    color: var(--wes-coral);
+    margin-right: 1.4rem;
+    border-bottom: 1px solid transparent;
+
+    &:hover {
+      text-decoration: none;
+      border-bottom-color: var(--wes-coral);
+    }
+  }
+}
+
 // Topic tags, quieter than the status tag
 .pub-tags {
   margin: 0.1rem 0 0.4rem 0 !important;

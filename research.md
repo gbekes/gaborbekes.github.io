@@ -3,10 +3,6 @@ title: "Research"
 layout: single
 author_profile: false
 permalink: /research/
-toc: true
-toc_label: "Sections"
-toc_icon: "bookmark"
-toc_sticky: true
 ---
 
 I am an applied economist working on international economics, economic geography and
@@ -14,6 +10,8 @@ organizations, mostly with large firm-, transaction- and person-level microdata.
 Also on [Google Scholar](https://scholar.google.hu/citations?user=Yk5xy7EAAAAJ&hl=hu),
 [IDEAS/RePEc](https://ideas.repec.org/e/pbk1.html) and
 [ORCID](https://orcid.org/0000-0002-6331-4408).
+
+<p class="jumplinks"><a href="#publications-in-refereed-journals">Published</a><a href="#discussion-papers-and-work-in-progress">In progress</a><a href="#publications-beyond-economics">Other</a></p>
 
 ## Publications in refereed journals
 
