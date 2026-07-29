@@ -8,7 +8,7 @@ title: "Gábor Békés"
 description: >-
   Personal website of **Gábor Békés**. Associate Professor at the Department of
   Economics and Business of Central European University and Senior Research
-  Fellow at the KRTK Institute of Economics. This site collects my research,
+  Fellow at the MTA KRTK Institute of Economics. This site collects my research,
   teaching materials and resources.
 url: "https://gaborbekes.com"    # the base hostname without trailing slash
 baseurl: ""                     # leave blank to serve at the root of the domain
@@ -42,7 +42,7 @@ author:
   avatar: "/assets/images/profile.png"     # path to your profile image
   bio: >-
     Associate Professor at the Department of Economics and Business,
-    Central European University, and Senior Research Fellow at the KRTK
+    Central European University, and Senior Research Fellow at the MTA KRTK
     Institute of Economics.
   location: "Vienna, Austria / Budapest, Hungary"
   links:
@@ -52,7 +52,7 @@ author:
     - label: "CEU Department"
       icon: "fas fa-fw fa-university"
       url: "https://economics.ceu.edu/"
-    - label: "KRTK Institute"
+    - label: "MTA KRTK Institute"
       icon: "fas fa-fw fa-university"
       url: "https://kti.krtk.hu/"
     - label: "CEPR"

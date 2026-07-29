@@ -1,0 +1,10 @@
+{% assign pub = include.pub %}
+{% assign url = pub.journal.url | default: pub.series.url | default: pub.preprint.url | default: pub.links[0].url %}
+<div class="pub">
+  <h3>{% if url != "" and url %}<a href="{{ url }}" target="_blank" rel="noopener">{{ pub.title }}</a>{% else %}{{ pub.title }}{% endif %}</h3>
+  <p class="pub-meta">{% if pub.authors.size > 0 %}{% unless pub.authors contains "Gábor Békés" %}with {% endunless %}{% for author in pub.authors %}{% unless forloop.first %}, {% endunless %}{{ author }}{% endfor %}{% endif %}{% if pub.journal %} &mdash; <span class="pub-journal">{{ pub.journal.name }}</span>{% if pub.journal.details %}, {{ pub.journal.details }}{% endif %}{% endif %}{% if pub.date %}{% if pub.authors.size > 0 %} &mdash; {% endif %}{{ pub.date }}{% endif %}{% if pub.status %}<span class="pub-status">{{ pub.status }}</span>{% endif %}</p>
+  {% if pub.tags.size > 0 %}<p class="pub-tags">{% for tag in pub.tags %}<span class="pub-tag">{{ tag }}</span>{% endfor %}</p>{% endif %}
+  {% if pub.abstract and pub.abstract.full %}<details class="pub-abstract"><summary>Abstract</summary><p>{{ pub.abstract.full }}</p></details>{% endif %}
+  {% if pub.links.size > 0 %}<p class="pub-links">{% for link in pub.links %}<a href="{{ link.url }}" class="btn btn--small{% if link.type == 'data' %} btn--data{% elsif link.type == 'blog' or link.type == 'summary' %} btn--info{% endif %}"{% if link.url contains 'http' %} target="_blank" rel="noopener"{% endif %}>{{ link.label }}</a>{% endfor %}</p>{% endif %}
+  {% if pub.media.size > 0 %}<p class="pub-media"><span class="pub-label">Media</span>{% for m in pub.media %}{% unless forloop.first %} &middot;{% endunless %} <a href="{{ m.url }}" target="_blank" rel="noopener">{{ m.name }}</a>{% endfor %}</p>{% endif %}
+</div>

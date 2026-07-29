@@ -8,7 +8,7 @@ permalink: /
 
 <p class="eyebrow">Vienna &middot; Budapest &mdash; Economics &amp; Data Analysis</p>
 
-<p>Gábor Békés is associate professor of Economics at the <span class="institution-name">Central European University</span> in Vienna, senior research fellow at the <span class="institution-name">HUN-REN KRTK Institute of Economics</span> (Hungary), and research fellow at <span class="institution-name">CEPR</span> and <span class="institution-name">Centro LdA</span> (Italy). He is an applied economist who studies how globalization reshapes firms, locations, and organizations, based on large-scale firm- and transaction-level microdata. He is the co-author of <em>Data Analysis for Business, Economics, and Policy</em>, a textbook published by Cambridge University Press, and an advising fellow at the <span class="institution-name">Microsoft AI Economy Institute</span>. His <span class="institution-name">Data Analysis and AI Lab</span> supports research, produces education materials, and helps link academia and industry.</p>
+<p>Gábor Békés is associate professor of Economics at the <span class="institution-name">Central European University</span> in Vienna, senior research fellow at the <span class="institution-name">MTA KRTK Institute of Economics</span> (Hungary), and research fellow at <span class="institution-name">CEPR</span> and <span class="institution-name">Centro LdA</span> (Italy). He is an applied economist who studies how globalization reshapes firms, locations, and organizations, based on large-scale firm- and transaction-level microdata. He is the co-author of <em>Data Analysis for Business, Economics, and Policy</em>, a textbook published by Cambridge University Press, and an advising fellow at the <span class="institution-name">Microsoft AI Economy Institute</span>. His <span class="institution-name">Data Analysis and AI Lab</span> supports research, produces education materials, and helps link academia and industry.</p>
 
 <p>
   <a href="/assets/pdf/CV_BekesGabor.pdf" class="btn btn--primary" target="_blank" rel="noopener">Download CV</a>
@@ -29,29 +29,12 @@ permalink: /
 </div>
 
 <div class="content-section">
-  <h2>Research areas</h2>
-  <div class="quiet-grid">
-    <div class="quiet-card">
-      <h3><a href="/research/#publications-in-refereed-journals">International economics</a></h3>
-      <p>Firm performance, trade, and multinational activity.</p>
-      <a href="/research/#publications-in-refereed-journals" class="quiet-link">Publications &rarr;</a>
-    </div>
-    <div class="quiet-card">
-      <h3><a href="/research/#publications-in-refereed-journals">Organizations</a></h3>
-      <p>Collaboration, bias, and team performance &mdash; often measured with football data.</p>
-      <a href="/research/#publications-in-refereed-journals" class="quiet-link">Publications &rarr;</a>
-    </div>
-    <div class="quiet-card">
-      <h3><a href="/research/#publications-in-refereed-journals">Economic geography</a></h3>
-      <p>Agglomeration, location choice, and firms in space.</p>
-      <a href="/research/#publications-in-refereed-journals" class="quiet-link">Publications &rarr;</a>
-    </div>
-    <div class="quiet-card">
-      <h3><a href="/research/#publications-beyond-economics">Beyond economics</a></h3>
-      <p>Health research: arthritis and comorbidities.</p>
-      <a href="/research/#publications-beyond-economics" class="quiet-link">Publications &rarr;</a>
-    </div>
-  </div>
+  <h2>Research</h2>
+  <p>Journal articles, discussion papers and work in progress are listed in reverse chronological order, each tagged by topic.</p>
+  <p>
+    <a href="/research/" class="btn">All research</a>
+    <a href="https://scholar.google.hu/citations?user=Yk5xy7EAAAAJ&amp;hl=hu" class="btn btn--info" target="_blank" rel="noopener">Google Scholar</a>
+  </p>
 </div>
 
 <div class="content-section">

@@ -3,11 +3,13 @@
     {
       "id": "cultural_homophily",
       "title": "Cultural Homophily and Collaboration in Superstar Teams",
-      "authors": ["Gianmarco I.P Ottaviano"],
+      "authors": [
+        "Gianmarco I.P Ottaviano"
+      ],
       "journal": {
         "name": "Management Science",
         "url": "https://doi.org/10.1287/mnsc.2022.01799",
-        "details": "October 2025, Volume 71, Issue 10, pages 8097-8993",
+        "details": "October 2025, Volume 71, Issue 10, pages 8149–8168",
         "color": "mint"
       },
       "abstract": {
@@ -15,22 +17,53 @@
         "full": "One may reasonably think that cultural homophily, defined as the tendency to associate with others of similar culture, affects collaboration in multinational teams in general but not in superstar teams of professionals at the top of their industry. The analysis of an exhaustive data set on the passes made by professional European football players in the top five men's leagues reveals that on the contrary, cultural homophily is persistent, pervasive, and consequential, even in superstar multinational teams of very-high-skill individuals with clear common objectives and aligned incentives who are involved in interactive tasks that are well defined and not particularly culture intensive."
       },
       "links": [
-        {"type": "wp", "label": "CEPR DP", "url": "https://cepr.org/publications/dp17618"},
-        {"type": "summary", "label": "Summary", "url": "/mansci-ntsummary/"},
-        {"type": "data", "label": "Data & Code", "url": "https://pubsonline.informs.org/doi/suppl/10.1287/mnsc.2022.01799"},
-        {"type": "blog", "label": "MS Blog", "url": "https://www.linkedin.com/feed/update/urn:li:activity:7316814873185701888/"},
-        {"type": "slides", "label": "Slides", "url": "[To be added]"}
+        {
+          "type": "wp",
+          "label": "CEPR DP",
+          "url": "https://cepr.org/publications/dp17618"
+        },
+        {
+          "type": "summary",
+          "label": "Summary",
+          "url": "/mansci-ntsummary/"
+        },
+        {
+          "type": "data",
+          "label": "Data & Code",
+          "url": "https://pubsonline.informs.org/doi/suppl/10.1287/mnsc.2022.01799"
+        },
+        {
+          "type": "blog",
+          "label": "MS Blog",
+          "url": "https://www.linkedin.com/feed/update/urn:li:activity:7316814873185701888/"
+        }
       ],
       "media": [
-        {"name": "Boston Globe", "url": "https://www.bostonglobe.com/2025/02/03/opinion/social-studies-economics-immigration-deportation-subtle-biases-sports/"},
-        {"name": "Der Standard (AT)", "url": "https://www.derstandard.at/story/3000000264636/die-versteckten-muster-menschlichen-verhaltens-im-fussball"},
-        {"name": "Management Research Podcast in german", "url": "https://podcasts.apple.com/at/podcast/gleich-und-gleich-gesellt-sich-gern-aber-wieviel-silobildung/id1706522611?i=1000701676874"}
+        {
+          "name": "Boston Globe",
+          "url": "https://www.bostonglobe.com/2025/02/03/opinion/social-studies-economics-immigration-deportation-subtle-biases-sports/"
+        },
+        {
+          "name": "Der Standard (AT)",
+          "url": "https://www.derstandard.at/story/3000000264636/die-versteckten-muster-menschlichen-verhaltens-im-fussball"
+        },
+        {
+          "name": "Management Research Podcast in german",
+          "url": "https://podcasts.apple.com/at/podcast/gleich-und-gleich-gesellt-sich-gern-aber-wieviel-silobildung/id1706522611?i=1000701676874"
+        }
+      ],
+      "tags": [
+        "organizations",
+        "sports"
       ]
     },
     {
       "id": "favoritism",
       "title": "Favoritism under Multiple Sources of Social Pressure",
-      "authors": ["Marton Fleck", "Endre Borza"],
+      "authors": [
+        "Marton Fleck",
+        "Endre Borza"
+      ],
       "journal": {
         "name": "Economic Inquiry",
         "url": "https://doi.org/10.1111/ecin.13245",
@@ -42,18 +75,36 @@
         "full": "When social pressure leads to favoritism, policies might aim to reduce the bias by affecting its source. This paper shows that multiple sources may be present and telling them apart is important. We build a novel and granular dataset on European football games and revisit the view that supporting crowds make referees help the host team. We find this bias to remain unchanged even in stadiums closed due to Covid-19. Instead, influential host organizations emerge as the source of social pressure. This has an adverse effect on maintaining the ranking of influential teams and hindering the progress of smaller teams."
       },
       "links": [
-        {"type": "wp", "label": "CEPR DP", "url": "https://cepr.org/publications/dp17924"},
-        {"type": "data", "label": "Data & Code", "url": "https://doi.org/10.3886/E195463V5"},
-        {"type": "slides", "label": "Slides", "url": "[To be added]"}
+        {
+          "type": "wp",
+          "label": "CEPR DP",
+          "url": "https://cepr.org/publications/dp17924"
+        },
+        {
+          "type": "data",
+          "label": "Data & Code",
+          "url": "https://doi.org/10.3886/E195463V5"
+        }
       ],
       "media": [
-        {"name": "De Correspondent (Dutch)", "url": "https://decorrespondent.nl/14190/hoe-een-hardnekkige-voetbalmythe-wankelt-met-dank-aan-de-pandemie/7277e16d-70e5-003c-1c7c-a521a86b95d0"}
+        {
+          "name": "De Correspondent (Dutch)",
+          "url": "https://decorrespondent.nl/14190/hoe-een-hardnekkige-voetbalmythe-wankelt-met-dank-aan-de-pandemie/7277e16d-70e5-003c-1c7c-a521a86b95d0"
+        }
+      ],
+      "tags": [
+        "organizations",
+        "sports"
       ]
     },
     {
       "id": "into_unknown",
       "title": "Into the Unknown: The Extent and Boldness of Firms' International Footprint",
-      "authors": ["Davide Castellani", "Balázs Muraközy", "Gabriel Benito"],
+      "authors": [
+        "Davide Castellani",
+        "Balázs Muraközy",
+        "Gabriel Benito"
+      ],
       "journal": {
         "name": "Global Strategy Journal",
         "url": "https://doi.org/10.1002/gsj.1397",
@@ -65,17 +116,29 @@
         "full": "Firms make footprints as they internationalize. Going beyond simple measures of firms' internationalization, we conceptualize and measure the extent of a firm's international footprint as the number of location-mode combinations it is active in, whereas the boldness of the footprint shows how widespread (across modes and locations) firms' international activities are, compared to other firms with similar extent. Extent describes the complexity of international activities, and boldness captures the risk-taking associated with operating in less know contexts. Consistent with a microfoundations lens on global strategy, we find that boldness correlates with managerial risk-taking attributes, while the extent of internationalization strongly correlates with capabilities conducive to managing more complex operations. These measures offer a highly suitable tool for analyzing the relationship between internationalization and performance."
       },
       "links": [
-        {"type": "blog", "label": "SMS Blog", "url": "https://strategicmanagementsociety.wordpress.com/2021/03/10/into-the-unknown-a-richer-way-to-capture-firm-internationalization/"},
-        {"type": "slides", "label": "Slides", "url": "[To be added]"}
+        {
+          "type": "blog",
+          "label": "SMS Blog",
+          "url": "https://strategicmanagementsociety.wordpress.com/2021/03/10/into-the-unknown-a-richer-way-to-capture-firm-internationalization/"
+        }
       ],
       "media": [
-        {"name": "Fakulti video", "url": ""}
+        {
+          "name": "Fakulti video",
+          "url": ""
+        }
+      ],
+      "tags": [
+        "firms",
+        "trade"
       ]
     },
     {
       "id": "machine_imports",
       "title": "Machine imports, technology adoption and local spillovers",
-      "authors": ["Péter Harasztosi"],
+      "authors": [
+        "Péter Harasztosi"
+      ],
       "journal": {
         "name": "Review of World Economics",
         "url": "https://link.springer.com/article/10.1007/s10290-019-00365-y",
@@ -87,16 +150,29 @@
         "full": "In developing economies import can be the primary source of adopting new technologies and modern production equipment. Using a uniquely compiled Hungarian firm-level dataset, we investigated whether firms' decision to import a specific machine is influenced by the local accumulation of experience in that same imported machine. Our results suggested that an additional local importer in the firm's vicinity increases the probability of importing that particular machine considerably. Distance plays a key mediating role as firms, especially in small cities, learned mostly from neighboring peers. We also found that even within a type of imported machine, the source country of the product matters a great deal. Finally, the extent of spillover effects was found to vary a great deal both with respect to the importing firm as well as the composition of peers. Larger, foreign owned and internationalized firms are the ones that benefit from having importing firms in their vicinity, while small and domestically owned firms could actually be adversely affected by peer effects. Our results could be indicative for policy-makers interested in indirect impact of technology upgrade subsidy programs. We found that such indirect effects do exist. However, they are centered on large to large firm interactions. As smaller sized firms producing for the domestic market do not benefit much from import spillovers, policies aimed at helping such firms may not rely on these indirect effects."
       },
       "links": [
-        {"type": "wp", "label": "CEPR DP", "url": "https://cepr.org/publications/dp13623"},
-        {"type": "blog", "label": "VOXEU Blog", "url": "https://voxeu.org/article/technology-adoption-machine-imports"},
-        {"type": "slides", "label": "Slides", "url": "[To be added]"}
+        {
+          "type": "wp",
+          "label": "CEPR DP",
+          "url": "https://cepr.org/publications/dp13623"
+        },
+        {
+          "type": "blog",
+          "label": "VOXEU Blog",
+          "url": "https://voxeu.org/article/technology-adoption-machine-imports"
+        }
       ],
-      "media": []
+      "media": [],
+      "tags": [
+        "technology",
+        "firms"
+      ]
     },
     {
       "id": "ladder_internationalization",
       "title": "The ladder of internationalization modes: Evidence from European firms",
-      "authors": ["Balázs Muraközy"],
+      "authors": [
+        "Balázs Muraközy"
+      ],
       "journal": {
         "name": "Review of World Economics",
         "url": "https://doi.org/10.1007/s10290-018-0305-9",
@@ -108,16 +184,29 @@
         "full": "How do firms enter international markets? To answer this question, this paper uses a unique multi-country firm-level dataset which, besides direct exporting and FDI, provides explicit information on a number of internationalization modes: indirect exporting, outsourced manufacturing and service FDI. We present a theoretical framework in which modes requiring higher and higher commitment have progressively higher fixed and lower marginal costs. By estimating multinomial and ordered logit models, we present evidence in line with such a sorting framework with respect to TFP and innovativeness. We identify three 'clusters' of modes: indirect exporters are similar to non-exporters, direct exporters and outsourced manufacturers constitute a second cluster while service and manufacturing FDI are the most demanding internationalization modes."
       },
       "links": [
-        {"type": "wp", "label": "CEPR DP", "url": "https://cepr.org/publications/dp12693"},
-        {"type": "blog", "label": "VOXEU Blog", "url": "https://voxeu.org/article/ladder-internationalisation-modes"},
-        {"type": "slides", "label": "Slides", "url": "[To be added]"}
+        {
+          "type": "wp",
+          "label": "CEPR DP",
+          "url": "https://cepr.org/publications/dp12639"
+        },
+        {
+          "type": "blog",
+          "label": "VOXEU Blog",
+          "url": "https://voxeu.org/article/ladder-internationalisation-modes"
+        }
       ],
-      "media": []
+      "media": [],
+      "tags": [
+        "firms",
+        "trade"
+      ]
     },
     {
       "id": "grid_shake",
       "title": "Grid and shake: Spatial aggregation and the robustness of regionally estimated elasticities",
-      "authors": ["Péter Harasztosi"],
+      "authors": [
+        "Péter Harasztosi"
+      ],
       "journal": {
         "name": "The Annals of Regional Science",
         "url": "https://doi.org/10.1007/s00168-017-0849-y",
@@ -128,15 +217,20 @@
         "preview": "This paper proposes a simple and transparent method for measuring spatial robustness of regionally estimated coefficients",
         "full": "This paper proposes a simple and transparent method for measuring spatial robustness of regionally estimated coefficients and considers the role of the administrative districts and of the size of regions. The procedure offers a new solution for a practical empirical issue: comparing the variables of interest across spatially aggregated units. It improves upon existing methods, especially when spatial units are heterogeneous. To illustrate the method, we use Hungarian data and compare estimates of agglomeration externalities at various levels of aggregation. Using the procedure, we find that the method of spatial aggregation seems to be of equal importance to the specification of the econometric model."
       },
-      "links": [
-        {"type": "slides", "label": "Slides", "url": "[To be added]"}
-      ],
-      "media": []
+      "links": [],
+      "media": [],
+      "tags": [
+        "geography"
+      ]
     },
     {
       "id": "shipment_frequency",
       "title": "Shipment frequency of exporters and demand uncertainty: An inventory management approach",
-      "authors": ["Lionel Fontagné", "Balázs Muraközy", "Vincent Vicard"],
+      "authors": [
+        "Lionel Fontagné",
+        "Balázs Muraközy",
+        "Vincent Vicard"
+      ],
       "journal": {
         "name": "Review of World Economics",
         "url": "https://doi.org/10.1007/s10290-017-0286-0",
@@ -148,15 +242,29 @@
         "full": "This paper examines how exporting firms adapt to the uncertainty stemming from demand volatility. By using monthly customs data from France, we decompose exports into different extensive and intensive margins including two novel margins: the number of months the firms exported (frequency) and the average export value per month. We establish four empirical patterns. First, firms export less to markets with higher demand volatility. Second, this effect is mainly explained by the frequency margin. Third, volatility affects the frequency margin through two channels: indirectly through lower trade volume and directly through logistics re-optimization. In particular, our results suggest that firms send less frequent, larger shipments to more uncertain markets conditional on total exports. Fourth, the effect of demand volatility is magnified on markets with longer time-to-ship. We propose that these observations are in line with simple stochastic inventory management approaches."
       },
       "links": [
-        {"type": "wp", "label": "CEPR DP", "url": "https://cepr.org/publications/dp11013"},
-        {"type": "slides", "label": "Slides", "url": "[To be added]"}
+        {
+          "type": "wp",
+          "label": "CESifo WP",
+          "url": "https://www.ifo.de/DocDL/cesifo1_wp4734.pdf"
+        },
+        {
+          "type": "wp",
+          "label": "CEPR DP",
+          "url": "https://cepr.org/publications/dp11013"
+        }
       ],
-      "media": []
+      "media": [],
+      "tags": [
+        "trade",
+        "firms"
+      ]
     },
     {
       "id": "productivity_premia",
       "title": "Measuring productivity premia with many modes of internationalization",
-      "authors": ["Balázs Muraközy"],
+      "authors": [
+        "Balázs Muraközy"
+      ],
       "journal": {
         "name": "Economics Letters",
         "url": "https://doi.org/10.1016/j.econlet.2015.12.016",
@@ -167,15 +275,21 @@
         "preview": "We show that estimating productivity premia for internationalization modes requires information compression when  ...",
         "full": "We show that estimating productivity premia for internationalization modes requires information compression when firms can choose from many modes. Using a unique database of European firms we illustrate the different approaches and suggest that researchers should deliberately choose from them."
       },
-      "links": [
-        {"type": "slides", "label": "Slides", "url": "[To be added]"}
-      ],
-      "media": []
+      "links": [],
+      "media": [],
+      "tags": [
+        "firms",
+        "trade"
+      ]
     },
     {
       "id": "internationalization_innovation",
       "title": "Internationalization and Innovation of Firms: Evidence and Policy",
-      "authors": ["Tommaso Aquilante", "Carlo Altomonte", "Gianmarco I.P. Ottaviano"],
+      "authors": [
+        "Tommaso Aquilante",
+        "Carlo Altomonte",
+        "Gianmarco I.P. Ottaviano"
+      ],
       "journal": {
         "name": "Economic Policy",
         "url": "https://doi.org/10.1111/1468-0327.12020",
@@ -187,15 +301,24 @@
         "full": "We use a representative and cross-country comparable sample of manufacturing firms (EFIGE) to document patterns of interaction among firm-level internationalization, innovation and productivity across seven European countries (Austria, France, Germany, Hungary, Italy, Spain, United Kingdom). We find strong evidence of positive association among the three firm-level characteristics across countries and sectors. We also find that the positive correlation between internationalization and innovation survives after controlling for productivity, with some evidence of causality running from the latter to the former. Our analysis suggests that export promotion per se is unlikely to lead to sustainable internationalization because internationalization goes beyond export and because, in the medium to long term, internationalization is likely driven by innovation. We recommend coordination and integration of internationalization and innovation policies 'under one roof' at both the national and EU levels, and propose a bigger coordinating role for EU institutions."
       },
       "links": [
-        {"type": "blog", "label": "VOXEU Blog", "url": "https://voxeu.org/article/internationalisation-innovation-and-productivity-firms"},
-        {"type": "slides", "label": "Slides", "url": "[To be added]"}
+        {
+          "type": "blog",
+          "label": "VOXEU Blog",
+          "url": "https://voxeu.org/article/internationalisation-innovation-and-productivity-firms"
+        }
       ],
-      "media": []
+      "media": [],
+      "tags": [
+        "firms",
+        "technology"
+      ]
     },
     {
       "id": "agglomeration_premium",
       "title": "Agglomeration Premium and Trading Activity of Firms",
-      "authors": ["Péter Harasztosi"],
+      "authors": [
+        "Péter Harasztosi"
+      ],
       "journal": {
         "name": "Regional Science and Urban Economics",
         "url": "https://doi.org/10.1016/j.regsciurbeco.2012.11.004",
@@ -206,15 +329,19 @@
         "preview": "While most empirical studies in economic geography document a steady and positive correlation between regional density and firm productivity, the impact is not ...",
         "full": "While most empirical studies in economic geography document a steady and positive correlation between regional density and firm productivity, the impact is not homogeneous across firms. Importantly, recent international trade literature showed that trading firms are different in terms of workforce, size and productivity. We argue that externalities that determine density premium for firms will be affected by the firms' involvement in trade. Indeed, firms active in international trade may employ a different bundle of resources and be organized differently so that they would appreciate inputs and information in a different fashion and intensity. Using Hungarian manufacturing firm level data from 1992 to 2003 at a 150 micro-region level, we show that the elasticity of agglomeration on productivity is much larger for traders than for non-traders. As firms' trade participation is endogenous to firm performance, we offer various treatment methods of this endogeneity issue. We find that our key results are robust and well above the gap suggested by simple self-selection models."
       },
-      "links": [
-        {"type": "slides", "label": "Slides", "url": "[To be added]"}
-      ],
-      "media": []
+      "links": [],
+      "media": [],
+      "tags": [
+        "geography",
+        "trade"
+      ]
     },
     {
       "id": "temporary_trade",
       "title": "Temporary Trade and Heterogenous Firms",
-      "authors": ["Balázs Muraközy"],
+      "authors": [
+        "Balázs Muraközy"
+      ],
       "journal": {
         "name": "Journal of International Economics",
         "url": "https://doi.org/10.1016/j.jinteco.2011.12.007",
@@ -226,200 +353,335 @@
         "full": "Using Hungarian firm-transaction level export data, we show that about one third of firm–destination and about one half of firm–product–destination export spells are short-lived, or temporary, each year. This is in odds with theories where comparative advantage is stable and market entry costs are sunk. We show how endogenous choice between variable and sunk cost trade technologies can explain the empirical importance and some characteristics of temporary trade. We build a model in which the likelihood of temporary trade depends on productivity and capital cost of the firm as well as well-known gravity variables of destinations. These predictions are borne out by the data; the likelihood of permanent trade, defined by a simple filter, rises with firm productivity, financial stability, proximity and GDP of destination countries."
       },
       "links": [
-        {"type": "blog", "label": "VOXEU Blog", "url": "https://cepr.org/voxeu/columns/temporary-trade-exporting-only-once-while"},
-        {"type": "slides", "label": "Slides", "url": "[To be added]"}
+        {
+          "type": "blog",
+          "label": "VOXEU Blog",
+          "url": "https://cepr.org/voxeu/columns/temporary-trade-exporting-only-once-while"
+        }
       ],
-      "media": []
+      "media": [],
+      "tags": [
+        "trade"
+      ]
     },
     {
       "id": "firms_products",
       "title": "Firms and products in international trade: Evidence from Hungary",
-      "authors": ["Balázs Muraközy", "Péter Harasztosi"],
+      "authors": [
+        "Balázs Muraközy",
+        "Péter Harasztosi"
+      ],
       "journal": {
         "name": "Economic Systems",
         "url": "https://doi.org/10.1016/j.ecosys.2010.11.005",
         "details": "Vol. 35. No. 1. 2011. 4-24",
         "color": "coral"
       },
-      "abstract": {
-        "preview": "[Abstract to be added]",
-        "full": "[Full abstract to be added]"
-      },
-      "links": [
-        {"type": "slides", "label": "Slides", "url": "[To be added]"}
-      ],
-      "media": []
+      "links": [],
+      "media": [],
+      "tags": [
+        "trade"
+      ]
     }
   ],
-  "publications_beyond_economics": [
+  "discussion_papers": [
     {
-      "id": "comorbidity_clusters",
-      "title": "Comorbidity clusters in generalized osteoarthritis among female patients: A cross-sectional study",
-      "authors": ["E. Kaposi", "P. Balint", "et al"],
-      "journal": {
-        "name": "Seminars in Arthritis and Rheumatism",
-        "url": "",
-        "details": "(2020) Volume 50, Issue 2, April 2020, Pages 183-191",
-        "color": "mint"
-      },
-      "abstract": {
-        "preview": "This paper provides a detailed description of Hungarian trade data and key patterns drawn at the firm and product level ...",
-        "full": "This paper provides a detailed description of Hungarian trade data and key patterns drawn at the firm and product level. In the Bernard et al. (2007) tradition, statistics describe the prevalence of trading activity, typology of firms by internationalisation, and concentration of trade volume within and across sectors both for exports and imports. There are several similarities as well as differences to key US and EU findings. Trade concentration in Hungary is slightly higher than in most European countries and foreign ownership and the role of foreign firms in trade is higher. Furthermore, firm heterogeneity is also studied in terms of traded products as well as partner countries. While the share of single-product exporters is similar to the US, there are certainly fewer Hungarian single-country exporters. With some transition-related differences, we find Hungarian trade activity to broadly match most open economy evidence. Throughout the paper, we use the IEHAS-CEFiG Hungary dataset, an almost universal panel of balance sheet information (1992–2006) merged with firm-product-country level customs data (1992–2003) taken until the 2004 EU accession."
-      },
-      "links": [
-        {"type": "slides", "label": "Slides", "url": "[To be added]"}
-      ],
-      "media": []
-    },
-    {
-      "id": "psaid_questionnaire",
-      "title": "A patient-derived and patient-reported outcome measure for assessing psoriatic arthritis: elaboration and preliminary validation of the Psoriatic Arthritis Impact of Disease (PsAID) questionnaire, a 13-country EULAR initiative",
-      "authors": ["L. Gossec", "TK Kvien", "others"],
-      "journal": {
-        "name": "Annals of Rheumatic Disease",
-        "url": "https://doi.org/10.1136/annrheumdis-2014-205207",
-        "details": "2014 Jun;73(6):1012-9.",
-        "color": "coral"
-      },
-      "abstract": {
-        "preview": "[Abstract to be added]",
-        "full": "[Full abstract to be added]"
-      },
-      "links": [
-        {"type": "slides", "label": "Slides", "url": "[To be added]"}
-      ],
-      "media": []
-    }
-  ],
-  "work_in_progress_globalization": [
-     {
       "id": "industrial_policy_monarchy_exhibitions",
       "title": "What Happens in Paris, Does Not Stay in Paris: Trade Fairs and Search and Matching Frictions",
-      "authors": ["Claudia Steinwender", "Mátyás Molnár"],
-      "status": "Work in Progress",
+      "authors": [
+        "Claudia Steinwender",
+        "Mátyás Molnár"
+      ],
+      "status": "CEPR DP21574",
       "abstract": {
         "preview": "Search and matching frictions prevent firms from forming international trade linkages. Firms commonly use trade fairs to overcome these frictions. However, ",
         "full": "Search and matching frictions prevent firms from forming international trade linkages. Firms commonly use trade fairs to overcome these frictions. However, despite often being subsidized by export promotion agencies, we lack evidence on how trade fairs facilitate link formation. We exploit a unique feature of Hungarian firms' participation in the 1900 Paris World Exhibition, where a trial exhibition revealed firms' ex-ante export potential category to develop a novel bounding strategy that compares treated firms to control groups from above and below in export potential. To implement our empirical strategy, we collected and digitized a novel dataset detailing firms' exhibition attendance and export status, linking entities across five different datasets. We find that participation increases export probability by 8.5–14pp and employment by 15.4–23pp over eight years. Effects are larger when firms face fewer competitors, highlighting both matching benefits and congestion effects when search and matching frictions are reduced. To carry out this estimation, we build a novel historical panel dataset of Hungarian firms for the 1894 to 1906 period by digitizing and combining over 12,000 firm records from five historical datasets."
       },
       "links": [
-        {"type": "wp", "label": "CEPR DP", "url": "https://cepr.org/publications/dp21574"},
-        {"type": "slides", "label": "Slides", "url": "[To be added]"}
-      ]
-    },
-   {
-      "id": "robots_adoption",
-      "title": "Integrators and Robot Adoption: Facts from Hungary",
-      "authors": ["Rosario Crinó", "Gino Gancia", "Alessandra Bonfiglioli"],
-      "status": "Work in Progress",
-      "abstract": {
-        "preview": "This paper explores the role of intermediaries in facilitating the adoption of industrial robots. Using firm-to-firm transactions in Hungary, ...",
-        "full": "This paper explores the role of intermediaries in facilitating the adoption of industrial robots. Using firm-to-firm transactions in Hungary, we identify robot integrators and document five new facts. First, most firms adopting robots do so through integrators rather than directly importing them. Second, integrators significantly benefit small and medium-sized firms, which may not have the scale to adopt robots independently. Third, robot integrators tend to be larger, more productive and more capital intensive than other firms in their industries. Fourth, integrators are particularly exposed to foreign import shocks. Fifth, robot adoption though integrators is more lumpy than robot imports."
-      },
-      "links": [
-        {"type": "wp", "label": "CEPR DP", "url": "https://cepr.org/publications/dp20026"},
-        {"type": "slides", "label": "Slides", "url": "/assets/pdf/BBCG-Jul2025-slides.pdf"}
-      ]
+        {
+          "type": "wp",
+          "label": "CEPR DP",
+          "url": "https://cepr.org/publications/dp21574"
+        }
+      ],
+      "tags": [
+        "trade",
+        "history"
+      ],
+      "date": "June 2026"
     },
     {
-      "id": "geography_opensource",
-      "title": "When dispersed teams are more successful: Theory and evidence from software",
-      "authors": ["Miklós Koren", "Aaron Lohmann", "Julian Hinz"],
-      "status": "Work in Progress",
-      "abstract": {
-        "preview": "Who collaborates with whom when physical co-location is no longer a constraint? How does the geographic composition of teams influence project success? We develop a",
-        "full": "Who collaborates with whom when physical co-location is no longer a constraint? How does the geographic composition of teams influence project success? We develop a model of global team formation and collaboration in which individuals have heterogeneous and partially observable skills, collaboration incurs geographic frictions, and project success depends on the best idea developed in the team. The model yields five testable predictions: (I) collaboration is more likely among geographically proximate individuals; (II) only highly skilled individuals form long-distance collaborations due to selection effects; (III) geographically diverse teams produce higher-quality outcomes; (IV) the positive impact of diversity on success is stronger for more complex projects; and (V) there is a non-linear relationship between team size and project quality. We test these predictions using a highly granular dataset on open-source software development, where project success is measured through downstream usage. The open-source setting offers a unique empirical advantage: its transparency and absence of physical constraints allow us to isolate the role of team composition and collaboration frictions. Our findings confirm the model's predictions and suggest that the benefits of dispersed collaboration extend beyond software development to other knowledge-intensive activities."
-      },
-      "links": [
-        {"type": "slides", "label": "Slides", "url": "[To be added]"}
-      ]
-    },
-    {
-      "id": "supplier_buyer_gvc",
-      "title": "Supplier-buyer relationships in global value chains",
-      "authors": ["Balázs Muraközy", "Álmos Telegdy", "Miklós Koren"],
-      "status": "Work in Progress (resting)",
-      "abstract": {
-        "preview": "[Abstract to be added]",
-        "full": "[Full abstract to be added]"
-      },
-      "links": [
-        {"type": "slides", "label": "Slides", "url": "[To be added]"}
-      ]
-    }
-  ],
-  
-  "work_in_progress_organizations": [
-      {
       "id": "vibe_coding_kills_open_source",
       "title": "Vibe Coding Kills Open Source",
-      "authors": ["Miklós Koren", "Gábor Békés", "Julian Hinz", "Aaron Lohmann"],
+      "authors": [
+        "Miklós Koren",
+        "Gábor Békés",
+        "Julian Hinz",
+        "Aaron Lohmann"
+      ],
       "series": {
         "publisher": "CEPR Discussion Paper",
         "number": "DP21145",
         "url": "https://cepr.org/publications/dp21145"
       },
       "preprint": {
-        "url": "https://arxiv.org/html/2601.15494v1"
+        "url": "https://arxiv.org/abs/2601.15494"
       },
       "abstract": {
         "preview": "The paper analyses how AI-assisted 'vibe coding' affects open-source engagement and ecosystem sustainability.",
         "full": "Generative AI is changing how software is produced. In vibe coding, an AI agent builds software by selecting and assembling open-source software with minimal direct developer reading or engagement. We model equilibrium effects on OSS entry, quality, and maintainer returns, showing that widespread vibe coding can lower user engagement, reduce OSS availability and quality, and decrease welfare unless maintainer compensation mechanisms change."
       },
       "links": [
-        {"type": "cepr", "label": "CEPR DP", "url": "https://cepr.org/publications/dp21145"},
-        {"type": "preprint", "label": "arXiv preprint", "url": "https://arxiv.org/html/2601.15494v1"}
+        {
+          "type": "cepr",
+          "label": "CEPR DP",
+          "url": "https://cepr.org/publications/dp21145"
+        },
+        {
+          "type": "preprint",
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2601.15494"
+        },
+        {
+          "type": "pdf",
+          "label": "Full text (v2)",
+          "url": "https://doi.org/10.5281/zenodo.19374601"
+        }
       ],
       "media": [
-        {"name": "The Register", "url": "https://www.theregister.com/2026/01/26/vibe_coding_hazardous_open_source/"},
-        {"name": "404 media", "url": "https://www.404media.co/vibe-coding-is-killing-open-source-software-researchers-argue/"},
-        {"name": "IT Magazine (CH)", "url": "https://www.itmagazine.ch/artikel/86473/Kritiker_sehen_in_Vibe-Coding_Gefahr_fuer_Open-Source-Community.html"},
-        {"name": "PC Gamer", "url": "https://www.pcgamer.com/software/ai/vibe-coding-kills-open-source-claims-new-paper-as-its-authors-lament-the-lack-of-human-attention-towards-oss-products/"},
-        {"name": "Hackaday", "url": "https://hackaday.com/2026/02/02/how-vibe-coding-is-killing-open-source/"},
-        {"name": "Wikipedia (Vibe coding)", "url": "https://en.wikipedia.org/wiki/Vibe_coding"},
-        {"name": "Reddit r/opensource thread", "url": "https://www.reddit.com/r/opensource/comments/1qv62hq/how_vibe_coding_is_killing_open_source/"}
-      ]
+        {
+          "name": "Financial Times",
+          "url": "https://www.ft.com/content/b7f62212-989e-412f-b76a-6905b6333afd"
+        },
+        {
+          "name": "The Register",
+          "url": "https://www.theregister.com/2026/01/26/vibe_coding_hazardous_open_source/"
+        },
+        {
+          "name": "404 media",
+          "url": "https://www.404media.co/vibe-coding-is-killing-open-source-software-researchers-argue/"
+        },
+        {
+          "name": "IT Magazine (CH)",
+          "url": "https://www.itmagazine.ch/artikel/86473/Kritiker_sehen_in_Vibe-Coding_Gefahr_fuer_Open-Source-Community.html"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/vibe-coding-kills-open-source-claims-new-paper-as-its-authors-lament-the-lack-of-human-attention-towards-oss-products/"
+        },
+        {
+          "name": "Hackaday",
+          "url": "https://hackaday.com/2026/02/02/how-vibe-coding-is-killing-open-source/"
+        },
+        {
+          "name": "Wikipedia (Vibe coding)",
+          "url": "https://en.wikipedia.org/wiki/Vibe_coding"
+        },
+        {
+          "name": "Reddit r/opensource thread",
+          "url": "https://www.reddit.com/r/opensource/comments/1qv62hq/how_vibe_coding_is_killing_open_source/"
+        },
+        {
+          "name": "TechTarget",
+          "url": "https://www.techtarget.com/searchapparchitecture/tip/Vibe-coding-is-killing-open-source-increasing-software-risk"
+        },
+        {
+          "name": "InfoQ",
+          "url": "https://www.infoq.com/news/2026/02/ai-floods-close-projects/"
+        },
+        {
+          "name": "LeadDev",
+          "url": "https://leaddev.com/software-quality/ai-generated-abandonware-is-hollowing-out-open-source"
+        }
+      ],
+      "tags": [
+        "AI",
+        "software"
+      ],
+      "date": "January 2026",
+      "status": "CEPR DP21145"
     },
     {
       "id": "roma_murders",
       "title": "Right-wing terrorism and far-right support: Evidence from anti-Roma attacks in Hungary",
-      "authors": ["Attila Gáspár", "Gábor Simonovits", "Márton Végh"],
+      "authors": [
+        "Attila Gáspár",
+        "Gábor Simonovits",
+        "Márton Végh"
+      ],
       "status": "Conditionally accepted, Political Science Research and Methods",
       "abstract": {
         "preview": "How do ethnically motivated terrorist attacks shape electoral support for the far right?  ...",
         "full": "How do ethnically motivated terrorist attacks shape electoral support for the far right? We study a unique case: a coordinated series of anti-Roma murders in Hungary in 2008–2009, the most severe episode of anti-minority violence in the country since World War II. Combining difference-in-differences and synthetic control methods, we compare attacked settlements to multiple counterfactuals, including planned-but-unrealized targets. We find that Jobbik, Hungary’s radical right party, gained 11–14 percentage points more support in attacked villages than in comparable controls in the 2010 election—an increase 53–70% larger than baseline trends. The effect persisted for several years and spilled over to nearby settlements. In contrast to some research from Western Europe suggesting that right-wing terrorism can reduce far-right appeal, our findings highlight how deep-seated prejudice can reverse this pattern. The results underscore the importance of antecedent inter-group relations in conditioning political reactions to ethnic violence."
       },
       "links": [
-        {"type": "slides", "label": "Slides", "url": "https://kti.krtk.hu/publikacio/right-wing-terrorism-and-far-right-support-evidence-from-anti-roma-attacks-in-hungary/"}
-      ]
-    },
-    
-
-
-    {
-      "id": "connected_choices",
-      "title": "Connected Choices: Business Group Affiliation and FDI Location Decisions",
-      "authors": ["Márta Bisztray", "Péter Harasztosi"],
-      "status": "Submitted",
-      "abstract": {
-        "preview": "How do multinational business groups leverage collective experience when expanding globally? Using comprehensive FDI and ownership data, ...",
-        "full": "How do multinational business groups leverage collective experience when expanding globally? Using comprehensive FDI and ownership data, we reconstruct business group networks for 5,061 greenfield investments in 14 Central and Eastern European countries and show that prior FDI experience within a business group fundamentally alters location choices by affiliated firms. We find that a prior group investment in a country increases the probability of first-time affiliate entry by 5.4 percentage points—equivalent to a 50% average policy multiplier for investment promotion for investors with no prior local presence. We introduce a measure of organizational distance that combines ownership strength (majority vs. minority stakes) and network proximity (direct vs. indirect links), revealing how regulatory boundaries influence knowledge flows. Surprisingly, even weakly connected affiliates (indirect minority stakes) exhibit significant co-location patterns, revealing that location-specific knowledge flows through business groups despite regulatory barriers to formal coordination. By integrating internal network effects into location-choice theory, we extend international business research on MNE strategies. For policymakers, our findings reveal that FDI subsidies generate substantial within-group spillovers, while for IB theory, we demonstrate how internal networks reshape traditional location choice models."
-      },
-      "links": [
-        {"type": "slides", "label": "Slides", "url": "[To be added]"}
-      ]
+        {
+          "type": "wp",
+          "label": "KRTK WP 2025/20",
+          "url": "https://kti.krtk.hu/publikacio/right-wing-terrorism-and-far-right-support-evidence-from-anti-roma-attacks-in-hungary/"
+        },
+        {
+          "type": "pdf",
+          "label": "PDF",
+          "url": "https://kti.krtk.hu/wp-content/uploads/2025/12/KRTKKTIWP202520.pdf"
+        }
+      ],
+      "tags": [
+        "politics"
+      ],
+      "date": "December 2025"
     },
     {
       "id": "stardust",
       "title": "Stardust: peer effects in early career development",
-      "authors": ["Bence Szabó"],
-      "status": "2025 August",
+      "authors": [
+        "Bence Szabó"
+      ],
+      "status": "Working paper",
       "abstract": {
         "preview": "How do workers learn from coworkers when collaboration is essential? We investigate learning mechanisms using European men's football  ...",
         "full": "How do workers learn from coworkers when collaboration is essential? We investigate learning mechanisms using European men's football — a setting that overcomes key limitations of linked employer employee administrative data. Unlike these datasets, we observe direct collaboration (passes between players), better estimated and frequently-updated human capital measures (transfer market values) that alleviates wage rigidity, and professional skill evolution. We confirm that 10% higher peer quality associates with 3% higher wage growth. However, we uncover previously hidden mechanisms: First, conditional on average quality, team composition and exposure to stars do not affect learning. Second, better peers reduce individual playing time, causing standard estimates to underestimate learning effects by 30%. Third, intensive collaboration with high-quality peers drives learning—one standard deviation more passes with top colleagues yields 10% higher wage growth. Fourth, peer effects manifest in learnable skills (passing, reactions) but not innate abilities (speed), providing evidence against selection bias. Finally, learning persists after job changes, suggesting genuine human capital accumulation rather than temporary complementarities. Our granular production data reveals that workplace learning depends critically on direct interaction opportunities, not mere proximity to talent. "
       },
       "links": [
-        {"type": "wp", "label": "WP on SSRN", "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5378338"}
-        
+        {
+          "type": "wp",
+          "label": "WP on SSRN",
+          "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5378338"
+        }
+      ],
+      "tags": [
+        "organizations"
+      ],
+      "date": "August 2025"
+    },
+    {
+      "id": "robots_adoption",
+      "title": "Integrators and Robot Adoption: Facts from Hungary",
+      "authors": [
+        "Rosario Crinó",
+        "Gino Gancia",
+        "Alessandra Bonfiglioli"
+      ],
+      "status": "CEPR DP20026",
+      "abstract": {
+        "preview": "This paper explores the role of intermediaries in facilitating the adoption of industrial robots. Using firm-to-firm transactions in Hungary, ...",
+        "full": "This paper explores the role of intermediaries in facilitating the adoption of industrial robots. Using firm-to-firm transactions in Hungary, we identify robot integrators and document five new facts. First, most firms adopting robots do so through integrators rather than directly importing them. Second, integrators significantly benefit small and medium-sized firms, which may not have the scale to adopt robots independently. Third, robot integrators tend to be larger, more productive and more capital intensive than other firms in their industries. Fourth, integrators are particularly exposed to foreign import shocks. Fifth, robot adoption though integrators is more lumpy than robot imports."
+      },
+      "links": [
+        {
+          "type": "wp",
+          "label": "CEPR DP",
+          "url": "https://cepr.org/publications/dp20026"
+        },
+        {
+          "type": "pdf",
+          "label": "PDF",
+          "url": "https://real.mtak.hu/216717/1/DP20026.pdf"
+        },
+        {
+          "type": "slides",
+          "label": "Slides",
+          "url": "/assets/pdf/BBCG-Jul2025-slides.pdf"
+        }
+      ],
+      "tags": [
+        "technology",
+        "firms"
+      ],
+      "date": "March 2025"
+    },
+    {
+      "id": "connected_choices",
+      "title": "Connected Choices: Business Group Affiliation and FDI Location Decisions",
+      "authors": [
+        "Márta Bisztray",
+        "Péter Harasztosi"
+      ],
+      "status": "Submitted",
+      "abstract": {
+        "preview": "How do multinational business groups leverage collective experience when expanding globally? Using comprehensive FDI and ownership data, ...",
+        "full": "How do multinational business groups leverage collective experience when expanding globally? Using comprehensive FDI and ownership data, we reconstruct business group networks for 5,061 greenfield investments in 14 Central and Eastern European countries and show that prior FDI experience within a business group fundamentally alters location choices by affiliated firms. We find that a prior group investment in a country increases the probability of first-time affiliate entry by 5.4 percentage points—equivalent to a 50% average policy multiplier for investment promotion for investors with no prior local presence. We introduce a measure of organizational distance that combines ownership strength (majority vs. minority stakes) and network proximity (direct vs. indirect links), revealing how regulatory boundaries influence knowledge flows. Surprisingly, even weakly connected affiliates (indirect minority stakes) exhibit significant co-location patterns, revealing that location-specific knowledge flows through business groups despite regulatory barriers to formal coordination. By integrating internal network effects into location-choice theory, we extend international business research on MNE strategies. For policymakers, our findings reveal that FDI subsidies generate substantial within-group spillovers, while for IB theory, we demonstrate how internal networks reshape traditional location choice models."
+      },
+      "links": [],
+      "tags": [
+        "geography",
+        "firms"
+      ]
+    },
+    {
+      "id": "geography_opensource",
+      "title": "When dispersed teams are more successful: Theory and evidence from software",
+      "authors": [
+        "Miklós Koren",
+        "Aaron Lohmann",
+        "Julian Hinz"
+      ],
+      "status": "Work in progress",
+      "abstract": {
+        "preview": "Who collaborates with whom when physical co-location is no longer a constraint? How does the geographic composition of teams influence project success? We develop a",
+        "full": "Who collaborates with whom when physical co-location is no longer a constraint? How does the geographic composition of teams influence project success? We develop a model of global team formation and collaboration in which individuals have heterogeneous and partially observable skills, collaboration incurs geographic frictions, and project success depends on the best idea developed in the team. The model yields five testable predictions: (I) collaboration is more likely among geographically proximate individuals; (II) only highly skilled individuals form long-distance collaborations due to selection effects; (III) geographically diverse teams produce higher-quality outcomes; (IV) the positive impact of diversity on success is stronger for more complex projects; and (V) there is a non-linear relationship between team size and project quality. We test these predictions using a highly granular dataset on open-source software development, where project success is measured through downstream usage. The open-source setting offers a unique empirical advantage: its transparency and absence of physical constraints allow us to isolate the role of team composition and collaboration frictions. Our findings confirm the model's predictions and suggest that the benefits of dispersed collaboration extend beyond software development to other knowledge-intensive activities."
+      },
+      "links": [],
+      "tags": [
+        "organizations",
+        "software"
+      ]
+    },
+    {
+      "id": "supplier_buyer_gvc",
+      "title": "Supplier-buyer relationships in global value chains",
+      "authors": [
+        "Balázs Muraközy",
+        "Álmos Telegdy",
+        "Miklós Koren"
+      ],
+      "status": "Work in progress (resting)",
+      "links": [],
+      "tags": [
+        "trade",
+        "firms"
+      ]
+    }
+  ],
+  "publications_beyond_economics": [
+    {
+      "id": "comorbidity_clusters",
+      "title": "Comorbidity clusters in generalized osteoarthritis among female patients: A cross-sectional study",
+      "authors": [
+        "E. Kővári",
+        "A. Kaposi",
+        "et al."
+      ],
+      "journal": {
+        "name": "Seminars in Arthritis and Rheumatism",
+        "url": "https://doi.org/10.1016/j.semarthrit.2019.09.001",
+        "details": "April 2020, Volume 50, Issue 2, pages 183–191",
+        "color": "mint"
+      },
+      "links": [],
+      "media": [],
+      "tags": [
+        "health"
+      ]
+    },
+    {
+      "id": "psaid_questionnaire",
+      "title": "A patient-derived and patient-reported outcome measure for assessing psoriatic arthritis: elaboration and preliminary validation of the Psoriatic Arthritis Impact of Disease (PsAID) questionnaire, a 13-country EULAR initiative",
+      "authors": [
+        "L. Gossec",
+        "TK Kvien",
+        "others"
+      ],
+      "journal": {
+        "name": "Annals of Rheumatic Disease",
+        "url": "https://doi.org/10.1136/annrheumdis-2014-205207",
+        "details": "June 2014, Volume 73, Issue 6, pages 1012–1019",
+        "color": "coral"
+      },
+      "links": [],
+      "media": [],
+      "tags": [
+        "health"
       ]
     }
   ]
