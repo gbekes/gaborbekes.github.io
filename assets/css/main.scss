@@ -2,466 +2,623 @@
 # Jekyll/Sass front matter (must stay)
 ---
 
-// Import Google Fonts (adding Playfair Display for Wes Anderson style)
-@import url('https://fonts.googleapis.com/css2?family=Anton:wght@400&family=Oswald:wght@300;400;500;600;700&family=Roboto+Condensed:wght@300;400;700&family=Lora:wght@300;400;600&display=swap');
+// ---------------------------------------------------------------------------
+// Academic restyle, 2026-07
+// Palette kept from previous design (cream / navy / coral / mint).
+// Typography: Fraunces (headings), Lora (body), Roboto Condensed (labels).
+// All legacy class names (.content-section, .research-publication, .btn,
+// .tommy-accent, .course-list, ...) remain defined so older pages keep working.
+// ---------------------------------------------------------------------------
+
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Lora:ital,wght@0,400;0,500;0,600;1,400&family=Roboto+Condensed:wght@300;400;700&display=swap');
 
 // Import Minimal Mistakes
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'air' }}";
 @import "minimal-mistakes";
 
-// Wes Anderson Color Palette (Grand Budapest Hotel inspired)
+// Palette (names kept for backward compatibility with inline styles)
 :root {
   --wes-cream: #F7F3E9;
-  --wes-coral: #D63384;
-  --wes-mint: #20C997;
+  --wes-coral: #C2185B;            /* slightly deepened coral: prints better, reads more scholarly */
+  --wes-mint: #1A9E7C;             /* deepened mint for legible text on cream */
   --wes-yellow: #FFC107;
   --wes-navy: #2C3E50;
-  --wes-gray: #ADB5BD;
-  --wes-light-coral: rgba(214, 51, 132, 0.1);
+  --wes-gray: #8A93A0;
+  --wes-ink-soft: #55616E;         /* meta text */
+  --wes-hairline: rgba(44, 62, 80, 0.18);
+  --wes-light-coral: rgba(194, 24, 91, 0.06);
+  --wes-light-mint: rgba(26, 158, 124, 0.07);
   --wes-shadow: rgba(44, 62, 80, 0.15);
-  --wes-light-mint: rgba(32, 201, 151, 0.1);
+  --wes-purple: #5E4B8B;
+  --wes-light-purple: rgba(94, 75, 139, 0.07);
 }
 
-// Override Minimal Mistakes variables for Wes Anderson theme
 $background-color: var(--wes-cream) !default;
 $text-color: var(--wes-navy) !default;
 $primary-color: var(--wes-coral) !default;
 $link-color: var(--wes-coral) !default;
 $link-color-hover: var(--wes-mint) !default;
 
-// Typography Updates
+// ---------------------------------------------------------------------------
+// Base typography
+// ---------------------------------------------------------------------------
 body {
-  font-family: 'Lora', serif;
+  font-family: 'Lora', Georgia, serif;
   background: var(--wes-cream);
   color: var(--wes-navy);
-  font-size: 16px;
-  line-height: 1.6;
+  font-size: 17px;
+  line-height: 1.7;
 }
 
-// Main Headers - Tommy Hilfiger Bold Style
+a {
+  color: var(--wes-coral);
+  text-decoration: none;
+
+  &:hover {
+    color: var(--wes-coral);
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+}
+
+// Headings: left-aligned, sentence case, serif
+h1, h2, h3 {
+  font-family: 'Fraunces', 'Lora', Georgia, serif !important;
+  text-align: left !important;
+  text-transform: none !important;
+  letter-spacing: 0 !important;
+  color: var(--wes-navy) !important;
+}
+
 h1 {
-  font-family: 'Anton', sans-serif !important;
-  font-size: 3rem !important;
-  text-align: center !important;
-  position: relative;
-  color: var(--wes-coral) !important;
-  text-transform: uppercase;
-  letter-spacing: 2px;
-  font-weight: 400;
+  font-size: 2.1rem !important;
+  font-weight: 600 !important;
+  line-height: 1.25;
 }
 
-// Section Headers - Tommy Hilfiger Secondary Style  
 h2 {
-  font-family: 'Oswald', sans-serif !important;
-  font-size: 2.2rem !important;
-  text-align: center !important;
-  position: relative;
-  color: var(--wes-coral) !important;
-  text-transform: uppercase;
-  letter-spacing: 1.5px;
-  font-weight: 600;
+  font-size: 1.55rem !important;
+  font-weight: 600 !important;
+  line-height: 1.3;
 }
 
-// Subsection Headers
 h3 {
-  font-family: 'Oswald', sans-serif !important;
-  font-size: 1.6rem !important;
-  text-align: center !important;
-  position: relative;
-  color: var(--wes-coral) !important;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  font-weight: 500;
+  font-size: 1.2rem !important;
+  font-weight: 500 !important;
+  line-height: 1.35;
 }
 
-// Smaller Headers
 h4, h5, h6 {
   font-family: 'Roboto Condensed', sans-serif !important;
-  text-align: center !important;
-  position: relative;
-  color: var(--wes-coral) !important;
+  text-align: left !important;
+  color: var(--wes-ink-soft) !important;
   text-transform: uppercase;
-  letter-spacing: 0.5px;
-  font-weight: 600;
+  letter-spacing: 1px;
+  font-weight: 700;
+  font-size: 0.95rem !important;
 }
 
-// Keep the decorative underlines
-h1::after, h2::after, h3::after {
+// Signature element: a short coral rule under h1/h2, left-aligned
+h1::after, h2::after {
   content: '';
-  width: 80px;
-  height: 3px;
-  background: var(--wes-coral);
-  display: block;
-  margin: 1rem auto;
-}
-
-h4::after, h5::after, h6::after {
-  content: '';
-  width: 60px;
+  width: 44px;
   height: 2px;
   background: var(--wes-coral);
   display: block;
-  margin: 0.5rem auto;
+  margin: 0.55rem 0 0 0;
 }
 
-// Header and Navigation Styling
+h3::after, h4::after, h5::after, h6::after {
+  display: none;
+}
+
+.page__content h1,
+.page__content h2 {
+  margin-top: 2.4rem !important;
+  margin-bottom: 1rem !important;
+  border-bottom: none;
+}
+
+// ---------------------------------------------------------------------------
+// Masthead and navigation
+// ---------------------------------------------------------------------------
 .masthead {
   background: var(--wes-cream);
-  border-bottom: 3px solid var(--wes-coral);
-  box-shadow: 0 2px 10px var(--wes-shadow);
-  
+  border-bottom: 1px solid var(--wes-hairline);
+  box-shadow: none;
+
   .site-title {
-    font-family: 'Anton', sans-serif !important;
-    font-size: 2.5rem !important;
-    font-weight: 400 !important;
+    font-family: 'Fraunces', serif !important;
+    font-size: 1.6rem !important;
+    font-weight: 600 !important;
+    color: var(--wes-navy) !important;
+    text-decoration: none !important;
+    text-transform: none !important;
+    letter-spacing: 0 !important;
+  }
+
+  .site-title:hover {
     color: var(--wes-coral) !important;
     text-decoration: none !important;
+  }
+}
+
+.greedy-nav {
+  background: transparent;
+
+  a {
+    font-family: 'Roboto Condensed', sans-serif !important;
+    font-weight: 400 !important;
     text-transform: uppercase !important;
-    letter-spacing: 3px !important;
+    letter-spacing: 1.5px !important;
+    font-size: 0.85rem;
+    padding: 0.6rem 0.9rem !important;
+    margin: 0 0.15rem;
+    border-radius: 0 !important;
+    background: transparent !important;
+    color: var(--wes-ink-soft) !important;
+    border: none;
+    border-bottom: 2px solid transparent;
+    transition: color 0.2s ease, border-color 0.2s ease;
+    transform: none;
+    box-shadow: none;
   }
-  
-  .site-title:hover {
-    color: var(--wes-mint) !important;
+
+  a:hover,
+  a.current {
+    background: transparent !important;
+    color: var(--wes-coral) !important;
+    border-bottom: 2px solid var(--wes-coral);
+    transform: none;
     text-decoration: none !important;
+    box-shadow: none;
   }
 }
 
-.greedy-nav a {
-  font-family: 'Roboto Condensed', sans-serif !important;
-  font-weight: 700 !important;
-  text-transform: uppercase !important;
-  letter-spacing: 2px !important;
-  padding: 0.7rem 1.2rem !important;
-  margin: 0 0.25rem;
-  border-radius: 0 !important;
-  background: var(--wes-light-coral) !important;
-  color: var(--wes-navy) !important;
-  transition: all 0.3s ease;
-  border: 2px solid transparent;
-  font-size: 0.9rem;
-}
-
-.greedy-nav a:hover,
-.greedy-nav a.current {
-  background: var(--wes-coral) !important;
-  color: white !important;
-  transform: translateY(-2px);
-  border-color: var(--wes-coral) !important;
-  text-decoration: none !important;
-  box-shadow: 0 4px 15px rgba(214, 51, 132, 0.3);
-}
-
-// Main Content Styling
+// ---------------------------------------------------------------------------
+// Page container: flat, no frames, no film strips
+// ---------------------------------------------------------------------------
 .page {
-  background: white;
-  box-shadow: 0 0 30px var(--wes-shadow);
-  border-radius: 8px;
-  position: relative;
-  border: 2px solid var(--wes-coral);
-  
-  // Film strip borders
+  background: transparent;
+  box-shadow: none;
+  border: none;
+  border-radius: 0;
+
   &::before,
   &::after {
-    content: '';
-    position: absolute;
-    left: -8px;
-    right: -8px;
-    height: 8px;
-    background: repeating-linear-gradient(
-      90deg,
-      var(--wes-navy) 0px,
-      var(--wes-navy) 15px,
-      transparent 15px,
-      transparent 25px
-    );
-  }
-  
-  &::before {
-    top: -8px;
-  }
-  
-  &::after {
-    bottom: -8px;
+    display: none;
   }
 }
 
-// Content Cards for sections
+// Legacy content cards: quiet sections separated by hairlines
 .content-section {
-  background: white;
-  border: 2px solid var(--wes-coral);
-  border-radius: 8px;
-  padding: 2rem;
-  margin: 2rem 0;
-  position: relative;
-  box-shadow: 0 4px 15px var(--wes-shadow);
-  
+  background: transparent;
+  border: none;
+  border-top: 1px solid var(--wes-hairline);
+  border-radius: 0;
+  padding: 1.6rem 0 0.4rem 0;
+  margin: 1.8rem 0 !important;
+  box-shadow: none;
+
+  &::before {
+    display: none;
+  }
+
   &:nth-child(even) {
-    border-color: var(--wes-mint);
-    
+    border-color: var(--wes-hairline);
+
     h2, h3 {
-      color: var(--wes-mint);
-      
+      color: var(--wes-navy);
+
       &::after {
-        background: var(--wes-mint);
+        background: var(--wes-coral);
       }
     }
-    
-    &::before {
-      background: var(--wes-mint);
-    }
   }
-  
-  &::before {
-    content: '';
-    position: absolute;
-    top: -2px;
-    left: 50%;
-    transform: translateX(-50%);
-    width: 40px;
-    height: 4px;
-    background: var(--wes-coral);
-    border-radius: 2px;
+
+  h3 {
+    margin-bottom: 0.5rem !important;
   }
 }
 
-// Author Profile Styling
+// ---------------------------------------------------------------------------
+// Author profile sidebar
+// ---------------------------------------------------------------------------
 .sidebar .author__avatar img {
-  border: 4px solid var(--wes-coral);
-  border-radius: 12px;
-  box-shadow: 0 4px 15px var(--wes-shadow);
+  border: 1px solid var(--wes-hairline);
+  border-radius: 4px;
+  box-shadow: none;
 }
 
 .author__content .author__name {
-  font-family: 'Playfair Display', serif;
-  font-size: 1.5rem;
-  color: var(--wes-coral);
-}
-
-.author__bio {
-  font-style: italic;
+  font-family: 'Fraunces', serif;
+  font-size: 1.3rem;
   color: var(--wes-navy);
 }
 
+.author__bio {
+  font-style: normal;
+  font-size: 0.92rem;
+  color: var(--wes-ink-soft);
+}
+
 .author__urls-wrapper .author__urls {
-  background: var(--wes-light-coral);
-  border: 2px solid var(--wes-coral);
-  border-radius: 8px;
-  
+  background: transparent;
+  border: 1px solid var(--wes-hairline);
+  border-radius: 4px;
+
   li a {
     color: var(--wes-navy);
-    transition: color 0.3s ease;
-    
+    transition: color 0.2s ease;
+
     &:hover {
       color: var(--wes-coral);
     }
   }
 }
 
-// Button Styling
+// ---------------------------------------------------------------------------
+// Buttons: quiet outline chips
+// ---------------------------------------------------------------------------
 .btn {
-  font-family: 'Source Sans Pro', sans-serif;
-  font-weight: 600;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight: 400;
   text-transform: uppercase;
   letter-spacing: 1px;
-  padding: 0.75rem 1.5rem;
-  border-radius: 25px;
-  border: 2px solid var(--wes-coral);
-  background: var(--wes-coral);
-  color: white;
+  font-size: 0.8rem;
+  padding: 0.35rem 0.8rem;
+  border-radius: 3px;
+  border: 1px solid var(--wes-coral);
+  background: transparent;
+  color: var(--wes-coral);
   text-decoration: none;
   display: inline-block;
-  transition: all 0.3s ease;
-  
+  transition: background 0.2s ease, color 0.2s ease;
+  transform: none;
+  box-shadow: none;
+
   &:hover {
-    background: transparent;
-    color: var(--wes-coral);
-    transform: translateY(-2px);
-    box-shadow: 0 4px 15px rgba(214, 51, 132, 0.3);
+    background: var(--wes-coral);
+    color: white;
+    transform: none;
+    box-shadow: none;
+    text-decoration: none;
   }
-  
+
   &.btn--primary {
     background: var(--wes-coral);
     border-color: var(--wes-coral);
-  }
-  
-  &.btn--info {
-    background: var(--wes-mint);
-    border-color: var(--wes-mint);
-    
+    color: white;
+
     &:hover {
       background: transparent;
-      color: var(--wes-mint);
-      box-shadow: 0 4px 15px rgba(32, 201, 151, 0.3);
+      color: var(--wes-coral);
     }
   }
-  
+
+  &.btn--info {
+    background: transparent;
+    border-color: var(--wes-mint);
+    color: var(--wes-mint);
+
+    &:hover {
+      background: var(--wes-mint);
+      color: white;
+      box-shadow: none;
+    }
+  }
+
+  &.btn--data {
+    background: transparent;
+    border-color: var(--wes-purple);
+    color: var(--wes-purple);
+
+    &:hover {
+      background: var(--wes-purple);
+      color: white;
+    }
+  }
+
   &.btn--small {
-    padding: 0.5rem 1rem;
-    font-size: 0.875rem;
+    padding: 0.3rem 0.7rem;
+    font-size: 0.75rem;
   }
 }
 
-// Publications and Research Styling
+// ---------------------------------------------------------------------------
+// Research: publication entries
+// ---------------------------------------------------------------------------
+.pub,
 .research-publication {
-  background: var(--wes-light-coral);
-  border-left: 4px solid var(--wes-coral);
-  padding: 1.5rem;
-  margin: 2rem 0;
-  border-radius: 0 8px 8px 0;
-  position: relative;
-  
-  &:nth-child(even) {
-    background: var(--wes-light-mint);
-    border-left-color: var(--wes-mint);
+  background: transparent !important;
+  border: none !important;
+  border-bottom: 1px solid var(--wes-hairline) !important;
+  border-radius: 0 !important;
+  padding: 1.4rem 0 !important;
+  margin: 0 !important;
+  box-shadow: none !important;
+  position: static;
+
+  &:last-of-type {
+    border-bottom: none !important;
   }
-  
+
   h3 {
     text-align: left;
-    margin-bottom: 1rem;
-    
+    margin: 0 0 0.35rem 0 !important;
+
+    a {
+      color: var(--wes-navy);
+
+      &:hover {
+        color: var(--wes-coral);
+        text-decoration: underline;
+        text-underline-offset: 3px;
+      }
+    }
+
     &::after {
       display: none;
     }
   }
-  
+
+  p {
+    margin-bottom: 0.4rem !important;
+  }
+
   .journal {
     font-weight: 600;
     color: var(--wes-coral);
   }
-  
-  .links {
-    margin-top: 1rem;
-    
-    a {
-      margin-right: 1rem;
-      margin-bottom: 0.5rem;
-    }
+}
+
+.pub-meta {
+  font-size: 0.95rem;
+  color: var(--wes-ink-soft);
+
+  em {
+    font-style: italic;
   }
 }
 
-// Teaching and Course Styling
-.course-list {
-  list-style: none;
-  padding: 0;
-  
-  li {
-    background: var(--wes-light-coral);
-    border-left: 4px solid var(--wes-coral);
-    padding: 1rem 1.5rem;
-    margin: 1rem 0;
-    border-radius: 0 8px 8px 0;
-    position: relative;
-    
+.pub-journal {
+  font-style: italic;
+  color: var(--wes-coral);
+  font-weight: 500;
+
+  a {
+    color: var(--wes-coral);
+    font-style: italic;
+  }
+}
+
+.pub-status {
+  font-family: 'Roboto Condensed', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 0.75rem;
+  color: var(--wes-mint);
+  border: 1px solid var(--wes-mint);
+  border-radius: 3px;
+  padding: 0.05rem 0.45rem;
+  margin-left: 0.4rem;
+  white-space: nowrap;
+}
+
+// Abstract as native <details>
+.pub-abstract {
+  margin: 0.4rem 0 0.6rem 0;
+
+  summary {
+    font-family: 'Roboto Condensed', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    font-size: 0.78rem;
+    color: var(--wes-coral);
+    cursor: pointer;
+    display: inline-block;
+    list-style: none;
+
     &::before {
-      content: '📚';
-      position: absolute;
-      left: -12px;
-      top: 50%;
-      transform: translateY(-50%);
-      background: var(--wes-coral);
-      width: 24px;
-      height: 24px;
-      border-radius: 50%;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      font-size: 12px;
+      content: '+ ';
     }
-    
-    strong {
-      color: var(--wes-coral);
+
+    &:hover {
+      text-decoration: underline;
+      text-underline-offset: 3px;
     }
+  }
+
+  summary::-webkit-details-marker {
+    display: none;
+  }
+
+  &[open] summary::before {
+    content: '\2212\00a0';
+  }
+
+  p {
+    font-size: 0.95rem;
+    color: var(--wes-ink-soft);
+    line-height: 1.65;
+    margin: 0.5rem 0 0 0;
+    padding-left: 0.9rem;
+    border-left: 2px solid var(--wes-hairline);
+    max-width: 46rem;
   }
 }
 
-// Talks and Events List
+// Links row: quiet chips separated naturally by whitespace
+.pub-links {
+  margin: 0.5rem 0 0 0 !important;
+
+  .btn {
+    margin: 0 0.35rem 0.35rem 0;
+  }
+}
+
+.pub-media {
+  font-size: 0.9rem;
+  color: var(--wes-ink-soft);
+
+  .pub-label {
+    font-family: 'Roboto Condensed', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    font-size: 0.75rem;
+    color: var(--wes-ink-soft);
+    margin-right: 0.3rem;
+  }
+}
+
+// Legacy abstract classes (other pages): neutralized
+.abstract-section {
+  background: transparent;
+  padding: 0.5rem 0 !important;
+  border-radius: 0;
+  margin: 0.5rem 0 !important;
+  border-left: none;
+}
+
+.abstract-text {
+  color: var(--wes-ink-soft);
+  line-height: 1.65;
+  margin-bottom: 0.5rem;
+  font-size: 0.95rem;
+}
+
+.abstract-preview {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.abstract-full {
+  display: none;
+}
+
+.abstract-toggle {
+  background: transparent;
+  color: var(--wes-coral);
+  border: 1px solid var(--wes-coral);
+  padding: 0.25rem 0.6rem;
+  border-radius: 3px;
+  font-size: 0.75rem;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight: 400;
+  cursor: pointer;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  transition: background 0.2s ease, color 0.2s ease;
+
+  &:hover {
+    background: var(--wes-coral);
+    color: white;
+  }
+}
+
+.links {
+  padding: 0 !important;
+  margin: 0.5rem 0 !important;
+  background: transparent !important;
+  border: none !important;
+  text-align: left !important;
+
+  a {
+    margin-right: 0.4rem;
+    margin-bottom: 0.4rem;
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Teaching and talks lists: no emoji badges, quiet markers
+// ---------------------------------------------------------------------------
+.course-list,
 .talks-list {
   list-style: none;
   padding: 0;
-  
+
   li {
-    background: var(--wes-light-coral);
-    border-left: 4px solid var(--wes-coral);
-    padding: 1rem 1.5rem;
-    margin: 1rem 0;
-    border-radius: 0 8px 8px 0;
-    position: relative;
-    
+    background: transparent;
+    border-left: 2px solid var(--wes-coral);
+    padding: 0.15rem 0 0.15rem 1rem;
+    margin: 0.7rem 0;
+    border-radius: 0;
+    position: static;
+
     &::before {
-      content: '🎯';
-      position: absolute;
-      left: -12px;
-      top: 50%;
-      transform: translateY(-50%);
-      background: var(--wes-coral);
-      width: 24px;
-      height: 24px;
-      border-radius: 50%;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      font-size: 12px;
+      display: none;
     }
-    
+
     strong {
-      color: var(--wes-coral);
+      color: var(--wes-navy);
     }
-    
+
     a {
-      color: var(--wes-mint);
-      font-weight: 600;
+      color: var(--wes-coral);
+      font-weight: 500;
     }
   }
 }
 
-// Tables Styling
+// ---------------------------------------------------------------------------
+// Tables
+// ---------------------------------------------------------------------------
 table {
   border-collapse: collapse;
-  border: 2px solid var(--wes-coral);
+  border: none;
+  border-top: 2px solid var(--wes-navy);
+  border-bottom: 2px solid var(--wes-navy);
   margin: 2rem 0;
-  
+  font-size: 0.95rem;
+
   th {
-    background: var(--wes-coral);
-    color: white;
-    padding: 1rem;
-    font-family: 'Source Sans Pro', sans-serif;
-    font-weight: 600;
+    background: transparent;
+    color: var(--wes-navy);
+    padding: 0.6rem 0.9rem;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 1px;
+    font-size: 0.8rem;
+    border-bottom: 1px solid var(--wes-navy);
   }
-  
+
   td {
-    padding: 1rem;
-    border-bottom: 1px solid var(--wes-gray);
-    
+    padding: 0.6rem 0.9rem;
+    border-bottom: 1px solid var(--wes-hairline);
+
     &:first-child {
-      font-weight: 600;
-      color: var(--wes-coral);
+      font-weight: 500;
+      color: var(--wes-navy);
     }
   }
-  
+
   tr:nth-child(even) {
-    background: var(--wes-light-coral);
+    background: transparent;
   }
 }
 
-// Footer Styling
+// ---------------------------------------------------------------------------
+// Footer
+// ---------------------------------------------------------------------------
 .page__footer {
   background: var(--wes-navy);
   color: var(--wes-cream);
   text-align: center;
   padding: 2rem 0;
   margin-top: 3rem;
-  
+
   .social-icons {
     margin: 1rem 0;
-    
+
     a {
       color: var(--wes-cream);
-      font-size: 1.5rem;
-      margin: 0 1rem;
-      transition: color 0.3s ease;
-      
+      font-size: 1.3rem;
+      margin: 0 0.8rem;
+      transition: color 0.2s ease;
+
       &:hover {
         color: var(--wes-coral);
       }
@@ -469,185 +626,215 @@ table {
   }
 }
 
-// Responsive Design
-@media (max-width: 768px) {
-  h1 {
-    font-size: 2rem;
-  }
-  
-  .page {
-    margin: 1rem;
-    
-    &::before,
-    &::after {
-      left: -4px;
-      right: -4px;
-      height: 6px;
-    }
-    
-    &::before {
-      top: -6px;
-    }
-    
-    &::after {
-      bottom: -6px;
-    }
-  }
-  
-  .content-section {
-    padding: 1.5rem;
-    margin: 1rem 0;
-  }
-  
-  .greedy-nav a {
-    padding: 0.4rem 0.8rem;
-    margin: 0 0.1rem;
-    font-size: 0.875rem;
-  }
-}
-
-// Tommy Hilfiger-inspired new classes
-.since-style {
+// ---------------------------------------------------------------------------
+// Legacy label classes, restyled quietly
+// ---------------------------------------------------------------------------
+.since-style,
+.tommy-accent {
   font-family: 'Roboto Condensed', sans-serif;
-  font-size: 0.9rem;
+  font-size: 0.78rem;
   text-transform: uppercase;
   letter-spacing: 2px;
-  color: var(--wes-navy);
-  font-weight: 300;
+  color: var(--wes-ink-soft);
+  font-weight: 400;
 }
 
 .institution-name {
-  font-family: 'Oswald', sans-serif;
+  font-family: inherit;
   font-weight: 600;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  color: var(--wes-coral);
-}
-
-.tommy-accent {
-  font-family: 'Roboto Condensed', sans-serif;
-  text-transform: uppercase;
-  letter-spacing: 1.5px;
-  font-weight: 300;
-  font-size: 0.8rem;
+  text-transform: none;
+  letter-spacing: 0;
   color: var(--wes-navy);
 }
 
 .year-style {
-  font-family: 'Anton', sans-serif;
-  font-size: 1.2rem;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 0.85rem;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
   color: var(--wes-coral);
-  font-weight: 400;
+  font-weight: 700;
 }
 
-:root {
-    --wes-purple: #6F42C1;
-    --wes-light-purple: rgba(111, 66, 193, 0.1);
+// Eyebrow line used on the home page
+.eyebrow {
+  font-family: 'Roboto Condensed', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 2.5px;
+  font-size: 0.8rem;
+  color: var(--wes-ink-soft);
+  margin-bottom: 1.2rem;
 }
 
-.research-publication {
-    background: white;
-    padding: 2rem;
-    border-radius: 12px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    margin-bottom: 2rem;
+// Quiet card grid used on the home page (research areas, teaching)
+.quiet-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.2rem;
+  margin: 1.4rem 0;
 }
 
-.btn--data {
-    background: var(--wes-purple);
-    border-color: var(--wes-purple);
-}
+.quiet-card {
+  border: 1px solid var(--wes-hairline);
+  border-radius: 4px;
+  padding: 1.1rem 1.2rem;
+  background: rgba(255, 255, 255, 0.55);
 
-.btn--data:hover {
-    background: white;
-    color: var(--wes-purple);
-}
+  h3, h4 {
+    margin: 0 0 0.3rem 0 !important;
+    text-align: left !important;
+  }
 
-.abstract-section {
-    background: var(--wes-light-purple);
-    padding: 1rem;
-    border-radius: 8px;
-    margin: 1rem 0;
-    border-left: 4px solid var(--wes-purple);
-}
+  p {
+    font-size: 0.93rem;
+    color: var(--wes-ink-soft);
+    margin: 0 0 0.7rem 0;
+  }
 
-.abstract-text {
-    color: var(--wes-navy);
-    line-height: 1.6;
-    margin-bottom: 0.5rem;
-}
-
-.abstract-preview {
-    display: -webkit-box;
-    -webkit-line-clamp: 2;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
-}
-
-.abstract-full {
-    display: none;
-}
-
-.abstract-toggle {
-    background: var(--wes-purple);
-    color: white;
-    border: none;
-    padding: 0.4rem 0.8rem;
-    border-radius: 4px;
-    font-size: 0.8rem;
-    font-weight: 600;
-    cursor: pointer;
+  a.quiet-link {
+    font-family: 'Roboto Condensed', sans-serif;
     text-transform: uppercase;
-    letter-spacing: 0.5px;
-    transition: all 0.3s ease;
+    letter-spacing: 1.5px;
+    font-size: 0.78rem;
+    color: var(--wes-coral);
+  }
 }
 
-.abstract-toggle:hover {
+// TOC sidebar (research page)
+.toc {
+  border: 1px solid var(--wes-hairline);
+  border-radius: 4px;
+  box-shadow: none;
+
+  .nav__title {
     background: var(--wes-navy);
+    color: var(--wes-cream);
+    font-family: 'Roboto Condensed', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    font-size: 0.8rem;
+  }
+
+  .toc__menu a {
+    font-size: 0.85rem;
+    color: var(--wes-ink-soft);
+
+    &:hover {
+      color: var(--wes-coral);
+    }
+  }
 }
 
-/* Tighter research page spacing */
-.research-publication {
-  padding: 1.5rem !important;
-  margin-bottom: 1.5rem !important;
+// Respect reduced motion
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation: none !important;
+    transition: none !important;
+  }
 }
 
-.abstract-section {
-  padding: 0.75rem !important;
-  margin: 0.75rem 0 !important;
+// ---------------------------------------------------------------------------
+// Mobile
+// ---------------------------------------------------------------------------
+@media (max-width: 768px) {
+  body {
+    font-size: 16px;
+  }
+
+  h1 {
+    font-size: 1.7rem !important;
+  }
+
+  h2 {
+    font-size: 1.35rem !important;
+  }
+
+  .quiet-grid {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+
+  .content-section {
+    padding: 1.2rem 0 0.3rem 0;
+    margin: 1.2rem 0 !important;
+  }
+
+  .greedy-nav a {
+    padding: 0.4rem 0.6rem !important;
+    margin: 0 0.05rem;
+    font-size: 0.8rem;
+  }
 }
 
-.links {
-  padding: 1rem !important;
-  margin: 0.75rem 0 !important;
+// Quiet-card headings stay navy even when linked
+.quiet-card h3 a {
+  color: var(--wes-navy);
+
+  &:hover {
+    color: var(--wes-coral);
+    text-decoration: none;
+  }
 }
 
-.research-publication h3 {
-  margin-bottom: 0.5rem !important;
-  margin-top: 0 !important;
+// ---------------------------------------------------------------------------
+// What's new (home page), driven by _data/news.yml
+// ---------------------------------------------------------------------------
+.news-list {
+  list-style: none;
+  padding: 0;
+  margin: 1rem 0 0 0;
+
+  li {
+    display: grid;
+    grid-template-columns: 6rem 1fr;
+    gap: 0.9rem;
+    padding: 0.55rem 0;
+    border-bottom: 1px solid var(--wes-hairline);
+    margin: 0;
+
+    &:last-child {
+      border-bottom: none;
+    }
+  }
+
+  .news-date {
+    font-family: 'Roboto Condensed', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 0.78rem;
+    color: var(--wes-coral);
+    font-weight: 700;
+    padding-top: 0.25rem;
+    white-space: nowrap;
+  }
+
+  .news-body {
+    font-size: 0.95rem;
+    color: var(--wes-navy);
+
+    em {
+      font-style: italic;
+    }
+  }
+
+  .news-tag {
+    font-family: 'Roboto Condensed', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 0.68rem;
+    color: var(--wes-mint);
+    border: 1px solid var(--wes-mint);
+    border-radius: 3px;
+    padding: 0.05rem 0.4rem;
+    margin-right: 0.35rem;
+    position: relative;
+    top: -1px;
+  }
 }
 
-.research-publication p {
-  margin-bottom: 0.5rem !important;
-}
-
-.research-publication > div[style*="padding: 1rem"] {
-  padding: 0.75rem !important;
-  margin: 0.75rem 0 !important;
-}
-
-/* Tighter content sections for work in progress */
-.content-section {
-  margin-bottom: 1.5rem !important;
-}
-
-.content-section h3 {
-  margin-bottom: 0.5rem !important;
-}
-
-/* Reduce space between major sections */
-.page__content h1, 
-.page__content h2 {
-  margin-top: 2rem !important;
-  margin-bottom: 1rem !important;
+@media (max-width: 640px) {
+  .news-list li {
+    grid-template-columns: 1fr;
+    gap: 0.15rem;
+  }
 }

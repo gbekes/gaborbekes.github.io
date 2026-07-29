@@ -1,0 +1,23 @@
+# What's new on the home page.
+# Add new items at the TOP. The home page shows the first 5.
+# Fields: date (shown as-is), tag (Paper / Media / Talk / Course), text (markdown links OK)
+
+- date: "Jul 2026"
+  tag: "Media"
+  text: "*Teaching Analytics in the Age of AI* — a CEU podcast conversation on AI and teaching data analysis. [Episode and transcript](/ceu-ai-podcast-2026/)."
+
+- date: "Jun 2026"
+  tag: "Media"
+  text: "Telex podcast on football as a laboratory for social science — [episode and the research behind it](/sport-telex-podcast-2026/)."
+
+- date: "Oct 2025"
+  tag: "Paper"
+  text: "*Cultural Homophily and Collaboration in Superstar Teams* (with Gianmarco Ottaviano) published in [Management Science](https://doi.org/10.1287/mnsc.2022.01799). Covered by the Boston Globe and Der Standard."
+
+- date: "Oct 2025"
+  tag: "Talk"
+  text: "*Vibe Coding Kills Open Source* presented at Ericsson and Automattic — [CEPR DP21145](https://cepr.org/publications/dp21145)."
+
+- date: "Jul 2025"
+  tag: "Talk"
+  text: "*Integrators and Robot Adoption* at the GEN Workshop — [slides](/assets/pdf/BBCG-Jul2025-slides.pdf)."
