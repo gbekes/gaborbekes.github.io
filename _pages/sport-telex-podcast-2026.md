@@ -64,6 +64,11 @@ A *Freakonomics* híres története: a szumóban a 8. győzelem sorsdöntő egy 
 
 **Didier Drogba and civil war** [BBC Didier Drogba: How Ivory Coast striker helped to halt civil war in his home nation](https://www.bbc.com/sport/football/52072592)
 
+## Ami kimaradt de kár volt
+
+Egy korai zsenge: Békés, Köber, Krusper, Szilágyi [Messi, ha pihen (avagy a focista-erőnlét ciklusmodellje)](/assets/pdf/BKKSZ_messi_2017.pdf)  (2017, Király Juli 60 könvy)
+
+
 ## Finally,
 
 **XKCD: Sports Commentary** — [xkcd.com/3262](https://xkcd.com/3262/)
