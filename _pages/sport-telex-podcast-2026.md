@@ -12,7 +12,9 @@ A [Telex](https://telex.hu/video/2026/06/28/foci-kozgazdasag-kutatas-rasszizmus-
 
 Az alábbiakban összegyűjtöttem az adásban szóba került kutatásokat: mindegyiknél a pontos hivatkozás, egy link a cikkhez, és néhány közérthető mondat arról, mi a kérdés és mi a válasz. A **★** a saját, szerzőtársaimmal közös kutatásaimat jelöli.
 
-*(Az adás itt hallgatható meg: [link a Telex-epizódhoz](https://telex.hu/video/2026/06/28/foci-kozgazdasag-kutatas-rasszizmus-passz-bekes-gabor-ceu-krtk-tema-interju).)*
+*(Az adás itt hallgatható meg: [link a Telex-epizódhoz](https://telex.hu/video/2026/06/28/foci-kozgazdasag-kutatas-rasszizmus-passz-bekes-gabor-ceu-krtk-tema-interju), vagy nézd meg itt:)*
+
+{% include yt.html id="zOannex5ifU" title="A foci mint az emberi viselkedés laboratóriuma" meta="Telex, 2026-06-28" %}
 
 ---
 

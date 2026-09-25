@@ -5,7 +5,6 @@ title: "My Allium Allergy"
 permalink: /my-allium-allergy/
 author_profile: true
 redirect_from:
-  - /md/
   - /my-allium-allergy.html
 ---
 

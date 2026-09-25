@@ -5,7 +5,6 @@ title: "Reference letter rules"
 permalink: /ref-letter/
 author_profile: true
 redirect_from:
-  - /md/
   - /ref-letter.html
 ---
 

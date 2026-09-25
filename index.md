@@ -17,6 +17,22 @@ permalink: /
 </p>
 
 <div class="content-section">
+  <h2>Featured</h2>
+  <div class="quiet-grid">
+    <div class="quiet-card">
+      <h3><a href="/ceu-ai-podcast-2026/">Teaching Analytics in the Age of AI</a></h3>
+      <p>CEU podcast with Eduardo Ariño de la Rubia (July 2026) on how AI changes what we teach in data analysis, and how. Highlights and transcript.</p>
+      <a href="/ceu-ai-podcast-2026/" class="quiet-link">Listen and read &rarr;</a>
+    </div>
+    <div class="quiet-card">
+      <h3><a href="https://www.portfolio.hu/gazdasag/20260615/ha-nem-nonek-meg-a-magyar-cegek-itthon-verik-meg-oket-a-csehek-es-a-lengyelek-839682" target="_blank" rel="noopener">Ha nem nőnek meg a magyar cégek, itthon verik meg őket a csehek és a lengyelek</a></h3>
+      <p>Portfolio.hu interview, June 2026 (in Hungarian): restarting a stalled economy, regional expansion as the way out for Hungarian firms, and why AI may widen gaps between countries.</p>
+      <a href="https://www.portfolio.hu/gazdasag/20260615/ha-nem-nonek-meg-a-magyar-cegek-itthon-verik-meg-oket-a-csehek-es-a-lengyelek-839682" class="quiet-link" target="_blank" rel="noopener">Read on Portfolio &rarr;</a>
+    </div>
+  </div>
+</div>
+
+<div class="content-section">
   <h2>What's new</h2>
   <ul class="news-list">
     {% for item in site.data.news limit: 5 %}
@@ -60,6 +76,7 @@ permalink: /
       <a href="https://gabors-data-analysis.com/ai-course/" class="quiet-link" target="_blank" rel="noopener">Course material &rarr;</a>
     </div>
   </div>
+  <p>Asking for a recommendation letter? Please read my <a href="/ref-letter/">reference letter policy</a> first.</p>
 </div>
 
 <div class="content-section">
@@ -72,6 +89,11 @@ permalink: /
 
 <div class="content-section">
   <h2>Press &amp; interviews</h2>
-  <p>Featured in the Boston Globe, Financial Times, Der Standard, and Portfolio.</p>
-  <p><a href="/popular-press/" class="btn btn--small">All coverage</a></p>
+  <p>Featured in the Boston Globe, Financial Times, Der Standard, and Portfolio. Podcasts and video interviews are on the media page.</p>
+  <p><a href="/popular-press/" class="btn btn--small">Media and videos</a></p>
+</div>
+
+<div class="content-section">
+  <h2>Other</h2>
+  <p>Inviting me to dinner? Here is <a href="/my-allium-allergy/">my allium allergy</a>: no onion, garlic or anything else from the onion family, please.</p>
 </div>

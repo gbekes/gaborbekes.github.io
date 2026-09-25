@@ -15,5 +15,7 @@ main:
     url: "/teaching/"
   - title: "Textbook"
     url: "/textbook/"
+  - title: "Media"
+    url: "/popular-press/"
   - title: "CV"
     url: "/cv/"

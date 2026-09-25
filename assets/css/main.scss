@@ -876,3 +876,46 @@ table {
     gap: 0.15rem;
   }
 }
+
+// ---------------------------------------------------------------------------
+// YouTube embeds (media page), via _includes/yt.html
+// ---------------------------------------------------------------------------
+.yt-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.4rem;
+  margin: 1.2rem 0 2rem 0;
+}
+
+.yt-embed {
+  display: block;   // theme styles <figure> as flex, which collapses the frame
+  margin: 0;
+
+  .yt-frame {
+    position: relative;
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    border: 1px solid var(--wes-hairline);
+    border-radius: 4px;
+    overflow: hidden;
+  }
+
+  iframe {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+  }
+
+  figcaption {
+    font-size: 0.88rem;
+    margin-top: 0.45rem;
+    line-height: 1.35;
+  }
+
+  .yt-meta {
+    color: var(--wes-ink-soft);
+    font-size: 0.82rem;
+  }
+}
