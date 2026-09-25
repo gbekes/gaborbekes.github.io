@@ -919,3 +919,26 @@ table {
     font-size: 0.82rem;
   }
 }
+
+// Textbook block on the home page: cover next to text
+.book-feature {
+  display: flex;
+  gap: 1.4rem;
+  align-items: flex-start;
+
+  > a { flex: 0 0 150px; }
+
+  img {
+    display: block;
+    width: 150px;
+    height: auto;
+    border: 1px solid var(--wes-hairline);
+    box-shadow: 0 2px 8px rgba(44, 62, 80, 0.15);
+  }
+
+  p:first-child { margin-top: 0; }
+}
+
+@media (max-width: 480px) {
+  .book-feature { flex-direction: column; }
+}

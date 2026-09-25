@@ -2,6 +2,10 @@
 # Add new items at the TOP. The home page shows the first 5.
 # Fields: date (shown as-is), tag (Paper / Media / Talk / Course), text (markdown links OK)
 
+- date: "Aug 2026"
+  tag: "Paper"
+  text: "*Right-wing terrorism and far-right support: Evidence from anti-Roma attacks in Hungary* (with Gábor Simonovits, Attila Gáspár and Márton Végh) published in [Political Science Research and Methods](https://doi.org/10.1017/psrm.2026.10111), open access."
+
 - date: "Jul 2026"
   tag: "Media"
   text: "*Teaching Analytics in the Age of AI* — a CEU podcast conversation on AI and teaching data analysis. [Episode and transcript](/ceu-ai-podcast-2026/)."

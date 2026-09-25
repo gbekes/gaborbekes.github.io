@@ -55,11 +55,16 @@ permalink: /
 
 <div class="content-section">
   <h2>Textbook</h2>
-  <p><em>Data Analysis for Business, Economics, and Policy</em> (with Gábor Kézdi), Cambridge University Press, 2021. Used in courses in more than 40 countries.</p>
-  <p>
-    <a href="https://gabors-data-analysis.com" class="btn" target="_blank" rel="noopener">Textbook site</a>
-    <a href="/textbook/" class="btn btn--info">About the book</a>
-  </p>
+  <div class="book-feature">
+    <a href="https://gabors-data-analysis.com" target="_blank" rel="noopener"><img src="/assets/images/textbook-cover.jpg" alt="Cover of Data Analysis for Business, Economics, and Policy by Gábor Békés and Gábor Kézdi" width="180" height="236" loading="lazy"></a>
+    <div>
+      <p><em>Data Analysis for Business, Economics, and Policy</em> (with Gábor Kézdi), Cambridge University Press, 2021. Used in courses in more than 40 countries.</p>
+      <p>
+        <a href="https://gabors-data-analysis.com" class="btn" target="_blank" rel="noopener">Textbook site</a>
+        <a href="/textbook/" class="btn btn--info">About the book</a>
+      </p>
+    </div>
+  </div>
 </div>
 
 <div class="content-section">
