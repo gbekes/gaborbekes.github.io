@@ -14,7 +14,7 @@ Listen to the episode here:
 
 * [**Spotify**](https://open.spotify.com/episode/5UnHjtBGoue2vQId5TxIca)
 * [**Apple**](https://podcasts.apple.com/hu/podcast/teaching-analytics-in-the-age-of-ai/id6788739867)
-* [**CEU Podcasts**](https://podcasts.ceu.edu/content/teaching-analytics-age-ai-gabor-bekes).*
+* [**CEU Podcasts**](https://podcasts.ceu.edu/content/teaching-analytics-age-ai-gabor-bekes)
 
 Below is a set of highlights, a few memorable lines, and a lightly edited transcript of the conversation.
 

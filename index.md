@@ -65,8 +65,8 @@ permalink: /
 <div class="content-section">
   <h2>Recent talks</h2>
   <ul class="talks-list">
-    <li><span class="year-style">2025</span> &mdash; <strong>Integrators and robot adoption</strong>, GEN Workshop. <a href="/assets/pdf/BBCG-Jul2025-slides.pdf" target="_blank" rel="noopener">Slides</a></li>
-    <li><span class="year-style">Oct 2</span> &mdash; <strong>Vibe coding kills OSS</strong>, Ericsson, Automattic. <a href="https://cepr.org/publications/dp21145" target="_blank" rel="noopener">CEPR DP</a></li>
+    <li><span class="year-style">Oct 2025</span> &mdash; <strong>Vibe coding kills OSS</strong>, Ericsson, Automattic. <a href="https://cepr.org/publications/dp21145" target="_blank" rel="noopener">CEPR DP</a></li>
+    <li><span class="year-style">Jul 2025</span> &mdash; <strong>Integrators and robot adoption</strong>, GEN Workshop. <a href="/assets/pdf/BBCG-Jul2025-slides.pdf" target="_blank" rel="noopener">Slides</a></li>
   </ul>
 </div>
 

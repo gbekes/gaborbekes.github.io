@@ -68,6 +68,7 @@ permalink: /popular-press/
 
 | Date | Title / Description | Source | Language |
 |------|---------------------|--------|----------|
+| 2026-06-28 | [A foci mint az emberi viselkedés laboratóriuma](/sport-telex-podcast-2026/) — the research behind the episode ([listen](https://telex.hu/video/2026/06/28/foci-kozgazdasag-kutatas-rasszizmus-passz-bekes-gabor-ceu-krtk-tema-interju)) | Telex podcast | Hungarian |
 | 2024-06-26 | [Eb 2024: itt egy rossz hír a magyar válogatott továbbjutási esélyeiről](https://www.portfolio.hu/gazdasag/20240626/eb-2024-itt-egy-rossz-hir-a-magyar-valogatott-tovabbjutasi-eselyeirol-694857) | Portfolio | Hungarian |
 | 2024-06-25 | [Ennyivel nőtt Magyarország esélye hétfő este, hogy továbbjusson a foci-Eb-n](https://www.portfolio.hu/gazdasag/20240625/ennyivel-nott-magyarorszag-eselye-hetfo-este-hogy-tovabbjusson-a-foci-eb-n-694517) | Portfolio | Hungarian |
 | 2024-06-24 | [Kiszámolta a ChatGPT-vel egy magyar közgazdász, mekkora eséllyel jutunk tovább a foci-Eb-n](https://www.portfolio.hu/uzlet/20240624/kiszamolta-a-chatgpt-vel-egy-magyar-kozgazdasz-mekkora-esellyel-jutunk-tovabb-a-foci-eb-n-694351) | Portfolio | Hungarian |
