@@ -11,7 +11,7 @@ permalink: /
 <p>Gábor Békés is associate professor of Economics at the <span class="institution-name">Central European University</span> in Vienna, senior research fellow at the <span class="institution-name">MTA KRTK Institute of Economics</span> (Hungary), and research fellow at <span class="institution-name">CEPR</span> and <span class="institution-name">Centro LdA</span> (Italy). He is an applied economist who studies how globalization reshapes firms, locations, and organizations, based on large-scale firm- and transaction-level microdata. He is the co-author of <em>Data Analysis for Business, Economics, and Policy</em>, a textbook published by Cambridge University Press, and an advising fellow at the <span class="institution-name">Microsoft AI Economy Institute</span>. His <span class="institution-name">Data Analysis and AI Lab</span> supports research, produces education materials, and helps link academia and industry.</p>
 
 <p>
-  <a href="/assets/pdf/CV_BekesGabor.pdf" class="btn btn--primary" target="_blank" rel="noopener">Download CV</a>
+  <a href="/assets/pdf/CV_BekesGabor.pdf?v=2026-10" class="btn btn--primary" target="_blank" rel="noopener">Download CV</a>
   <a href="/research/" class="btn">Research</a>
   <a href="mailto:bekesg@ceu.edu" class="btn">Email</a>
 </p>

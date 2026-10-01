@@ -1,0 +1,215 @@
+% Békés Gábor szakmai önéletrajza (magyar változat)
+% Source for assets/pdf/CV_BekesGabor_HU.pdf. Compile with: pdflatex CV_BekesGabor_HU.tex
+% Hungarian mirror of CV_BekesGabor.tex; keep the two in step when updating.
+\documentclass[10pt,a4paper]{article}
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[magyar]{babel}
+\usepackage{XCharter}
+\usepackage[a4paper,margin=1.8cm,top=1.6cm,bottom=1.7cm]{geometry}
+\usepackage{microtype}
+\usepackage{xcolor}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage{fancyhdr}
+\usepackage[hidelinks]{hyperref}
+
+\definecolor{accent}{HTML}{1F4E79}
+\definecolor{muted}{HTML}{555555}
+
+\hypersetup{
+  pdftitle={Önéletrajz -- Békés Gábor},
+  pdfauthor={Békés Gábor},
+  pdflang={hu},
+  colorlinks=true, urlcolor=accent, linkcolor=accent
+}
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+
+% Section headings: small caps with a thin rule
+\titleformat{\section}{\color{accent}\large\scshape}{}{0pt}{}[\vspace{-0.6ex}{\color{accent}\titlerule[0.5pt]}]
+\titlespacing*{\section}{0pt}{1.6ex}{1.0ex}
+\titleformat{\subsection}{\bfseries\small}{}{0pt}{}
+\titlespacing*{\subsection}{0pt}{1.0ex}{0.5ex}
+
+% Dated entries: year in a left column, text hanging to the right
+\newlist{cvlist}{description}{1}
+\setlist[cvlist]{leftmargin=2.0cm, labelwidth=1.8cm, labelsep=0.2cm, align=left,
+  font=\normalfont\color{muted}, itemsep=0.25ex, parsep=0pt, topsep=0pt}
+
+\newcommand{\jn}[1]{\textit{#1}}
+
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+\fancyfoot[L]{\footnotesize\color{muted}Békés Gábor --- önéletrajz, 2026. október}
+\fancyfoot[R]{\footnotesize\color{muted}\thepage}
+
+\begin{document}
+
+% ---------------------------------------------------------------- Fejléc
+{\fontsize{22}{26}\selectfont\color{accent} Békés Gábor}\par
+\vspace{0.6ex}
+{\color{muted}Egyetemi docens, Közép-európai Egyetem \,·\, tudományos főmunkatárs, MTA KRTK Közgazdaságtudományi Intézet}\par
+\vspace{1.2ex}
+\begin{minipage}[t]{0.52\textwidth}
+\small
+Department of Economics and Business\\
+Közép-európai Egyetem (CEU)\\
+Quellenstraße 51, 1100 Bécs, Ausztria\\
+\href{mailto:bekesg@ceu.edu}{bekesg@ceu.edu}
+\end{minipage}%
+\begin{minipage}[t]{0.48\textwidth}
+\small
+Web: \href{https://gaborbekes.com}{gaborbekes.com} \,·\, GitHub: \href{https://github.com/gbekes}{gbekes}\\
+ORCID: \href{https://orcid.org/0000-0002-6331-4408}{0000-0002-6331-4408}\\
+\href{https://scholar.google.com/citations?user=Yk5xy7EAAAAJ}{Google Scholar}: 2361 hivatkozás, h-index: 21 (2026. október)\\
+Született: 1974. november 21.; magyar állampolgár
+\end{minipage}
+
+\vspace{1.2ex}
+{\small Kutatási terület: nemzetközi közgazdaságtan, gazdaságföldrajz és szervezetek, többnyire nagy
+vállalati, tranzakciós és egyéni szintű mikroadatok alapján.}
+
+% ---------------------------------------------------------------- Munkahelyek
+\section{Munkahelyek}
+\begin{cvlist}
+  \item[2023--] Egyetemi docens (associate professor), Department of Economics and Business, Közép-európai Egyetem, Bécs
+  \item[2017--2023] Egyetemi adjunktus (assistant professor), Department of Economics and Business, Közép-európai Egyetem
+  \item[2005--] Tudományos főmunkatárs, MTA KRTK Közgazdaságtudományi Intézet, Budapest
+\end{cvlist}
+
+\subsection{Egyéb kutatói kapcsolatok}
+\begin{cvlist}
+  \item[2022--] Research Fellow, CEPR (2014--2022: Research Affiliate)
+  \item[] Research Fellow, Centro Studi Luca d'Agliano (Centro LdA), Olaszország
+  \item[2025--] Advising Fellow, Microsoft AI Economy Institute
+  \item[] A Data Analysis and AI Lab vezetője; a labor kutatást támogat, oktatási anyagokat készít, és összeköti az akadémiai és az üzleti szférát
+\end{cvlist}
+
+% ---------------------------------------------------------------- Tanulmányok
+\section{Tanulmányok}
+\begin{cvlist}
+  \item[2007] PhD (közgazdaságtan), Közép-európai Egyetem, Budapest
+  \item[2000] MSc in Economics, London School of Economics
+  \item[1999] BSc (közgazdaságtan) és MSc (pénzügy és közgazdaságtan), Budapesti Corvinus Egyetem
+\end{cvlist}
+
+% ---------------------------------------------------------------- Publikációk
+\section{Lektorált folyóiratcikkek}
+\begin{cvlist}
+  \item[2026] \href{https://doi.org/10.1017/psrm.2026.10111}{Right-wing terrorism and far-right support: Evidence from anti-Roma attacks in Hungary} (társszerzők: Simonovits Gábor, Gáspár Attila, Végh Márton). \jn{Political Science Research and Methods}, online megjelenés: 2026. augusztus 10.
+  \item[2025] \href{https://doi.org/10.1287/mnsc.2022.01799}{Cultural homophily and collaboration in superstar teams} (társszerző: Gianmarco I.P. Ottaviano). \jn{Management Science} 71(10): 8149--8168.
+  \item[2024] \href{https://doi.org/10.1111/ecin.13245}{Favoritism under multiple sources of social pressure} (társszerzők: Borza Endre, Fleck Márton). \jn{Economic Inquiry} 62(4): 1748--1769.
+  \item[2021] \href{https://doi.org/10.1002/gsj.1397}{Into the unknown: The extent and boldness of firms' international footprint} (társszerzők: Davide Castellani, Muraközy Balázs, Gabriel R.G. Benito). \jn{Global Strategy Journal} 11(3): 468--493.
+  \item[2020] \href{https://doi.org/10.1007/s10290-019-00365-y}{Machine imports, technology adoption and local spillovers} (társszerző: Harasztosi Péter). \jn{Review of World Economics} 156(2): 343--375.
+  \item[2018] \href{https://doi.org/10.1007/s10290-018-0305-9}{The ladder of internationalization modes: Evidence from European firms} (társszerző: Muraközy Balázs). \jn{Review of World Economics} 154(3): 455--491.
+  \item[2018] \href{https://doi.org/10.1007/s00168-017-0849-y}{Grid and shake: Spatial aggregation and the robustness of regionally estimated elasticities} (társszerző: Harasztosi Péter). \jn{The Annals of Regional Science} 60(1): 143--170.
+  \item[2017] \href{https://doi.org/10.1007/s10290-017-0286-0}{Shipment frequency of exporters and demand uncertainty: An inventory management approach} (társszerzők: Lionel Fontagné, Muraközy Balázs, Vincent Vicard). \jn{Review of World Economics} 153(4): 779--807.
+  \item[2016] \href{https://doi.org/10.1016/j.econlet.2015.12.016}{Measuring productivity premia with many modes of internationalization} (társszerző: Muraközy Balázs). \jn{Economics Letters} 139: 61--64.
+  \item[2013] \href{https://doi.org/10.1111/1468-0327.12020}{Internationalization and innovation of firms: Evidence and policy} (társszerzők: Carlo Altomonte, Tommaso Aquilante, Gianmarco I.P. Ottaviano). \jn{Economic Policy} 28(76): 663--700.
+  \item[2013] \href{https://doi.org/10.1016/j.regsciurbeco.2012.11.004}{Agglomeration premium and trading activity of firms} (társszerző: Harasztosi Péter). \jn{Regional Science and Urban Economics} 43(1): 51--64.
+  \item[2012] \href{https://doi.org/10.1016/j.jinteco.2011.12.007}{Temporary trade and heterogeneous firms} (társszerző: Muraközy Balázs). \jn{Journal of International Economics} 87(2): 232--246.
+  \item[2011] \href{https://doi.org/10.1016/j.ecosys.2010.11.005}{Firms and products in international trade: Evidence from Hungary} (társszerzők: Muraközy Balázs, Harasztosi Péter). \jn{Economic Systems} 35(1): 4--24.
+  \item[2009] Spillovers from multinationals to heterogeneous domestic firms: Evidence from Hungary (társszerzők: Jörn Kleinert, Farid Toubal). \jn{The World Economy} 32(10): 1408--1433.
+\end{cvlist}
+
+\subsection{Közgazdaságtanon kívül}
+\begin{cvlist}
+  \item[2020] \href{https://doi.org/10.1016/j.semarthrit.2019.09.001}{Comorbidity clusters in generalized osteoarthritis among female patients: A cross-sectional study} (társszerzők: Kővári E., Kaposi A. és mások). \jn{Seminars in Arthritis and Rheumatism} 50(2): 183--191.
+  \item[2014] \href{https://doi.org/10.1136/annrheumdis-2014-205207}{A patient-derived and patient-reported outcome measure for assessing psoriatic arthritis: Elaboration and preliminary validation of the Psoriatic Arthritis Impact of Disease (PsAID) questionnaire, a 13-country EULAR initiative} (társszerzők: L. Gossec, T.K. Kvien és mások). \jn{Annals of the Rheumatic Diseases} 73(6): 1012--1019.
+\end{cvlist}
+
+% ---------------------------------------------------------------- Könyvek
+\section{Könyvek és könyvfejezetek}
+\begin{cvlist}
+  \item[2021] \href{https://gabors-data-analysis.com}{\textit{Data Analysis for Business, Economics, and Policy}} (társszerző: Kézdi Gábor). Cambridge University Press. Tankönyv adatokkal és R-, Python- és Stata-kódokkal (\href{https://gabors-data-analysis.com}{gabors-data-analysis.com}); több mint 40 ország kurzusain használják.
+  \item[2016] \textit{Measuring competitiveness in Europe: Resource allocation, granularity and trade} (szerkesztő, Carlo Altomontéval). Bruegel Blueprint, Brüsszel. Benne két fejezet: „Measuring competitiveness in a granular and global world” (társszerző: Carlo Altomonte), 3--13.~o., és „Micro-founded measurement of regional competitiveness in Europe” (társszerző: Gianmarco I.P. Ottaviano), 26--46.~o.
+  \item[2015] Barriers to data access and matching in Europe (társszerző: Holler Zsuzsa). In: D. Castellani és A. Koch (szerk.), \textit{Mapping competitiveness with European data}, Bruegel Blueprint 23.
+  \item[2011] \textit{Still standing: How European firms weathered the crisis} (társszerzők: Koren Miklós, Halpern László, Muraközy Balázs). Bruegel Blueprint 15.
+  \item[2004] Motives of corporate location choice. In: Fazekas K., Koltay J. és Cseres-Gergely Zs. (szerk.), \textit{The Hungarian labour market 2004}, MTA KTI.
+\end{cvlist}
+
+% ---------------------------------------------------------------- Műhelytanulmányok
+\section{Műhelytanulmányok és folyamatban lévő kutatások}
+\begin{cvlist}
+  \item[2026] \href{https://cepr.org/publications/dp21574}{What happens in Paris, does not stay in Paris: Trade fairs and search and matching frictions} (társszerzők: Claudia Steinwender, Molnár Mátyás). CEPR DP21574.
+  \item[2026] \href{https://cepr.org/publications/dp21145}{Vibe coding kills open source} (társszerzők: Koren Miklós, Julian Hinz, Aaron Lohmann). CEPR DP21145; arXiv 2601.15494. Beszámolt róla többek között a \textit{Financial Times}, a TechTarget és az InfoQ.
+  \item[2025] \href{https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5378338}{Stardust: Peer effects in early career development} (társszerző: Szabó Bence). Műhelytanulmány.
+  \item[2025] \href{https://cepr.org/publications/dp20026}{Integrators and robot adoption: Facts from Hungary} (társszerzők: Alessandra Bonfiglioli, Rosario Crinó, Gino Gancia). CEPR DP20026.
+  \item[] Connected choices: Business group affiliation and FDI location decisions (társszerzők: Bisztray Márta, Harasztosi Péter). Benyújtva.
+  \item[] When dispersed teams are more successful: Theory and evidence from software (társszerzők: Koren Miklós, Aaron Lohmann, Julian Hinz). Folyamatban.
+  \item[] Supplier--buyer relationships in global value chains (társszerzők: Muraközy Balázs, Telegdy Álmos, Koren Miklós). Folyamatban.
+\end{cvlist}
+
+% ---------------------------------------------------------------- Magyar nyelvű
+\section{Magyar nyelvű publikációk}
+\begin{cvlist}
+  \item[2020] Területi egyensúly: a munkaerőpiac és az ingatlanárak kapcsolata Magyarországon (társszerző: Bisztray Márta). \jn{Szigma} 51(3): 185--214.
+  \item[2016] Lakóingatlanárak és települési különbségek (társszerzők: Horváth Áron, Sápi Zoltán). \jn{Közgazdasági Szemle}.
+  \item[2016] Beszállítói termékek a magyar feldolgozóiparban (társszerző: Muraközy Balázs). \jn{Közgazdasági Szemle}.
+  \item[2013] Külkereskedelem és a vállalatok közötti különbségek (társszerzők: Muraközy Balázs, Halpern László). \jn{Közgazdasági Szemle}.
+  \item[2012] Magyar gazellák: a gyors növekedésű vállalatok jellemzői és kialakulásuk elemzése (társszerző: Muraközy Balázs). \jn{Közgazdasági Szemle}.
+  \item[2011] A teremtő rombolás szerepe a vállalati termelékenység alakulásában Magyarországon (társszerzők: Halpern László, Muraközy Balázs). \jn{Közgazdasági Szemle}.
+  \item[1998] Optimális valutaövezetek, gazdasági integráltság és hasonlatosság: az Európai Unió példája. \jn{Közgazdasági Szemle}.
+  \item[2011] Nemzeti innovációs rendszer. In: Pörzse G. (szerk.), \textit{Kutatásszervezés és innovációmenedzsment az egészség- és élettudományok területén}, Semmelweis Kiadó.
+  \item[2008] Innovációs klaszterek és tudásparkok. In: Pörzse G. (szerk.), \textit{Innovációmenedzsment}, Semmelweis Kiadó.
+\end{cvlist}
+
+% ---------------------------------------------------------------- Pályázatok
+\section{Kutatási pályázatok}
+\begin{cvlist}
+  \item[2026] FWF--DFG Weave kutatási pályázat
+  \item[2022--2025] RETHINK-GSC, Horizon Europe (101061123.~sz.)
+  \item[2015] A foglalkoztatás térbeli elhelyezkedése: migráció, lakhatás és koncentráció, OTKA
+  \item[2013--2015] MapCompete, EU FP7 (vezető partner, projektmenedzser)
+  \item[2012] Competitiveness Research Network (CompNet), EKB, Banque de France és partnerek
+  \item[2009--2012] EFIGE: European Firms in a Global Economy, EU FP7
+  \item[2007--2010] Micro-Dyn, EU FP6
+  \item[2006--2007] Factors determining the benefit of spillovers, GDN Regional Research Competition (CERGE-EI)
+\end{cvlist}
+
+\section{Díjak}
+\begin{cvlist}
+  \item[2013--2016] MTA Bolyai János Kutatási Ösztöndíj; Bolyai-plakett a legjobb Bolyai-projektért
+  \item[2008] OeNB Olga Radzyner-díj az európai gazdasági integrációval foglalkozó tudományos munkáért
+\end{cvlist}
+
+% ---------------------------------------------------------------- Oktatás
+\section{Oktatás}
+\begin{cvlist}
+  \item[2013--] Data Analysis 1--4, CEU (MA/MS és PhD), a Békés--Kézdi tankönyvre épülő kurzussorozat
+  \item[] Data Analysis with AI 1--2, CEU (BA/MA és MA/PhD); \href{https://gabors-data-analysis.com/ai-course/}{nyílt hozzáférésű kurzusanyag}
+  \item[] Applied Economics with Sports Data (PhD/kutatói MA); Prediction and Machine Learning for Economists (PhD/MA); Data-Driven Decision Making (Executive MBA), CEU
+  \item[2011--2016] Regional and Urban Economics, CEU (MA)
+  \item[2010--2014] Economic Geography, ELTE, Budapest (BA)
+  \item[] A CEU MS in Business Analytics programjának igazgatója (négy évig) és helyettes igazgatója (két évig)
+\end{cvlist}
+
+% ---------------------------------------------------------------- Szakmai tevékenység
+\section{Szakmai tevékenység}
+\begin{cvlist}
+  \item[Bírálat] Management Science, European Economic Review, Journal of International Economics, International Economic Review, Regional Science and Urban Economics, Review of World Economics, Canadian Journal of Economics, Global Strategy Journal, Journal of Economic Geography és további folyóiratok
+  \item[Pályázatok] Az OTKA, valamint cseh és belga kutatásfinanszírozó szervezetek pályázatainak bírálója
+  \item[Szervezés] Data Analytics Jamboree, Bécs, 2024 és 2025
+  \item[Tagság] European Economic Association; Magyar Közgazdasági Társaság (MKE)
+\end{cvlist}
+
+% ---------------------------------------------------------------- Ismeretterjesztés
+\section{Szakpolitikai írások és média}
+\begin{cvlist}
+  \item[VoxEU] Írások a kereskedelem összetettségéről (2010), az európai vállalatokról a válságban (2012), az alkalmi exportról (2012), a nemzetköziesedésről és az innovációról (2014), a nemzetköziesedési módok létrájáról (2018) és a gépimporton keresztüli technológiaátvételről (2019)
+  \item[Jelentések] EFIGE-országjelentés Magyarországról (2011); Micro-Dyn szakpolitikai tanulmányok (2010--2011)
+  \item[Média] A kutatásokról beszámolt a \textit{Financial Times}, a \textit{Boston Globe} és a \textit{Der Standard}; interjúk: Portfolio, 444, Telex; podcastok, köztük a The Mixtape (Scott Cunningham, 2023) és a CEU \textit{Teaching Analytics in the Age of AI} adása (2026). Teljes lista: \href{https://gaborbekes.com/popular-press/}{gaborbekes.com/popular-press}
+\end{cvlist}
+
+\section{Nyelvek és tudományos eszközök}
+\begin{cvlist}
+  \item[Nyelvek] Magyar (anyanyelv), angol (folyékony), francia (jó)
+  \item[Kódolás] Stata, R, némi Python
+  \item[AI] AI-ágensek használata a kutatásban és az adatelemzésben
+\end{cvlist}
+
+\end{document}
