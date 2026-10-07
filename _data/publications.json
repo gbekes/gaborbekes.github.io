@@ -437,6 +437,16 @@
           "type": "wp",
           "label": "CEPR DP",
           "url": "https://cepr.org/publications/dp21574"
+        },
+        {
+          "type": "pdf",
+          "label": "Latest version (Aug 2026)",
+          "url": "https://github.com/gbekes/working-papers/blob/main/bekes_molnar_steinwender_paris_tradefair_WP.pdf"
+        },
+        {
+          "type": "slides",
+          "label": "Slides",
+          "url": "https://github.com/gbekes/working-papers/blob/main/bekes-WU-2026-03-04-90m.pdf"
         }
       ],
       "tags": [
@@ -539,7 +549,7 @@
     
     {
       "id": "stardust",
-      "title": "Stardust: peer effects in early career development",
+      "title": "Mechanisms of Learning in Collaborative Jobs",
       "authors": [
         "Bence Szabó"
       ],
@@ -553,6 +563,11 @@
           "type": "wp",
           "label": "WP on SSRN",
           "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5378338"
+        },
+        {
+          "type": "pdf",
+          "label": "Latest draft (Dec 2025)",
+          "url": "https://github.com/gbekes/working-papers/blob/main/bekes_szabo_mechanisms_2025.pdf"
         }
       ],
       "tags": [
@@ -568,7 +583,7 @@
         "Gino Gancia",
         "Alessandra Bonfiglioli"
       ],
-      "status": "CEPR DP20026",
+      "status": "CEPR DP20026 · Submitted",
       "abstract": {
         "preview": "This paper explores the role of intermediaries in facilitating the adoption of industrial robots. Using firm-to-firm transactions in Hungary, ...",
         "full": "This paper explores the role of intermediaries in facilitating the adoption of industrial robots. Using firm-to-firm transactions in Hungary, we identify robot integrators and document five new facts. First, most firms adopting robots do so through integrators rather than directly importing them. Second, integrators significantly benefit small and medium-sized firms, which may not have the scale to adopt robots independently. Third, robot integrators tend to be larger, more productive and more capital intensive than other firms in their industries. Fourth, integrators are particularly exposed to foreign import shocks. Fifth, robot adoption though integrators is more lumpy than robot imports."
@@ -603,12 +618,18 @@
         "Márta Bisztray",
         "Péter Harasztosi"
       ],
-      "status": "Submitted",
+      "status": "Work in progress",
       "abstract": {
         "preview": "How do multinational business groups leverage collective experience when expanding globally? Using comprehensive FDI and ownership data, ...",
         "full": "How do multinational business groups leverage collective experience when expanding globally? Using comprehensive FDI and ownership data, we reconstruct business group networks for 5,061 greenfield investments in 14 Central and Eastern European countries and show that prior FDI experience within a business group fundamentally alters location choices by affiliated firms. We find that a prior group investment in a country increases the probability of first-time affiliate entry by 5.4 percentage points—equivalent to a 50% average policy multiplier for investment promotion for investors with no prior local presence. We introduce a measure of organizational distance that combines ownership strength (majority vs. minority stakes) and network proximity (direct vs. indirect links), revealing how regulatory boundaries influence knowledge flows. Surprisingly, even weakly connected affiliates (indirect minority stakes) exhibit significant co-location patterns, revealing that location-specific knowledge flows through business groups despite regulatory barriers to formal coordination. By integrating internal network effects into location-choice theory, we extend international business research on MNE strategies. For policymakers, our findings reveal that FDI subsidies generate substantial within-group spillovers, while for IB theory, we demonstrate how internal networks reshape traditional location choice models."
       },
-      "links": [],
+      "links": [
+        {
+          "type": "pdf",
+          "label": "Draft (2024)",
+          "url": "https://github.com/gbekes/working-papers/blob/main/bbh-fdifollow.pdf"
+        }
+      ],
       "tags": [
         "geography",
         "firms"
@@ -627,7 +648,13 @@
         "preview": "Who collaborates with whom when physical co-location is no longer a constraint? How does the geographic composition of teams influence project success? We develop a",
         "full": "Who collaborates with whom when physical co-location is no longer a constraint? How does the geographic composition of teams influence project success? We develop a model of global team formation and collaboration in which individuals have heterogeneous and partially observable skills, collaboration incurs geographic frictions, and project success depends on the best idea developed in the team. The model yields five testable predictions: (I) collaboration is more likely among geographically proximate individuals; (II) only highly skilled individuals form long-distance collaborations due to selection effects; (III) geographically diverse teams produce higher-quality outcomes; (IV) the positive impact of diversity on success is stronger for more complex projects; and (V) there is a non-linear relationship between team size and project quality. We test these predictions using a highly granular dataset on open-source software development, where project success is measured through downstream usage. The open-source setting offers a unique empirical advantage: its transparency and absence of physical constraints allow us to isolate the role of team composition and collaboration frictions. Our findings confirm the model's predictions and suggest that the benefits of dispersed collaboration extend beyond software development to other knowledge-intensive activities."
       },
-      "links": [],
+      "links": [
+        {
+          "type": "pdf",
+          "label": "Draft (Feb 2025)",
+          "url": "https://github.com/gbekes/working-papers/blob/main/bekes-hinz-koren-lohmann-gravity_oss-2024.pdf"
+        }
+      ],
       "tags": [
         "organizations",
         "software"
@@ -642,7 +669,13 @@
         "Miklós Koren"
       ],
       "status": "Work in progress (resting)",
-      "links": [],
+      "links": [
+        {
+          "type": "pdf",
+          "label": "Draft (2021)",
+          "url": "https://github.com/gbekes/working-papers/blob/main/BKMT-gvc-relationships.pdf"
+        }
+      ],
       "tags": [
         "trade",
         "firms"
