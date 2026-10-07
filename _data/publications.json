@@ -439,11 +439,6 @@
           "url": "https://cepr.org/publications/dp21574"
         },
         {
-          "type": "pdf",
-          "label": "Latest version (Aug 2026)",
-          "url": "https://github.com/gbekes/working-papers/blob/main/bekes_molnar_steinwender_paris_tradefair_WP.pdf"
-        },
-        {
           "type": "slides",
           "label": "Slides",
           "url": "https://github.com/gbekes/working-papers/blob/main/bekes-WU-2026-03-04-90m.pdf"
