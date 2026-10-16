@@ -52,7 +52,9 @@
     keywords: "termelékenység, reallokáció, rossz allokáció, cégdinamika, Magyarország"
   jel: "D24, L25, O47, O52"
   links:
-    - label: "PDF (English, v5)"
+    - label: "Policy note (English)"
       url: "/assets/pdf/bekes-reallocation-research-note-v5-2026-10-16.pdf"
+    - label: "Working paper version (English)"
+      url: "/assets/pdf/bekes-reallocation-krtk-wp-v1-2026-10-16.pdf"
     - label: "PDF (magyarul): hamarosan"
       url: ""   # placeholder: add the Hungarian PDF here when ready
