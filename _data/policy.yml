@@ -7,10 +7,10 @@
   number: "2026/01"
   series: "KRTK Background research note for public policy support"
   series_hu: "KRTK háttérkutatási jegyzet a szakpolitika támogatására"
-  date: "16 October 2026"
-  date_hu: "2026. október 16."
-  status: "draft"
-  status_hu: "munkaváltozat"
+  date: "19 October 2026"
+  date_hu: "2026. október 19."
+  status: "draft v0.6 (2026-10-19)"
+  status_hu: "0.6-os munkaváltozat (2026-10-19)"
   authors: ["Gábor Békés"]
   en:
     title: "Where will growth come from? Reallocation, the missing factor in Hungary"
@@ -27,8 +27,8 @@
       misallocation, widened among domestic firms at least as much as overall, most in
       construction and utilities. A standard model suggests that returning to the allocation of
       2004–2010 would lift the level of output by 1–2% of GDP, a one-off but lasting gain; over
-      five years, 0.2–0.4 percentage points of extra growth a year. Policy that gives firms more
-      freedom could mobilise this reserve.
+      five years, 0.2–0.4 percentage points of extra growth a year. Rules that apply equally to all firms, sector measures that are temporary, open entry and
+      exit, and transparent support could mobilise this reserve.
     keywords: "productivity, reallocation, misallocation, firm dynamics, Hungary"
   hu:
     title: "Honnan jöhet a növekedés? A reallokáció, a hiányzó tényező Magyarországon"
@@ -47,14 +47,15 @@
       kibocsátás, a hazai cégeknél legalább annyival nőtt, mint összességében, leginkább az
       építőiparban és a közműveknél. Egy standard modell szerint a 2004–2010-es allokációhoz
       visszatérve a kibocsátás szintje a GDP 1–2%-ával nőne; ez egyszeri, de tartós nyereség, öt év
-      alatt évi 0,2–0,4 százalékpont többletnövekedés. Ezt a tartalékot olyan gazdaságpolitika
-      mozgósíthatná, amely nagyobb szabadságot ad a cégeknek.
+      alatt évi 0,2–0,4 százalékpont többletnövekedés. Ezt a tartalékot minden cégre egyformán érvényes szabályok,
+      átmeneti ágazati intézkedések, nyitott piacra lépés és kilépés, valamint átlátható támogatási
+      döntések mozgósíthatnák.
     keywords: "termelékenység, reallokáció, rossz allokáció, cégdinamika, Magyarország"
   jel: "D24, L25, O47, O52"
   links:
-    - label: "Policy note (English)"
-      url: "/assets/pdf/bekes-reallocation-research-note-v5-2026-10-16.pdf"
-    - label: "Working paper version (English)"
-      url: "/assets/pdf/bekes-reallocation-krtk-wp-v1-2026-10-16.pdf"
+    - label: "Policy note v0.6 (English)"
+      url: "/assets/pdf/bekes-reallocation-research-note-v0.6-2026-10-19.pdf"
+    - label: "Working paper v0.6 (English)"
+      url: "/assets/pdf/bekes-reallocation-krtk-wp-v0.6-2026-10-19.pdf"
     - label: "PDF (magyarul): hamarosan"
       url: ""   # placeholder: add the Hungarian PDF here when ready
