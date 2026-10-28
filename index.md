@@ -13,6 +13,7 @@ permalink: /
 <p>
   <a href="/assets/pdf/CV_BekesGabor.pdf?v=2026-10" class="btn btn--primary" target="_blank" rel="noopener">Download CV</a>
   <a href="/research/" class="btn">Research</a>
+  <a href="/policy/" class="btn">Policy</a>
   <a href="mailto:bekesg@ceu.edu" class="btn">Email</a>
 </p>
 
