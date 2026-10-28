@@ -942,3 +942,38 @@ table {
 @media (max-width: 480px) {
   .book-feature { flex-direction: column; }
 }
+
+// ---------------------------------------------------------------------------
+// Policy page: one block per topic
+// ---------------------------------------------------------------------------
+.policy-topic {
+  margin-bottom: 2.4rem;
+}
+
+.policy-intro {
+  max-width: 46rem;
+  color: var(--wes-ink-soft);
+}
+
+.policy-coming .pub-status {
+  margin-left: 0;
+  margin-right: 0.4rem;
+}
+
+.policy-block {
+  margin-top: 0.9rem;
+
+  .pub-links {
+    margin-top: 0.3rem !important;
+  }
+}
+
+.policy-cited ul {
+  margin: 0.3rem 0 0 1.1rem;
+  max-width: 46rem;
+
+  li {
+    margin-bottom: 0.35rem;
+    line-height: 1.55;
+  }
+}
