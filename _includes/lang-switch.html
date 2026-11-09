@@ -1,0 +1,6 @@
+{%- comment -%} Language switcher. Usage: {% include lang-switch.html current="en" en="/x/" de="/x/de/" hu="/x/hu/" %} {%- endcomment -%}
+<nav class="lang-switch" aria-label="Language">
+  {%- if include.en %}<a href="{{ include.en }}" lang="en" hreflang="en"{% if include.current == "en" %} class="active" aria-current="page"{% endif %}>EN</a>{% endif -%}
+  {%- if include.de %}<a href="{{ include.de }}" lang="de" hreflang="de"{% if include.current == "de" %} class="active" aria-current="page"{% endif %}>DE</a>{% endif -%}
+  {%- if include.hu %}<a href="{{ include.hu }}" lang="hu" hreflang="hu"{% if include.current == "hu" %} class="active" aria-current="page"{% endif %}>HU</a>{% endif -%}
+</nav>

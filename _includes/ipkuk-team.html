@@ -1,0 +1,26 @@
+{%- assign lang = include.lang -%}
+{%- assign D = site.data.ipkuk -%}
+{%- assign L = D.labels[lang] -%}
+<h4>{{ L.pis }}</h4>
+<div class="quiet-grid">
+{% for m in D.pis %}  <div class="quiet-card">
+    <h3>{% if m.url != "" %}<a href="{{ m.url }}">{{ m.name[lang] }}</a>{% else %}{{ m.name[lang] }}{% endif %}</h3>
+    <p>{{ m.bio[lang] }}</p>
+  </div>
+{% endfor %}</div>
+
+<figure class="pub-figure team-photo">
+  <img src="{{ D.photo }}" alt="{{ L.photo_alt }}">
+</figure>
+
+<h4>{{ L.members }}</h4>
+<div class="quiet-grid quiet-grid--3">
+{% for m in D.members %}  <div class="quiet-card">
+    <h3>{% if m.url != "" %}<a href="{{ m.url }}">{{ m.name[lang] }}</a>{% else %}{{ m.name[lang] }}{% endif %}</h3>
+    <p class="pub-meta">{{ m.role[lang] }}</p>
+    <p>{{ m.bio[lang] }}</p>
+  </div>
+{% endfor %}</div>
+
+<h4>{{ L.partners }}</h4>
+<p>{{ L.partners_text }}</p>

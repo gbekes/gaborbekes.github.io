@@ -1,0 +1,138 @@
+# Shared content for the IP-KuK project page in three languages
+# (_pages/ipkuk.md, ipkuk_de.md, ipkuk_hu.md). Edit papers and team here once.
+
+labels:
+  en:
+    funders: "Funders"
+    funders_text: "FWF (Austria) and DFG (Germany), <a href=\"https://www.fwf.ac.at/en/funding/portfolio/international-collaborations/germany\" target=\"_blank\" rel=\"noopener\">Weave</a> scheme"
+    funding: "Funding"
+    funding_text: "&euro;800,000"
+    duration: "Duration"
+    duration_text: "Three years, from 1 January 2026"
+    teams: "Teams"
+    teams_text: "CEU Vienna &middot; LMU Munich"
+    abstract: "Abstract"
+    pis: "Principal investigators"
+    members: "Team members"
+    partners: "External partners"
+    partners_text: "<a href=\"https://economics.ubc.ca/profile/reka-juhasz/\">Réka Juhász</a> of the University of British Columbia (CA) and <a href=\"https://sps.unibocconi.eu/people/tamas-vonyo\">Tamás Vonyó</a> of Bocconi University (IT)."
+    photo_alt: "Members of the IP-KuK team in a library"
+  de:
+    funders: "Förderer"
+    funders_text: "FWF (Österreich) und DFG (Deutschland), <a href=\"https://www.fwf.ac.at/en/funding/portfolio/international-collaborations/germany\" target=\"_blank\" rel=\"noopener\">Weave</a>-Programm"
+    funding: "Fördersumme"
+    funding_text: "800.000 &euro;"
+    duration: "Laufzeit"
+    duration_text: "Drei Jahre, ab 1. Januar 2026"
+    teams: "Teams"
+    teams_text: "CEU Wien &middot; LMU München"
+    abstract: "Abstract (Englisch)"
+    pis: "Projektleitung"
+    members: "Teammitglieder"
+    partners: "Externe Partner"
+    partners_text: "<a href=\"https://economics.ubc.ca/profile/reka-juhasz/\">Réka Juhász</a> von der University of British Columbia (CA) und <a href=\"https://sps.unibocconi.eu/people/tamas-vonyo\">Tamás Vonyó</a> von der Bocconi-Universität (IT)."
+    photo_alt: "Mitglieder des IP-KuK-Teams in einer Bibliothek"
+  hu:
+    funders: "Támogatók"
+    funders_text: "FWF (Ausztria) és DFG (Németország), <a href=\"https://www.fwf.ac.at/en/funding/portfolio/international-collaborations/germany\" target=\"_blank\" rel=\"noopener\">Weave</a> program"
+    funding: "Támogatás"
+    funding_text: "800 000 euró"
+    duration: "Időtartam"
+    duration_text: "Három év, 2026. január 1-jétől"
+    teams: "Csapatok"
+    teams_text: "CEU Bécs &middot; LMU München"
+    abstract: "Absztrakt (angolul)"
+    pis: "Projektvezetők"
+    members: "Csapattagok"
+    partners: "Külső partnerek"
+    partners_text: "<a href=\"https://economics.ubc.ca/profile/reka-juhasz/\">Juhász Réka</a> (University of British Columbia, CA) és <a href=\"https://sps.unibocconi.eu/people/tamas-vonyo\">Vonyó Tamás</a> (Bocconi Egyetem, IT)."
+    photo_alt: "Az IP-KuK csapat tagjai egy könyvtárban"
+
+photo: "/assets/images/fwf3.jpg"
+
+papers:
+  - title: "What Happens in Paris, Does Not Stay in Paris: Trade Fairs and Search and Matching Frictions"
+    url: "https://matyas-molnar.github.io/files/paris_exhibition.pdf"
+    meta:
+      en: "Gábor Békés, Mátyás Molnár and Claudia Steinwender &mdash; CEPR Discussion Paper 21574, June 2026; revised October 2026"
+      de: "Gábor Békés, Mátyás Molnár und Claudia Steinwender &mdash; CEPR Discussion Paper 21574, Juni 2026; überarbeitet Oktober 2026"
+      hu: "Békés Gábor, Molnár Mátyás és Claudia Steinwender &mdash; CEPR Discussion Paper 21574, 2026. június; átdolgozva 2026. október"
+    image: "/assets/images/ipkuk-paris-award-buyer-slopes.png"
+    alt: "Effect of Paris participation on exports outside Austria-Hungary by international buyer potential: rising for Paris award winners, flat for participants without an award"
+    caption:
+      en: "Paris award winners gained more where they faced more potential international buyers; for participants without an award the effect is flat. Lower-bound estimates with 95% confidence intervals."
+      de: "Preisträger in Paris profitierten stärker, wo sie mehr potenziellen internationalen Abnehmern gegenüberstanden; für Teilnehmer ohne Preis verläuft der Effekt flach. Schätzungen der Untergrenze mit 95%-Konfidenzintervallen."
+      hu: "A párizsi díjazottak ott nyertek többet, ahol több potenciális külföldi vevővel találkozhattak; a díj nélküli résztvevőknél a hatás nem függ ettől. Alsó korlátra vonatkozó becslések, 95%-os konfidenciaintervallummal."
+    abstract: "Search and matching frictions keep firms from forming international trade links. Trade fairs are a common, often subsidized remedy, yet causal evidence is scarce. We study Hungarian firms at the 1900 Paris World Exhibition. A trial exhibition in Budapest four years earlier had sorted firms into award classes that revealed their export potential before selection. This allows us to bound the effect with control firms from the award class above and below. We build a panel of 3,614 manufacturing firms for 1896–1909 from over 12,000 records across eleven historical sources. Participation raised the probability of exporting outside Austria-Hungary by 4.2 to 18.3 percentage points, against a 15 percent baseline, and the effect was still visible in 1909. The gains went to firms already exporting and were largest where there were many buyers and few domestic rivals. Patenting also rose, though innovation came with exporting rather than alongside it, and employment grew by 17.7 to 27.1 percent over eight years. These are private returns to selected participation: the fair is a congestible platform, so sending more similar firms need not deliver the same gain."
+    links:
+      - label: { en: "Latest version (PDF)", de: "Aktuelle Version (PDF)", hu: "Legfrissebb változat (PDF)" }
+        url: "https://matyas-molnar.github.io/files/paris_exhibition.pdf"
+      - label: { en: "CEPR DP", de: "CEPR DP", hu: "CEPR DP" }
+        url: "https://cepr.org/publications/dp21574"
+      - label: { en: "Slides", de: "Folien", hu: "Diák" }
+        url: "https://github.com/gbekes/working-papers/blob/main/bekes-WU-2026-03-04-90m.pdf"
+
+  - title: "Finding Buyers: Information and Trade Promotion in the First Globalization"
+    url: "https://matyas-molnar.github.io/files/JMP.pdf"
+    meta:
+      en: "Mátyás Molnár &mdash; Job market paper, November 2026"
+      de: "Mátyás Molnár &mdash; Job-Market-Paper, November 2026"
+      hu: "Molnár Mátyás &mdash; Job market paper, 2026. november"
+    image: "/assets/images/ipkuk-molnar-consular-network.png"
+    alt: "World map of the 447 Austro-Hungarian consular offices in 1903, concentrated in Europe with offices across the Americas, Africa, Asia and Australia"
+    caption:
+      en: "The Austro-Hungarian consular network in 1903: 447 offices in 42 states. Consular offices collected the information on foreign buyers that the paper studies."
+      de: "Das österreichisch-ungarische Konsularnetz 1903: 447 Vertretungen in 42 Staaten. Die Konsulate sammelten die Informationen über ausländische Abnehmer, die das Papier untersucht."
+      hu: "Az Osztrák–Magyar Monarchia konzuli hálózata 1903-ban: 447 képviselet 42 államban. A konzulátusok gyűjtötték azokat a külföldi vevőkről szóló információkat, amelyeket a tanulmány vizsgál."
+    abstract: "Information frictions impede the formation of buyer–supplier linkages and are particularly severe across national borders. Because information about foreign buyers is costly to acquire privately but can be shared at negligible marginal cost, governments fund export promotion agencies to supply it. This paper estimates how much providing publicly available information about foreign buyers increases firms’ export market participation. Identification comes from the administratively predetermined rotation of buyer listings published by 19th-century Austro-Hungarian consular offices. They covered only a few countries per issue for reasons of space constraints rather than commercial priority. The setting isolates the information channel since consular listings were close to the only public signal firms received about buyers abroad. I construct a novel panel linking 5,500 Austro-Hungarian exporting firms over 1890–1898 to decompose which features of public buyer information drive exports. Publication alone raises the probability of entering a destination by 5.7% over the baseline of 4.9%. When the listed buyers are predominantly intermediaries, the effect reaches 18.3% and entrants are more likely to survive past the first year. Buyer counts matter as much as buyer identity for entering new markets."
+    links:
+      - label: { en: "Paper (PDF)", de: "Papier (PDF)", hu: "Tanulmány (PDF)" }
+        url: "https://matyas-molnar.github.io/files/JMP.pdf"
+      - label: { en: "Mátyás's website", de: "Website von Mátyás", hu: "Molnár Mátyás honlapja" }
+        url: "https://matyas-molnar.github.io/"
+
+pis:
+  - name: { en: "Gábor Békés", de: "Gábor Békés", hu: "Békés Gábor" }
+    url: "https://people.ceu.edu/gabor_bekes"
+    bio:
+      en: "Associate Professor, Department of Economics, Central European University, Vienna. Leads the CEU team."
+      de: "Außerordentlicher Professor, Fachbereich Wirtschaftswissenschaften, Central European University, Wien. Leitet das CEU-Team."
+      hu: "Egyetemi docens, Közgazdaságtudományi Tanszék, Central European University, Bécs. A CEU-csapat vezetője."
+  - name: { en: "Claudia Steinwender", de: "Claudia Steinwender", hu: "Claudia Steinwender" }
+    url: "https://www.econ.lmu.de/en/persons/contact-page/claudia-steinwender-8e9b8882.html"
+    bio:
+      en: "Professor, Department of Economics, Ludwig-Maximilians-Universität Munich. Leads the LMU team."
+      de: "Professorin, Volkswirtschaftliche Fakultät, Ludwig-Maximilians-Universität München. Leitet das LMU-Team."
+      hu: "Egyetemi tanár, Közgazdaságtudományi Kar, Ludwig-Maximilians-Universität München. Az LMU-csapat vezetője."
+
+members:
+  - name: { en: "Attila Gáspár", de: "Attila Gáspár", hu: "Gáspár Attila" }
+    url: "https://www.attilagaspar.com/"
+    role:
+      en: "Head of data and AI &middot; CEU"
+      de: "Leiter Daten und KI &middot; CEU"
+      hu: "Adat- és MI-vezető &middot; CEU"
+    bio:
+      en: "Postdoc at CEU since January 2026. His main fields are applied micro and political economy. He has been building AI tools to learn from historical documents."
+      de: "Postdoc an der CEU seit Januar 2026. Seine Schwerpunkte sind angewandte Mikroökonomie und politische Ökonomie. Er entwickelt KI-Werkzeuge, um aus historischen Dokumenten zu lernen."
+      hu: "2026 januárja óta posztdoktori kutató a CEU-n. Fő területei az alkalmazott mikroökonómia és a politikai gazdaságtan. MI-eszközöket fejleszt, amelyekkel történeti dokumentumokból lehet tanulni."
+  - name: { en: "Mátyás Molnár", de: "Mátyás Molnár", hu: "Molnár Mátyás" }
+    url: "https://matyas-molnar.github.io/"
+    role:
+      en: "PhD student &middot; CEU"
+      de: "Doktorand &middot; CEU"
+      hu: "PhD-hallgató &middot; CEU"
+    bio:
+      en: "Interested in economic history and political economy. He has been part of the research work from the start."
+      de: "Interessiert sich für Wirtschaftsgeschichte und politische Ökonomie. Er ist von Beginn an an der Forschungsarbeit beteiligt."
+      hu: "Gazdaságtörténettel és politikai gazdaságtannal foglalkozik. A kutatásban a kezdetektől részt vesz."
+  - name: { en: "Tommaso Petrelli", de: "Tommaso Petrelli", hu: "Tommaso Petrelli" }
+    url: ""
+    role:
+      en: "Pre-doctoral researcher &middot; LMU Munich"
+      de: "Pre-Doc-Forscher &middot; LMU München"
+      hu: "Predoktori kutató &middot; LMU München"
+    bio:
+      en: "Joined the Munich team after a master's degree at Bocconi University."
+      de: "Kam nach einem Masterabschluss an der Universität Bocconi zum Münchner Team."
+      hu: "A Bocconi Egyetemen szerzett mesterdiploma után csatlakozott a müncheni csapathoz."

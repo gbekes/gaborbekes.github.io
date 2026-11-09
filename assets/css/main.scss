@@ -1036,3 +1036,33 @@ table {
     grid-template-columns: 1fr;
   }
 }
+
+// Language switcher (EN / DE / HU), via _includes/lang-switch.html
+.lang-switch {
+  display: flex;
+  justify-content: flex-end;
+  gap: 0.3rem;
+  margin: -0.4rem 0 0.8rem 0;
+
+  a {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 0.78rem;
+    letter-spacing: 1px;
+    padding: 0.15rem 0.55rem;
+    border: 1px solid var(--wes-hairline);
+    border-radius: 3px;
+    color: var(--wes-ink-soft);
+
+    &:hover {
+      color: var(--wes-coral);
+      border-color: var(--wes-coral);
+      text-decoration: none;
+    }
+
+    &.active {
+      background: var(--wes-navy);
+      border-color: var(--wes-navy);
+      color: var(--wes-cream);
+    }
+  }
+}

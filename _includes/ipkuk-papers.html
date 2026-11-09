@@ -1,0 +1,16 @@
+{%- assign lang = include.lang -%}
+{%- assign L = site.data.ipkuk.labels[lang] -%}
+{% for p in site.data.ipkuk.papers %}
+<div class="pub project-paper">
+  <h3><a href="{{ p.url }}" target="_blank" rel="noopener">{{ p.title }}</a></h3>
+  <p class="pub-meta">{{ p.meta[lang] }}</p>
+  <figure class="pub-figure">
+    <img src="{{ p.image }}" alt="{{ p.alt }}">
+    <figcaption>{{ p.caption[lang] }}</figcaption>
+  </figure>
+  <details class="pub-abstract" open><summary>{{ L.abstract }}</summary>
+    <p lang="en">{{ p.abstract }}</p>
+  </details>
+  <p class="pub-links">{% for link in p.links %}<a href="{{ link.url }}" class="btn btn--small" target="_blank" rel="noopener">{{ link.label[lang] }}</a>{% endfor %}</p>
+</div>
+{% endfor %}
