@@ -977,3 +977,62 @@ table {
     line-height: 1.55;
   }
 }
+
+// ---------------------------------------------------------------------------
+// Project pages (e.g. /ipkuk/): key facts strip, paper figures, 3-column grid
+// ---------------------------------------------------------------------------
+.project-facts {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+  gap: 0.8rem 1.4rem;
+  margin: 1.2rem 0 1.4rem 0;
+  padding: 0.9rem 0;
+  border-top: 1px solid var(--wes-hairline);
+  border-bottom: 1px solid var(--wes-hairline);
+  font-size: 0.93rem;
+
+  .pub-label {
+    display: block;
+    font-family: 'Roboto Condensed', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    font-size: 0.72rem;
+    color: var(--wes-ink-soft);
+  }
+}
+
+.pub-figure {
+  display: block;   // theme styles <figure> as flex
+  margin: 0.9rem 0 0.6rem 0;
+  max-width: 46rem;
+
+  img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border: 1px solid var(--wes-hairline);
+    border-radius: 4px;
+    background: white;
+  }
+
+  figcaption {
+    font-size: 0.86rem;
+    color: var(--wes-ink-soft);
+    line-height: 1.5;
+    margin-top: 0.45rem;
+  }
+}
+
+.team-photo {
+  max-width: 34rem;
+}
+
+.quiet-grid--3 {
+  grid-template-columns: repeat(3, 1fr);
+}
+
+@media (max-width: 900px) {
+  .quiet-grid--3 {
+    grid-template-columns: 1fr;
+  }
+}
