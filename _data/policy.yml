@@ -20,65 +20,71 @@
       number: "2026/01"
       series: "KRTK Background research note for public policy support"
       series_hu: "KRTK háttérkutatási jegyzet a szakpolitika támogatására"
-      date: "28 October 2026"
-      date_hu: "2026. október 28."
-      status: "draft v0.7 (2026-10-28)"
-      status_hu: "0.7-es munkaváltozat (2026-10-28)"
+      date: "10 November 2026"
+      date_hu: "2026. november 10."
+      status: "draft v0.9 (2026-11-10)"
+      status_hu: "0.9-es munkaváltozat (2026-11-10)"
       authors: ["Gábor Békés"]
       en:
         title: "Where will growth come from? Reallocation, the missing factor in Hungary"
         abstract: >-
-          Hungary needs growth that does not burden the budget. We ask whether part of it can come
-          from workers and capital moving from less to more productive firms. Using balance sheets of
-          all Hungarian firms for 2004–2023 and CompNet data for Poland and Central and Eastern Europe,
-          we run three exercises. By the late 2010s productivity gaps between firms in the same
-          industry were wider in Hungary than in Poland and the region on every measure we have, and in
-          Hungary they did not narrow after 2019. The contribution of resources moving between firms to
-          productivity growth fell by almost half after 2013, from 1.6 to 0.8 percentage points a year.
-          About two-thirds of this fall comes from foreign-owned firms: they stopped gaining ground on
-          less productive domestic firms, and resources moved less among them. Among domestic firms
-          reallocation slowed by about a quarter. At the same time, the model's efficiency gap, the output lost to
-          misallocation, widened among domestic firms at least as much as overall, most in
-          construction and utilities. A standard model suggests that returning to the allocation of
-          2004–2010 would lift the level of output by 1–2% of GDP, a one-off but lasting gain; over
-          five years, 0.2–0.4 percentage points of extra growth a year. Rules that apply equally to all firms, sector measures that are temporary, open entry and
-          exit, and transparent support could mobilise this reserve; the state choosing which firms should grow would not.
+          Hungary needs growth that does not burden the public budget. We ask whether part of it can
+          come from reallocation: workers and capital moving from less to more productive firms,
+          including through the entry and exit of firms. Using balance sheets of all Hungarian
+          double-entry firms for 2004–2023 and CompNet data for Poland and other Central and Eastern
+          European countries, we run three exercises. First, we compare productivity gaps between firms.
+          By the late 2010s these gaps, within the same industry, were wider in Hungary than in Poland
+          and the region on every measure we have, and in Hungary they did not narrow after 2019.
+          Second, we decompose productivity growth. The contribution of reallocation fell by almost half
+          after 2013, from 1.6 to 0.8 percentage points a year. About two-thirds of this fall comes from
+          foreign-owned firms: they stopped gaining employment share from less productive domestic
+          firms, and reallocation among them weakened. Among domestic firms reallocation slowed by about
+          a quarter. Third, we use a standard misallocation model. Its efficiency gap, the output that
+          better allocation could add, widened among domestic firms at least as much as overall, most in
+          construction and utilities. Returning to the allocation of 2004–2010 would raise the level of
+          output by about 1–2% of GDP: a one-off but lasting gain, or 0.2–0.4 percentage points of extra
+          growth a year over five years. Rules that apply equally to all firms, time-limited sector
+          measures, open entry and exit, and transparent support could mobilise this reserve; the state
+          choosing which firms should grow would not.
         keywords: "productivity, reallocation, misallocation, firm dynamics, Hungary"
       hu:
         title: "Honnan jöhet a növekedés? A reallokáció, a hiányzó tényező Magyarországon"
         abstract: >-
           Magyarországnak olyan növekedés kell, amely nem terheli a költségvetést. Azt vizsgáljuk,
-          származhat-e ennek egy része abból, hogy a munka és a tőke a kevésbé termelékeny cégektől a
-          termelékenyebbekhez áramlik. Az összes magyar cég 2004–2023-as mérlegadatai, valamint a
-          Lengyelországra és a közép- és kelet-európai régióra vonatkozó CompNet-adatok alapján három
-          elemzést végzünk. A 2010-es évek végére az azonos ágazatban működő cégek közötti
-          termelékenységi különbségek minden rendelkezésünkre álló mérőszám szerint nagyobbak voltak
-          Magyarországon, mint Lengyelországban és a régióban, és Magyarországon 2019 után sem
-          szűkültek. A cégek közötti erőforrás-átáramlás hozzájárulása a termelékenység növekedéséhez
-          2013 után csaknem a felére esett, évi 1,6-ről 0,8 százalékpontra. A csökkenés mintegy kétharmada
-          a külföldi tulajdonú cégekből jön: ezek már nem nyertek teret a kevésbé termelékeny hazai
-          cégekkel szemben, és köztük is kevésbé mozogtak az erőforrások. A hazai cégeknél a
-          reallokáció mintegy negyedével lassult. Eközben a modell szerinti hatékonysági rés, vagyis a rossz allokáció miatt elvesző
-          kibocsátás, a hazai cégeknél legalább annyival nőtt, mint összességében, leginkább az
-          építőiparban és a közműveknél. Egy standard modell szerint a 2004–2010-es allokációhoz
-          visszatérve a kibocsátás szintje a GDP 1–2%-ával nőne; ez egyszeri, de tartós nyereség, öt év
-          alatt évi 0,2–0,4 százalékpont többletnövekedés. Ezt a tartalékot minden cégre egyformán érvényes szabályok,
-          átmeneti ágazati intézkedések, nyitott piacra lépés és kilépés, valamint átlátható támogatási
-          döntések mozgósíthatnák; az viszont nem, ha az állam választja ki, mely cégek nőjenek.
+          származhat-e ennek egy része a reallokációból: abból, hogy a munka és a tőke a kevésbé
+          termelékeny cégektől a termelékenyebbekhez áramlik, a cégek piacra lépésén és kilépésén
+          keresztül is. Az összes kettős könyvvitelt vezető magyar cég 2004–2023-as mérlegadatai,
+          valamint a Lengyelországra és más közép- és kelet-európai országokra vonatkozó CompNet-adatok
+          alapján három elemzést végzünk. Először a cégek közötti termelékenységi különbségeket
+          hasonlítjuk össze. A 2010-es évek végére ezek a különbségek az azonos ágazaton belül minden
+          rendelkezésünkre álló mérőszám szerint nagyobbak voltak Magyarországon, mint Lengyelországban
+          és a régióban, és Magyarországon 2019 után sem szűkültek. Másodszor felbontjuk a
+          termelékenység növekedését. A reallokáció hozzájárulása 2013 után csaknem a felére esett,
+          évi 1,6-ről 0,8 százalékpontra. A csökkenés mintegy kétharmada a külföldi tulajdonú cégekből
+          jön: ezek már nem szereztek foglalkoztatási részesedést a kevésbé termelékeny hazai cégektől,
+          és a reallokáció köztük is gyengült. A hazai cégeknél a reallokáció mintegy negyedével
+          lassult. Harmadszor a rossz allokáció egy standard modelljét használjuk. A modell hatékonysági
+          rése, vagyis az a többletkibocsátás, amelyet jobb allokáció hozhatna, a hazai cégeknél
+          legalább annyival nőtt, mint összességében, leginkább az építőiparban és a közműveknél. A
+          2004–2010-es allokációhoz visszatérve a kibocsátás szintje a GDP mintegy 1–2%-ával nőne; ez
+          egyszeri, de tartós nyereség, öt év alatt évi 0,2–0,4 százalékpont többletnövekedés. Ezt a
+          tartalékot minden cégre egyformán érvényes szabályok, időben korlátozott ágazati
+          intézkedések, nyitott piacra lépés és kilépés, valamint átlátható támogatási döntések
+          mozgósíthatnák; az viszont nem, ha az állam választja ki, mely cégek nőjenek.
         keywords: "termelékenység, reallokáció, rossz allokáció, cégdinamika, Magyarország"
       jel: "D24, L25, O47, O52"
       links:
-        - label: "Policy note v0.7 (English)"
-          url: "/assets/pdf/bekes-reallocation-research-note-v0.7-2026-10-28.pdf"
+        - label: "Policy note v0.9 (English)"
+          url: "/assets/pdf/bekes-reallocation-research-note-v0.9-2026-11-10.pdf"
         - label: "Working paper v0.7 (English)"
           url: "/assets/pdf/bekes-reallocation-krtk-wp-v0.7-2026-10-28.pdf"
         - label: "PDF (magyarul): hamarosan"
           url: ""   # placeholder: add the Hungarian PDF here when ready
   summaries:
-    - label: "Executive summary v0.7 (English, 1 page)"
-      url: "/assets/pdf/bekes-reallocation-exec-summary-en-v0.7-2026-10-28.pdf"
-    - label: "Vezetői összefoglaló v0.7 (magyarul, 1 oldal)"
-      url: "/assets/pdf/bekes-reallocation-exec-summary-hu-v0.7-2026-10-28.pdf"
+    - label: "Executive summary v0.9 (English, 1 page)"
+      url: "/assets/pdf/bekes-reallocation-exec-summary-en-v0.9-2026-11-10.pdf"
+    - label: "Vezetői összefoglaló v0.9 (magyarul, 1 oldal)"
+      url: "/assets/pdf/bekes-reallocation-exec-summary-hu-v0.9-2026-11-10.pdf"
   cited_in:
     - title: "Középtávú gazdaságpolitikai és költségvetési program 2027–2030"
       title_en: "Medium-term economic policy and budget programme 2027–2030"
