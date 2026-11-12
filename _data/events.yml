@@ -1,0 +1,17 @@
+# Upcoming events for the home page "Coming up" block.
+# Only events on or after the build date are shown, sorted by date. The cut-off is fixed
+# at build time, so a past event disappears at the next push. Past talks go in news.yml.
+# Fields: date (YYYY-MM-DD), title, venue, url (optional), link_label (optional), note (optional)
+
+- date: 2026-12-04
+  title: "3rd CEU Vienna Data Analytics Jamboree"
+  venue: "CEU Vienna. Organiser and speaker"
+  url: "https://events.ceu.edu/2026-12-04/3rd-ceu-vienna-data-analytics-jamboree"
+  link_label: "Event page"
+
+- date: 2026-12-17
+  title: "Európai uniós támogatások hatásvizsgálata"
+  venue: "MKE–CEU 2026, annual conference of the Hungarian Economic Association, CEU Budapest"
+  note: "In Hungarian."
+  url: "https://mke-2026.sciencesconf.org/"
+  link_label: "Conference"

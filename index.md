@@ -45,6 +45,20 @@ permalink: /
   </ul>
 </div>
 
+{% assign today = site.time | date: "%Y%m%d" | plus: 0 %}
+{% assign events_sorted = site.data.events | sort: "date" %}
+{% assign upcoming = 0 %}{% for e in events_sorted %}{% assign d = e.date | date: "%Y%m%d" | plus: 0 %}{% if d >= today %}{% assign upcoming = upcoming | plus: 1 %}{% endif %}{% endfor %}
+{% if upcoming > 0 %}
+<div class="content-section">
+  <h2>Coming up</h2>
+  <ul class="talks-list">
+    {% for e in events_sorted %}{% assign d = e.date | date: "%Y%m%d" | plus: 0 %}{% if d >= today %}
+    <li><span class="year-style">{{ e.date | date: "%-d %b %Y" }}</span> &mdash; <strong>{{ e.title }}</strong>{% assign last = e.title | slice: -1 %}{% if last != "?" %},{% endif %} {{ e.venue }}.{% if e.note %} {{ e.note }}{% endif %}{% if e.url %} <a href="{{ e.url }}"{% if e.url contains 'http' %} target="_blank" rel="noopener"{% endif %}>{{ e.link_label | default: "Details" }}</a>{% endif %}</li>
+    {% endif %}{% endfor %}
+  </ul>
+</div>
+{% endif %}
+
 <div class="content-section">
   <h2>Research</h2>
   <p>Journal articles, discussion papers and work in progress are listed in reverse chronological order, each tagged by topic.</p>
@@ -83,14 +97,6 @@ permalink: /
     </div>
   </div>
   <p>Asking for a recommendation letter? Please read my <a href="/ref-letter/">reference letter policy</a> first.</p>
-</div>
-
-<div class="content-section">
-  <h2>Recent talks</h2>
-  <ul class="talks-list">
-    <li><span class="year-style">Oct 2025</span> &mdash; <strong>Vibe coding kills OSS</strong>, Ericsson, Automattic. <a href="https://cepr.org/publications/dp21145" target="_blank" rel="noopener">CEPR DP</a></li>
-    <li><span class="year-style">Jul 2025</span> &mdash; <strong>Integrators and robot adoption</strong>, GEN Workshop. <a href="/assets/pdf/BBCG-Jul2025-slides.pdf" target="_blank" rel="noopener">Slides</a></li>
-  </ul>
 </div>
 
 <div class="content-section">
