@@ -76,8 +76,8 @@
       links:
         - label: "Policy note v0.9 (English)"
           url: "/assets/pdf/bekes-reallocation-research-note-v0.9-2026-11-10.pdf"
-        - label: "Working paper v0.7 (English)"
-          url: "/assets/pdf/bekes-reallocation-krtk-wp-v0.7-2026-10-28.pdf"
+        - label: "Working paper v0.9 (English)"
+          url: "/assets/pdf/bekes-reallocation-krtk-wp-v0.9-2026-11-10.pdf"
         - label: "PDF (magyarul): hamarosan"
           url: ""   # placeholder: add the Hungarian PDF here when ready
   summaries:
