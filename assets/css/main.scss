@@ -230,6 +230,13 @@ h3::after, h4::after, h5::after, h6::after {
   box-shadow: none;
 }
 
+// Larger photo in the desktop sidebar (theme default is 110px)
+@media (min-width: 1024px) {
+  .sidebar .author__avatar img {
+    max-width: 220px;
+  }
+}
+
 .author__content .author__name {
   font-family: 'Fraunces', serif;
   font-size: 1.3rem;
@@ -926,11 +933,11 @@ table {
   gap: 1.4rem;
   align-items: flex-start;
 
-  > a { flex: 0 0 150px; }
+  > a { flex: 0 0 300px; }
 
   img {
     display: block;
-    width: 150px;
+    width: 300px;
     height: auto;
     border: 1px solid var(--wes-hairline);
     box-shadow: 0 2px 8px rgba(44, 62, 80, 0.15);
@@ -939,7 +946,7 @@ table {
   p:first-child { margin-top: 0; }
 }
 
-@media (max-width: 480px) {
+@media (max-width: 640px) {
   .book-feature { flex-direction: column; }
 }
 
